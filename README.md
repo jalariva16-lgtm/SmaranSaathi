@@ -24,7 +24,7 @@ Run both backend (port 3001) and frontend (port 5173) with a single command:
 ```bash
 npm run dev
 ```
-Open your browser at [https://smaransathis.netlify.app/?utm_source=chatgpt.com]([url](https://smaransathis.netlify.app/?utm_source=chatgpt.com))
+Open your browser at [https://smaransathis.netlify.app/?utm_source=chatgpt.com](https://smaransathis.netlify.app/?utm_source=chatgpt.com)
 
 ---
 

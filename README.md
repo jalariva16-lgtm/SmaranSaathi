@@ -6,6 +6,12 @@ SmaranSaathi is a persistent-memory customer support agent powered by **Hindsigh
 
 ---
 
+## 🏛️ System Architecture
+
+![SmaranSaathi — System Architecture](docs/system-architecture.png)
+
+---
+
 ## 🌟 Key Architecture & Separation of Concerns
 
 | Layer | Responsibility | Storage |

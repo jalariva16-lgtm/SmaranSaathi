@@ -1,0 +1,5038 @@
+{
+  "customers": [
+    {
+      "id": "cust_1",
+      "name": "Rahul Sharma",
+      "email": "rahul.sharma@apexfintech.io",
+      "company": "Apex FinTech",
+      "accountTier": "Enterprise",
+      "environment": {
+        "os": "macOS Sonoma 14.4",
+        "browser": "Chrome 122.0",
+        "authMethod": "SSO",
+        "paymentMethod": "Corporate Visa ending in 4092"
+      },
+      "createdAt": "2025-11-12T10:00:00Z"
+    },
+    {
+      "id": "cust_2",
+      "name": "Priya Mehta",
+      "email": "priya.mehta@cloudscale.net",
+      "company": "CloudScale Dynamics",
+      "accountTier": "Pro",
+      "environment": {
+        "os": "Windows 11 Pro",
+        "browser": "Edge 121.0",
+        "authMethod": "Password",
+        "paymentMethod": "Mastercard ending in 8812"
+      },
+      "createdAt": "2025-12-01T14:30:00Z"
+    },
+    {
+      "id": "cust_3",
+      "name": "Arjun Rao",
+      "email": "arjun.rao@hyperwave.ai",
+      "company": "HyperWave AI",
+      "accountTier": "Enterprise",
+      "environment": {
+        "os": "Ubuntu 24.04 LTS",
+        "browser": "Firefox 124.0",
+        "authMethod": "Google OAuth",
+        "paymentMethod": "Amex Business ending in 1004"
+      },
+      "createdAt": "2025-10-18T09:15:00Z"
+    },
+    {
+      "id": "cust_4",
+      "name": "Ananya Patel",
+      "email": "ananya.p@zenithmedia.com",
+      "company": "Zenith Media Labs",
+      "accountTier": "Pro",
+      "environment": {
+        "os": "macOS Ventura 13.6",
+        "browser": "Safari 17.2",
+        "authMethod": "SSO",
+        "paymentMethod": "Visa ending in 3319"
+      },
+      "createdAt": "2026-01-05T11:45:00Z"
+    },
+    {
+      "id": "cust_5",
+      "name": "Vikram Singh",
+      "email": "vikram.singh@solarislogistics.in",
+      "company": "Solaris Global Logistics",
+      "accountTier": "Starter",
+      "environment": {
+        "os": "Windows 10 Enterprise",
+        "browser": "Chrome 120.0",
+        "authMethod": "Password",
+        "paymentMethod": "Corporate Mastercard ending in 7701"
+      },
+      "createdAt": "2026-02-14T16:20:00Z"
+    },
+    {
+      "id": "cust_6",
+      "name": "Sneha Reddy",
+      "email": "sneha.reddy@biocorehealth.com",
+      "company": "BioCore Health Systems",
+      "accountTier": "Enterprise",
+      "environment": {
+        "os": "macOS Sonoma 14.2",
+        "browser": "Chrome 123.0",
+        "authMethod": "SSO",
+        "paymentMethod": "Corporate Visa ending in 9123"
+      },
+      "createdAt": "2025-09-10T08:00:00Z"
+    },
+    {
+      "id": "cust_7",
+      "name": "Rohan Gupta",
+      "email": "rohan@quantumecom.org",
+      "company": "Quantum eCommerce",
+      "accountTier": "Pro",
+      "environment": {
+        "os": "Windows 11 Home",
+        "browser": "Chrome 122.0",
+        "authMethod": "Google OAuth",
+        "paymentMethod": "Visa ending in 4421"
+      },
+      "createdAt": "2025-11-28T13:10:00Z"
+    },
+    {
+      "id": "cust_8",
+      "name": "Kavita Nair",
+      "email": "kavita.nair@veritaslegal.in",
+      "company": "Veritas Legal Partners",
+      "accountTier": "Enterprise",
+      "environment": {
+        "os": "Windows 11 Pro",
+        "browser": "Edge 122.0",
+        "authMethod": "SSO",
+        "paymentMethod": "Amex ending in 6654"
+      },
+      "createdAt": "2025-10-04T15:40:00Z"
+    },
+    {
+      "id": "cust_9",
+      "name": "Siddharth Verma",
+      "email": "sid.verma@novapulse.io",
+      "company": "NovaPulse Software",
+      "accountTier": "Pro",
+      "environment": {
+        "os": "Fedora 39",
+        "browser": "Firefox 123.0",
+        "authMethod": "Password",
+        "paymentMethod": "Mastercard ending in 2190"
+      },
+      "createdAt": "2026-01-20T10:05:00Z"
+    },
+    {
+      "id": "cust_10",
+      "name": "Meera Joshi",
+      "email": "meera.joshi@crestviewedtech.com",
+      "company": "Crestview EdTech",
+      "accountTier": "Starter",
+      "environment": {
+        "os": "macOS Sonoma 14.3",
+        "browser": "Safari 17.3",
+        "authMethod": "Google OAuth",
+        "paymentMethod": "Visa ending in 8802"
+      },
+      "createdAt": "2026-02-02T12:00:00Z"
+    },
+    {
+      "id": "cust_11",
+      "name": "Amit Shah",
+      "email": "amit.shah@stratusinfra.com",
+      "company": "Stratus Cloud Infra",
+      "accountTier": "Enterprise",
+      "environment": {
+        "os": "Ubuntu 22.04 LTS",
+        "browser": "Chrome 121.0",
+        "authMethod": "SSO",
+        "paymentMethod": "Corporate Visa ending in 5543"
+      },
+      "createdAt": "2025-08-19T09:30:00Z"
+    },
+    {
+      "id": "cust_12",
+      "name": "Ritu Desai",
+      "email": "ritu.desai@luminaanalytics.co",
+      "company": "Lumina Analytics",
+      "accountTier": "Pro",
+      "environment": {
+        "os": "macOS Sequoia 15.0",
+        "browser": "Chrome 124.0",
+        "authMethod": "SSO",
+        "paymentMethod": "Mastercard ending in 3311"
+      },
+      "createdAt": "2025-12-15T11:25:00Z"
+    },
+    {
+      "id": "cust_13",
+      "name": "Dev Mukherjee",
+      "email": "dev.m@synthetixgames.com",
+      "company": "Synthetix Game Studios",
+      "accountTier": "Pro",
+      "environment": {
+        "os": "Windows 11 Pro",
+        "browser": "Brave 1.63",
+        "authMethod": "Password",
+        "paymentMethod": "Visa ending in 9076"
+      },
+      "createdAt": "2026-01-11T14:50:00Z"
+    },
+    {
+      "id": "cust_14",
+      "name": "Pooja Iyer",
+      "email": "pooja.iyer@orbitpay.in",
+      "company": "OrbitPay Solutions",
+      "accountTier": "Enterprise",
+      "environment": {
+        "os": "macOS Ventura 13.5",
+        "browser": "Safari 17.0",
+        "authMethod": "SSO",
+        "paymentMethod": "Amex ending in 4108"
+      },
+      "createdAt": "2025-11-05T17:15:00Z"
+    },
+    {
+      "id": "cust_15",
+      "name": "Aditya Kulkarni",
+      "email": "aditya.k@metrisecurity.io",
+      "company": "MetriSecurity Labs",
+      "accountTier": "Enterprise",
+      "environment": {
+        "os": "Arch Linux",
+        "browser": "Firefox 125.0",
+        "authMethod": "SSO",
+        "paymentMethod": "Corporate Visa ending in 7112"
+      },
+      "createdAt": "2025-09-30T13:45:00Z"
+    },
+    {
+      "id": "cust_16",
+      "name": "Divya Malhotra",
+      "email": "divya@aegisinsights.com",
+      "company": "Aegis Market Insights",
+      "accountTier": "Pro",
+      "environment": {
+        "os": "Windows 11 Pro",
+        "browser": "Edge 123.0",
+        "authMethod": "Password",
+        "paymentMethod": "Mastercard ending in 6609"
+      },
+      "createdAt": "2026-02-18T10:10:00Z"
+    },
+    {
+      "id": "cust_17",
+      "name": "Harsh Choudhury",
+      "email": "harsh.c@vectorfleet.co",
+      "company": "VectorFleet Telematics",
+      "accountTier": "Starter",
+      "environment": {
+        "os": "macOS Monterey 12.7",
+        "browser": "Chrome 120.0",
+        "authMethod": "Password",
+        "paymentMethod": "Visa ending in 1993"
+      },
+      "createdAt": "2026-03-01T15:00:00Z"
+    },
+    {
+      "id": "cust_18",
+      "name": "Neha Bhat",
+      "email": "neha.bhat@prismadesign.studio",
+      "company": "Prisma Design Studio",
+      "accountTier": "Pro",
+      "environment": {
+        "os": "macOS Sonoma 14.1",
+        "browser": "Chrome 122.0",
+        "authMethod": "Google OAuth",
+        "paymentMethod": "Amex ending in 3820"
+      },
+      "createdAt": "2025-12-22T09:00:00Z"
+    },
+    {
+      "id": "cust_19",
+      "name": "Gaurav Agarwal",
+      "email": "gaurav@nexushub.cloud",
+      "company": "NexusHub Cloud Services",
+      "accountTier": "Enterprise",
+      "environment": {
+        "os": "Windows 11 Enterprise",
+        "browser": "Chrome 123.0",
+        "authMethod": "SSO",
+        "paymentMethod": "Corporate Visa ending in 8440"
+      },
+      "createdAt": "2025-10-12T16:35:00Z"
+    },
+    {
+      "id": "cust_20",
+      "name": "Shreya Sen",
+      "email": "shreya.sen@omnicare.org",
+      "company": "OmniCare Telehealth",
+      "accountTier": "Enterprise",
+      "environment": {
+        "os": "macOS Sonoma 14.4",
+        "browser": "Safari 17.4",
+        "authMethod": "SSO",
+        "paymentMethod": "Corporate Mastercard ending in 5122"
+      },
+      "createdAt": "2025-11-19T11:20:00Z"
+    }
+  ],
+  "tickets": [
+    {
+      "customerId": "cust_14",
+      "issueType": "Account Config",
+      "subject": "What is the SLA for enterprise ticket responses?",
+      "status": "in_progress",
+      "id": "TICK-6895",
+      "createdAt": "2026-09-28T06:19:56.895Z"
+    },
+    {
+      "customerId": "cust_5",
+      "issueType": "Account Config",
+      "subject": "Hello, how do I configure user roles for our logistics team?",
+      "status": "in_progress",
+      "id": "TICK-6769",
+      "createdAt": "2026-09-28T06:19:56.769Z"
+    },
+    {
+      "customerId": "cust_1",
+      "issueType": "Payment",
+      "subject": "New inquiry: card failure on renewal",
+      "status": "open",
+      "id": "TICK-6657",
+      "createdAt": "2026-09-28T06:19:56.657Z"
+    },
+    {
+      "customerId": "cust_1",
+      "issueType": "Payment",
+      "subject": "Payment failure during monthly subscription invoice checkout",
+      "status": "resolved",
+      "id": "TICK-6513",
+      "createdAt": "2026-09-28T06:19:56.513Z",
+      "resolvedAt": "2026-09-28T06:19:56.615Z",
+      "resolutionSummary": "Billing address updated to 402 Lakeview Blvd matching bank statement. Payment cleared successfully."
+    },
+    {
+      "id": "PAY-104",
+      "customerId": "cust_1",
+      "issueType": "Payment",
+      "subject": "Payment failing repeatedly at invoice checkout",
+      "status": "resolved",
+      "createdAt": "2026-03-10T14:20:00Z",
+      "resolvedAt": "2026-03-10T15:05:00Z",
+      "resolutionSummary": "Billing address needed to be corrected. The ZIP code in profile did not match the bank issuing address. Once updated, the charge processed successfully."
+    },
+    {
+      "id": "PREF-201",
+      "customerId": "cust_1",
+      "issueType": "Account Config",
+      "subject": "Customer communication preference: step-by-step instructions",
+      "status": "resolved",
+      "createdAt": "2026-03-15T09:10:00Z",
+      "resolvedAt": "2026-03-15T09:30:00Z",
+      "resolutionSummary": "Customer explicitly expressed preference: \"Please give me instructions one step at a time.\" Agent adapted responses to sequential single-action steps."
+    },
+    {
+      "id": "PAY-105",
+      "customerId": "cust_1",
+      "issueType": "Payment",
+      "subject": "Recurring payment failure on subscription renewal attempt",
+      "status": "in_progress",
+      "createdAt": "2026-03-24T11:15:00Z"
+    },
+    {
+      "id": "LOG-101",
+      "customerId": "cust_2",
+      "issueType": "Login/MFA",
+      "subject": "MFA prompt loop after mobile device replacement",
+      "status": "resolved",
+      "createdAt": "2026-09-25T01:31:56.457Z",
+      "resolvedAt": "2026-09-25T02:12:56.457Z",
+      "resolutionSummary": "Reset TOTP seed and generated temporary single-use backup codes for device re-enrollment."
+    },
+    {
+      "id": "DAS-102",
+      "customerId": "cust_2",
+      "issueType": "Dashboard",
+      "subject": "Real-time metrics graph freezing after 10 minutes of activity",
+      "status": "resolved",
+      "createdAt": "2026-09-25T20:43:56.457Z",
+      "resolvedAt": "2026-09-25T21:25:56.457Z",
+      "resolutionSummary": "Optimized client-side date range filter to paginate records in 5,000 item chunks."
+    },
+    {
+      "id": "SSO-103",
+      "customerId": "cust_2",
+      "issueType": "SSO",
+      "subject": "Google Workspace SAML redirect loop on login",
+      "status": "resolved",
+      "createdAt": "2026-09-26T15:55:56.457Z",
+      "resolvedAt": "2026-09-26T16:38:56.457Z",
+      "resolutionSummary": "Adjusted RelayState parameter to direct users to default enterprise dashboard."
+    },
+    {
+      "id": "ACC-104",
+      "customerId": "cust_2",
+      "issueType": "Account Config",
+      "subject": "Custom domain CNAME DNS verification stuck on pending",
+      "status": "resolved",
+      "createdAt": "2026-09-27T11:07:56.457Z",
+      "resolvedAt": "2026-09-27T11:51:56.457Z",
+      "resolutionSummary": "Added missing CAA DNS record to allow Let’s Encrypt automated certificate issuance."
+    },
+    {
+      "id": "PAY-105",
+      "customerId": "cust_2",
+      "issueType": "Payment",
+      "subject": "Payment failure: Error code ERR_BILLING_ZIP_MISMATCH",
+      "status": "resolved",
+      "createdAt": "2026-09-28T06:19:56.457Z",
+      "resolvedAt": "2026-09-28T07:04:56.457Z",
+      "resolutionSummary": "Billing address updated to headquarters address, allowing charge to complete immediately."
+    },
+    {
+      "id": "LOG-106",
+      "customerId": "cust_2",
+      "issueType": "Login/MFA",
+      "subject": "MFA prompt loop after mobile device replacement",
+      "status": "resolved",
+      "createdAt": "2026-09-29T01:31:56.457Z",
+      "resolvedAt": "2026-09-29T02:17:56.457Z",
+      "resolutionSummary": "Reset TOTP seed and generated temporary single-use backup codes for device re-enrollment."
+    },
+    {
+      "id": "DAS-107",
+      "customerId": "cust_3",
+      "issueType": "Dashboard",
+      "subject": "Dashboard analytics widget failing to render on Chrome",
+      "status": "resolved",
+      "createdAt": "2026-09-29T20:43:56.457Z",
+      "resolvedAt": "2026-09-29T21:30:56.457Z",
+      "resolutionSummary": "Disabled ad-blocker script filter that was intercepting internal analytics websocket endpoints."
+    },
+    {
+      "id": "SSO-108",
+      "customerId": "cust_3",
+      "issueType": "SSO",
+      "subject": "Azure AD SCIM user provisioning not deactivating departed members",
+      "status": "resolved",
+      "createdAt": "2026-09-30T15:55:56.457Z",
+      "resolvedAt": "2026-09-30T16:43:56.457Z",
+      "resolutionSummary": "Synced Azure AD SCIM bearer token and verified group mapping schema."
+    },
+    {
+      "id": "ACC-109",
+      "customerId": "cust_3",
+      "issueType": "Account Config",
+      "subject": "Preference: requires step-by-step sequential guidance",
+      "status": "resolved",
+      "createdAt": "2026-10-01T11:07:56.457Z",
+      "resolvedAt": "2026-10-01T11:56:56.457Z",
+      "resolutionSummary": "Customer noted preference for one instruction at a time without overwhelming technical jargon."
+    },
+    {
+      "id": "PAY-110",
+      "customerId": "cust_3",
+      "issueType": "Payment",
+      "subject": "Unable to update corporate billing credit card",
+      "status": "resolved",
+      "createdAt": "2026-10-02T06:19:56.457Z",
+      "resolvedAt": "2026-10-02T07:09:56.457Z",
+      "resolutionSummary": "Customer cleared expired billing profile token and re-authorized payment method successfully."
+    },
+    {
+      "id": "LOG-111",
+      "customerId": "cust_3",
+      "issueType": "Login/MFA",
+      "subject": "Session revoked repeatedly every 15 minutes",
+      "status": "resolved",
+      "createdAt": "2026-10-03T01:31:56.457Z",
+      "resolvedAt": "2026-10-03T02:22:56.457Z",
+      "resolutionSummary": "Cleared cached session cookies and updated enterprise SSO token lifespan."
+    },
+    {
+      "id": "DAS-112",
+      "customerId": "cust_3",
+      "issueType": "Dashboard",
+      "subject": "Dashboard analytics widget failing to render on Chrome",
+      "status": "resolved",
+      "createdAt": "2026-10-03T20:43:56.457Z",
+      "resolvedAt": "2026-10-03T21:35:56.457Z",
+      "resolutionSummary": "Disabled ad-blocker script filter that was intercepting internal analytics websocket endpoints."
+    },
+    {
+      "id": "SSO-113",
+      "customerId": "cust_4",
+      "issueType": "SSO",
+      "subject": "Okta SAML 2.0 assertion signature validation failure",
+      "status": "in_progress",
+      "createdAt": "2026-10-04T15:55:56.457Z"
+    },
+    {
+      "id": "ACC-114",
+      "customerId": "cust_4",
+      "issueType": "Account Config",
+      "subject": "API rate limit configuration for staging environment",
+      "status": "resolved",
+      "createdAt": "2026-10-05T11:07:56.457Z",
+      "resolvedAt": "2026-10-05T12:01:56.457Z",
+      "resolutionSummary": "Temporarily boosted staging rate limit from 100 req/s to 500 req/s for performance testing."
+    },
+    {
+      "id": "PAY-115",
+      "customerId": "cust_4",
+      "issueType": "Payment",
+      "subject": "Stripe 3D-Secure authentication failure on card ending in 4092",
+      "status": "resolved",
+      "createdAt": "2026-10-06T06:19:56.457Z",
+      "resolvedAt": "2026-10-06T07:14:56.457Z",
+      "resolutionSummary": "Switched payment gateway method to secondary corporate card."
+    },
+    {
+      "id": "LOG-116",
+      "customerId": "cust_4",
+      "issueType": "Login/MFA",
+      "subject": "Unable to receive SMS verification backup code",
+      "status": "resolved",
+      "createdAt": "2026-10-07T01:31:56.457Z",
+      "resolvedAt": "2026-10-07T02:27:56.457Z",
+      "resolutionSummary": "Reconfigured MFA fallback method to corporate email authorization."
+    },
+    {
+      "id": "DAS-117",
+      "customerId": "cust_4",
+      "issueType": "Dashboard",
+      "subject": "White screen on Dashboard navigation under macOS Safari",
+      "status": "resolved",
+      "createdAt": "2026-10-07T20:43:56.457Z",
+      "resolvedAt": "2026-10-07T21:40:56.457Z",
+      "resolutionSummary": "Cleared indexedDB client cache to reset corrupted local state."
+    },
+    {
+      "id": "SSO-118",
+      "customerId": "cust_4",
+      "issueType": "SSO",
+      "subject": "Okta SAML 2.0 assertion signature validation failure",
+      "status": "resolved",
+      "createdAt": "2026-10-08T15:55:56.457Z",
+      "resolvedAt": "2026-10-08T16:53:56.457Z",
+      "resolutionSummary": "Regenerated X.509 signing certificate in identity provider and updated ACS URL metadata."
+    },
+    {
+      "id": "ACC-119",
+      "customerId": "cust_6",
+      "issueType": "Account Config",
+      "subject": "Webhook delivery endpoint failing with HTTP 410",
+      "status": "resolved",
+      "createdAt": "2026-10-09T11:07:56.457Z",
+      "resolvedAt": "2026-10-09T12:06:56.457Z",
+      "resolutionSummary": "Customer re-registered webhook listener with updated HTTPS endpoint and valid HMAC secret."
+    },
+    {
+      "id": "PAY-120",
+      "customerId": "cust_6",
+      "issueType": "Payment",
+      "subject": "Credit card declined for automated monthly renewal",
+      "status": "open",
+      "createdAt": "2026-10-10T06:19:56.457Z"
+    },
+    {
+      "id": "LOG-121",
+      "customerId": "cust_6",
+      "issueType": "Login/MFA",
+      "subject": "Hardware security key WebAuthn timeout on Safari",
+      "status": "resolved",
+      "createdAt": "2026-10-11T01:31:56.457Z",
+      "resolvedAt": "2026-10-11T01:52:56.457Z",
+      "resolutionSummary": "Updated browser security token permissions in Safari settings."
+    },
+    {
+      "id": "DAS-122",
+      "customerId": "cust_6",
+      "issueType": "Dashboard",
+      "subject": "CSV export of monthly audit logs timing out at 50,000 rows",
+      "status": "resolved",
+      "createdAt": "2026-10-11T20:43:56.457Z",
+      "resolvedAt": "2026-10-11T21:05:56.457Z",
+      "resolutionSummary": "Scheduled asynchronous background export job with S3 download link sent via email."
+    },
+    {
+      "id": "SSO-123",
+      "customerId": "cust_6",
+      "issueType": "SSO",
+      "subject": "Certificate expiration warning on SAML single sign-on metadata",
+      "status": "resolved",
+      "createdAt": "2026-10-12T15:55:56.457Z",
+      "resolvedAt": "2026-10-12T16:18:56.457Z",
+      "resolutionSummary": "Rotated SAML certificate before expiration, zero customer downtime."
+    },
+    {
+      "id": "ACC-124",
+      "customerId": "cust_6",
+      "issueType": "Account Config",
+      "subject": "Webhook delivery endpoint failing with HTTP 410",
+      "status": "resolved",
+      "createdAt": "2026-10-13T11:07:56.457Z",
+      "resolvedAt": "2026-10-13T11:31:56.457Z",
+      "resolutionSummary": "Customer re-registered webhook listener with updated HTTPS endpoint and valid HMAC secret."
+    },
+    {
+      "id": "PAY-125",
+      "customerId": "cust_7",
+      "issueType": "Payment",
+      "subject": "Payment failure during invoice settlement",
+      "status": "resolved",
+      "createdAt": "2026-10-14T06:19:56.457Z",
+      "resolvedAt": "2026-10-14T06:44:56.457Z",
+      "resolutionSummary": "Billing address ZIP code mismatch resolved after customer aligned profile address with issuing bank record."
+    },
+    {
+      "id": "LOG-126",
+      "customerId": "cust_7",
+      "issueType": "Login/MFA",
+      "subject": "Authenticator app time-drift causing invalid code errors",
+      "status": "resolved",
+      "createdAt": "2026-10-15T01:31:56.457Z",
+      "resolvedAt": "2026-10-15T01:57:56.457Z",
+      "resolutionSummary": "Advised customer to sync device clock in Authenticator settings, which restored code synchronization."
+    },
+    {
+      "id": "DAS-127",
+      "customerId": "cust_7",
+      "issueType": "Dashboard",
+      "subject": "High latency loading customer transaction overview table",
+      "status": "resolved",
+      "createdAt": "2026-10-15T20:43:56.458Z",
+      "resolvedAt": "2026-10-15T21:10:56.458Z",
+      "resolutionSummary": "Advised hardware acceleration toggle in browser settings which resolved WebGL canvas freeze."
+    },
+    {
+      "id": "SSO-128",
+      "customerId": "cust_7",
+      "issueType": "SSO",
+      "subject": "Entity ID mismatch on custom IdP configuration",
+      "status": "resolved",
+      "createdAt": "2026-10-16T15:55:56.458Z",
+      "resolvedAt": "2026-10-16T16:23:56.458Z",
+      "resolutionSummary": "Corrected Entity ID URI from tenant subdomain to root domain."
+    },
+    {
+      "id": "ACC-129",
+      "customerId": "cust_7",
+      "issueType": "Account Config",
+      "subject": "Role-based access control permission inheritance issue",
+      "status": "resolved",
+      "createdAt": "2026-10-17T11:07:56.458Z",
+      "resolvedAt": "2026-10-17T11:36:56.458Z",
+      "resolutionSummary": "Assigned custom auditor role with read-only permissions across all tenant workspaces."
+    },
+    {
+      "id": "PAY-130",
+      "customerId": "cust_7",
+      "issueType": "Payment",
+      "subject": "Payment failure during invoice settlement",
+      "status": "resolved",
+      "createdAt": "2026-10-18T06:19:56.458Z",
+      "resolvedAt": "2026-10-18T06:49:56.458Z",
+      "resolutionSummary": "Billing address ZIP code mismatch resolved after customer aligned profile address with issuing bank record."
+    },
+    {
+      "id": "LOG-131",
+      "customerId": "cust_8",
+      "issueType": "Login/MFA",
+      "subject": "MFA prompt loop after mobile device replacement",
+      "status": "in_progress",
+      "createdAt": "2026-10-19T01:31:56.458Z"
+    },
+    {
+      "id": "DAS-132",
+      "customerId": "cust_8",
+      "issueType": "Dashboard",
+      "subject": "Real-time metrics graph freezing after 10 minutes of activity",
+      "status": "resolved",
+      "createdAt": "2026-10-19T20:43:56.458Z",
+      "resolvedAt": "2026-10-19T21:15:56.458Z",
+      "resolutionSummary": "Optimized client-side date range filter to paginate records in 5,000 item chunks."
+    },
+    {
+      "id": "SSO-133",
+      "customerId": "cust_8",
+      "issueType": "SSO",
+      "subject": "Google Workspace SAML redirect loop on login",
+      "status": "resolved",
+      "createdAt": "2026-10-20T15:55:56.458Z",
+      "resolvedAt": "2026-10-20T16:28:56.458Z",
+      "resolutionSummary": "Adjusted RelayState parameter to direct users to default enterprise dashboard."
+    },
+    {
+      "id": "ACC-134",
+      "customerId": "cust_8",
+      "issueType": "Account Config",
+      "subject": "Custom domain CNAME DNS verification stuck on pending",
+      "status": "resolved",
+      "createdAt": "2026-10-21T11:07:56.458Z",
+      "resolvedAt": "2026-10-21T11:41:56.458Z",
+      "resolutionSummary": "Added missing CAA DNS record to allow Let’s Encrypt automated certificate issuance."
+    },
+    {
+      "id": "PAY-135",
+      "customerId": "cust_8",
+      "issueType": "Payment",
+      "subject": "Payment failure: Error code ERR_BILLING_ZIP_MISMATCH",
+      "status": "resolved",
+      "createdAt": "2026-10-22T06:19:56.458Z",
+      "resolvedAt": "2026-10-22T06:54:56.458Z",
+      "resolutionSummary": "Billing address updated to headquarters address, allowing charge to complete immediately."
+    },
+    {
+      "id": "LOG-136",
+      "customerId": "cust_8",
+      "issueType": "Login/MFA",
+      "subject": "MFA prompt loop after mobile device replacement",
+      "status": "resolved",
+      "createdAt": "2026-10-23T01:31:56.458Z",
+      "resolvedAt": "2026-10-23T02:07:56.458Z",
+      "resolutionSummary": "Reset TOTP seed and generated temporary single-use backup codes for device re-enrollment."
+    },
+    {
+      "id": "DAS-137",
+      "customerId": "cust_9",
+      "issueType": "Dashboard",
+      "subject": "Dashboard analytics widget failing to render on Chrome",
+      "status": "resolved",
+      "createdAt": "2026-10-23T20:43:56.458Z",
+      "resolvedAt": "2026-10-23T21:20:56.458Z",
+      "resolutionSummary": "Disabled ad-blocker script filter that was intercepting internal analytics websocket endpoints."
+    },
+    {
+      "id": "SSO-138",
+      "customerId": "cust_9",
+      "issueType": "SSO",
+      "subject": "Azure AD SCIM user provisioning not deactivating departed members",
+      "status": "resolved",
+      "createdAt": "2026-10-24T15:55:56.458Z",
+      "resolvedAt": "2026-10-24T16:33:56.458Z",
+      "resolutionSummary": "Synced Azure AD SCIM bearer token and verified group mapping schema."
+    },
+    {
+      "id": "ACC-139",
+      "customerId": "cust_9",
+      "issueType": "Account Config",
+      "subject": "Preference: requires step-by-step sequential guidance",
+      "status": "resolved",
+      "createdAt": "2026-10-25T11:07:56.458Z",
+      "resolvedAt": "2026-10-25T11:46:56.458Z",
+      "resolutionSummary": "Customer noted preference for one instruction at a time without overwhelming technical jargon."
+    },
+    {
+      "id": "PAY-140",
+      "customerId": "cust_9",
+      "issueType": "Payment",
+      "subject": "Unable to update corporate billing credit card",
+      "status": "resolved",
+      "createdAt": "2026-10-26T06:19:56.458Z",
+      "resolvedAt": "2026-10-26T06:59:56.458Z",
+      "resolutionSummary": "Customer cleared expired billing profile token and re-authorized payment method successfully."
+    },
+    {
+      "id": "LOG-141",
+      "customerId": "cust_9",
+      "issueType": "Login/MFA",
+      "subject": "Session revoked repeatedly every 15 minutes",
+      "status": "resolved",
+      "createdAt": "2026-10-27T01:31:56.458Z",
+      "resolvedAt": "2026-10-27T02:12:56.458Z",
+      "resolutionSummary": "Cleared cached session cookies and updated enterprise SSO token lifespan."
+    },
+    {
+      "id": "DAS-142",
+      "customerId": "cust_9",
+      "issueType": "Dashboard",
+      "subject": "Dashboard analytics widget failing to render on Chrome",
+      "status": "resolved",
+      "createdAt": "2026-10-27T20:43:56.458Z",
+      "resolvedAt": "2026-10-27T21:25:56.458Z",
+      "resolutionSummary": "Disabled ad-blocker script filter that was intercepting internal analytics websocket endpoints."
+    },
+    {
+      "id": "SSO-143",
+      "customerId": "cust_10",
+      "issueType": "SSO",
+      "subject": "Okta SAML 2.0 assertion signature validation failure",
+      "status": "resolved",
+      "createdAt": "2026-10-28T15:55:56.458Z",
+      "resolvedAt": "2026-10-28T16:38:56.458Z",
+      "resolutionSummary": "Regenerated X.509 signing certificate in identity provider and updated ACS URL metadata."
+    },
+    {
+      "id": "ACC-144",
+      "customerId": "cust_10",
+      "issueType": "Account Config",
+      "subject": "API rate limit configuration for staging environment",
+      "status": "open",
+      "createdAt": "2026-10-29T11:07:56.458Z"
+    },
+    {
+      "id": "PAY-145",
+      "customerId": "cust_10",
+      "issueType": "Payment",
+      "subject": "Stripe 3D-Secure authentication failure on card ending in 4092",
+      "status": "resolved",
+      "createdAt": "2026-10-30T06:19:56.458Z",
+      "resolvedAt": "2026-10-30T07:04:56.458Z",
+      "resolutionSummary": "Switched payment gateway method to secondary corporate card."
+    },
+    {
+      "id": "LOG-146",
+      "customerId": "cust_10",
+      "issueType": "Login/MFA",
+      "subject": "Unable to receive SMS verification backup code",
+      "status": "resolved",
+      "createdAt": "2026-10-31T01:31:56.458Z",
+      "resolvedAt": "2026-10-31T02:17:56.458Z",
+      "resolutionSummary": "Reconfigured MFA fallback method to corporate email authorization."
+    },
+    {
+      "id": "DAS-147",
+      "customerId": "cust_10",
+      "issueType": "Dashboard",
+      "subject": "White screen on Dashboard navigation under macOS Safari",
+      "status": "resolved",
+      "createdAt": "2026-10-31T20:43:56.458Z",
+      "resolvedAt": "2026-10-31T21:30:56.458Z",
+      "resolutionSummary": "Cleared indexedDB client cache to reset corrupted local state."
+    },
+    {
+      "id": "SSO-148",
+      "customerId": "cust_10",
+      "issueType": "SSO",
+      "subject": "Okta SAML 2.0 assertion signature validation failure",
+      "status": "resolved",
+      "createdAt": "2026-11-01T15:55:56.458Z",
+      "resolvedAt": "2026-11-01T16:43:56.458Z",
+      "resolutionSummary": "Regenerated X.509 signing certificate in identity provider and updated ACS URL metadata."
+    },
+    {
+      "id": "ACC-149",
+      "customerId": "cust_11",
+      "issueType": "Account Config",
+      "subject": "Webhook delivery endpoint failing with HTTP 410",
+      "status": "in_progress",
+      "createdAt": "2026-11-02T11:07:56.458Z"
+    },
+    {
+      "id": "PAY-150",
+      "customerId": "cust_11",
+      "issueType": "Payment",
+      "subject": "Credit card declined for automated monthly renewal",
+      "status": "resolved",
+      "createdAt": "2026-11-03T06:19:56.458Z",
+      "resolvedAt": "2026-11-03T07:09:56.458Z",
+      "resolutionSummary": "Customer bank had flagged international transaction; cleared after customer approved fraud alert."
+    },
+    {
+      "id": "LOG-151",
+      "customerId": "cust_11",
+      "issueType": "Login/MFA",
+      "subject": "Hardware security key WebAuthn timeout on Safari",
+      "status": "resolved",
+      "createdAt": "2026-11-04T01:31:56.458Z",
+      "resolvedAt": "2026-11-04T02:22:56.458Z",
+      "resolutionSummary": "Updated browser security token permissions in Safari settings."
+    },
+    {
+      "id": "DAS-152",
+      "customerId": "cust_11",
+      "issueType": "Dashboard",
+      "subject": "CSV export of monthly audit logs timing out at 50,000 rows",
+      "status": "resolved",
+      "createdAt": "2026-11-04T20:43:56.458Z",
+      "resolvedAt": "2026-11-04T21:35:56.458Z",
+      "resolutionSummary": "Scheduled asynchronous background export job with S3 download link sent via email."
+    },
+    {
+      "id": "SSO-153",
+      "customerId": "cust_11",
+      "issueType": "SSO",
+      "subject": "Certificate expiration warning on SAML single sign-on metadata",
+      "status": "resolved",
+      "createdAt": "2026-11-05T15:55:56.458Z",
+      "resolvedAt": "2026-11-05T16:48:56.458Z",
+      "resolutionSummary": "Rotated SAML certificate before expiration, zero customer downtime."
+    },
+    {
+      "id": "ACC-154",
+      "customerId": "cust_11",
+      "issueType": "Account Config",
+      "subject": "Webhook delivery endpoint failing with HTTP 410",
+      "status": "resolved",
+      "createdAt": "2026-11-06T11:07:56.458Z",
+      "resolvedAt": "2026-11-06T12:01:56.458Z",
+      "resolutionSummary": "Customer re-registered webhook listener with updated HTTPS endpoint and valid HMAC secret."
+    },
+    {
+      "id": "PAY-155",
+      "customerId": "cust_12",
+      "issueType": "Payment",
+      "subject": "Payment failure during invoice settlement",
+      "status": "resolved",
+      "createdAt": "2026-11-07T06:19:56.458Z",
+      "resolvedAt": "2026-11-07T07:14:56.458Z",
+      "resolutionSummary": "Billing address ZIP code mismatch resolved after customer aligned profile address with issuing bank record."
+    },
+    {
+      "id": "LOG-156",
+      "customerId": "cust_12",
+      "issueType": "Login/MFA",
+      "subject": "Authenticator app time-drift causing invalid code errors",
+      "status": "resolved",
+      "createdAt": "2026-11-08T01:31:56.458Z",
+      "resolvedAt": "2026-11-08T02:27:56.458Z",
+      "resolutionSummary": "Advised customer to sync device clock in Authenticator settings, which restored code synchronization."
+    },
+    {
+      "id": "DAS-157",
+      "customerId": "cust_12",
+      "issueType": "Dashboard",
+      "subject": "High latency loading customer transaction overview table",
+      "status": "resolved",
+      "createdAt": "2026-11-08T20:43:56.458Z",
+      "resolvedAt": "2026-11-08T21:40:56.458Z",
+      "resolutionSummary": "Advised hardware acceleration toggle in browser settings which resolved WebGL canvas freeze."
+    },
+    {
+      "id": "SSO-158",
+      "customerId": "cust_12",
+      "issueType": "SSO",
+      "subject": "Entity ID mismatch on custom IdP configuration",
+      "status": "resolved",
+      "createdAt": "2026-11-09T15:55:56.458Z",
+      "resolvedAt": "2026-11-09T16:53:56.458Z",
+      "resolutionSummary": "Corrected Entity ID URI from tenant subdomain to root domain."
+    },
+    {
+      "id": "ACC-159",
+      "customerId": "cust_12",
+      "issueType": "Account Config",
+      "subject": "Role-based access control permission inheritance issue",
+      "status": "resolved",
+      "createdAt": "2026-11-10T11:07:56.458Z",
+      "resolvedAt": "2026-11-10T12:06:56.458Z",
+      "resolutionSummary": "Assigned custom auditor role with read-only permissions across all tenant workspaces."
+    },
+    {
+      "id": "PAY-160",
+      "customerId": "cust_12",
+      "issueType": "Payment",
+      "subject": "Payment failure during invoice settlement",
+      "status": "resolved",
+      "createdAt": "2026-11-11T06:19:56.458Z",
+      "resolvedAt": "2026-11-11T06:39:56.458Z",
+      "resolutionSummary": "Billing address ZIP code mismatch resolved after customer aligned profile address with issuing bank record."
+    },
+    {
+      "id": "LOG-161",
+      "customerId": "cust_13",
+      "issueType": "Login/MFA",
+      "subject": "MFA prompt loop after mobile device replacement",
+      "status": "resolved",
+      "createdAt": "2026-11-12T01:31:56.459Z",
+      "resolvedAt": "2026-11-12T01:52:56.459Z",
+      "resolutionSummary": "Reset TOTP seed and generated temporary single-use backup codes for device re-enrollment."
+    },
+    {
+      "id": "DAS-162",
+      "customerId": "cust_13",
+      "issueType": "Dashboard",
+      "subject": "Real-time metrics graph freezing after 10 minutes of activity",
+      "status": "resolved",
+      "createdAt": "2026-11-12T20:43:56.459Z",
+      "resolvedAt": "2026-11-12T21:05:56.459Z",
+      "resolutionSummary": "Optimized client-side date range filter to paginate records in 5,000 item chunks."
+    },
+    {
+      "id": "SSO-163",
+      "customerId": "cust_13",
+      "issueType": "SSO",
+      "subject": "Google Workspace SAML redirect loop on login",
+      "status": "resolved",
+      "createdAt": "2026-11-13T15:55:56.459Z",
+      "resolvedAt": "2026-11-13T16:18:56.459Z",
+      "resolutionSummary": "Adjusted RelayState parameter to direct users to default enterprise dashboard."
+    },
+    {
+      "id": "ACC-164",
+      "customerId": "cust_13",
+      "issueType": "Account Config",
+      "subject": "Custom domain CNAME DNS verification stuck on pending",
+      "status": "resolved",
+      "createdAt": "2026-11-14T11:07:56.459Z",
+      "resolvedAt": "2026-11-14T11:31:56.459Z",
+      "resolutionSummary": "Added missing CAA DNS record to allow Let’s Encrypt automated certificate issuance."
+    },
+    {
+      "id": "PAY-165",
+      "customerId": "cust_13",
+      "issueType": "Payment",
+      "subject": "Payment failure: Error code ERR_BILLING_ZIP_MISMATCH",
+      "status": "resolved",
+      "createdAt": "2026-11-15T06:19:56.459Z",
+      "resolvedAt": "2026-11-15T06:44:56.459Z",
+      "resolutionSummary": "Billing address updated to headquarters address, allowing charge to complete immediately."
+    },
+    {
+      "id": "LOG-166",
+      "customerId": "cust_13",
+      "issueType": "Login/MFA",
+      "subject": "MFA prompt loop after mobile device replacement",
+      "status": "resolved",
+      "createdAt": "2026-11-16T01:31:56.459Z",
+      "resolvedAt": "2026-11-16T01:57:56.459Z",
+      "resolutionSummary": "Reset TOTP seed and generated temporary single-use backup codes for device re-enrollment."
+    },
+    {
+      "id": "DAS-167",
+      "customerId": "cust_15",
+      "issueType": "Dashboard",
+      "subject": "Dashboard analytics widget failing to render on Chrome",
+      "status": "in_progress",
+      "createdAt": "2026-11-16T20:43:56.459Z"
+    },
+    {
+      "id": "SSO-168",
+      "customerId": "cust_15",
+      "issueType": "SSO",
+      "subject": "Azure AD SCIM user provisioning not deactivating departed members",
+      "status": "open",
+      "createdAt": "2026-11-17T15:55:56.459Z"
+    },
+    {
+      "id": "ACC-169",
+      "customerId": "cust_15",
+      "issueType": "Account Config",
+      "subject": "Preference: requires step-by-step sequential guidance",
+      "status": "resolved",
+      "createdAt": "2026-11-18T11:07:56.459Z",
+      "resolvedAt": "2026-11-18T11:36:56.459Z",
+      "resolutionSummary": "Customer noted preference for one instruction at a time without overwhelming technical jargon."
+    },
+    {
+      "id": "PAY-170",
+      "customerId": "cust_15",
+      "issueType": "Payment",
+      "subject": "Unable to update corporate billing credit card",
+      "status": "resolved",
+      "createdAt": "2026-11-19T06:19:56.459Z",
+      "resolvedAt": "2026-11-19T06:49:56.459Z",
+      "resolutionSummary": "Customer cleared expired billing profile token and re-authorized payment method successfully."
+    },
+    {
+      "id": "LOG-171",
+      "customerId": "cust_15",
+      "issueType": "Login/MFA",
+      "subject": "Session revoked repeatedly every 15 minutes",
+      "status": "resolved",
+      "createdAt": "2026-11-20T01:31:56.459Z",
+      "resolvedAt": "2026-11-20T02:02:56.459Z",
+      "resolutionSummary": "Cleared cached session cookies and updated enterprise SSO token lifespan."
+    },
+    {
+      "id": "DAS-172",
+      "customerId": "cust_15",
+      "issueType": "Dashboard",
+      "subject": "Dashboard analytics widget failing to render on Chrome",
+      "status": "resolved",
+      "createdAt": "2026-11-20T20:43:56.459Z",
+      "resolvedAt": "2026-11-20T21:15:56.459Z",
+      "resolutionSummary": "Disabled ad-blocker script filter that was intercepting internal analytics websocket endpoints."
+    },
+    {
+      "id": "SSO-173",
+      "customerId": "cust_16",
+      "issueType": "SSO",
+      "subject": "Okta SAML 2.0 assertion signature validation failure",
+      "status": "resolved",
+      "createdAt": "2026-11-21T15:55:56.459Z",
+      "resolvedAt": "2026-11-21T16:28:56.459Z",
+      "resolutionSummary": "Regenerated X.509 signing certificate in identity provider and updated ACS URL metadata."
+    },
+    {
+      "id": "ACC-174",
+      "customerId": "cust_16",
+      "issueType": "Account Config",
+      "subject": "API rate limit configuration for staging environment",
+      "status": "resolved",
+      "createdAt": "2026-11-22T11:07:56.459Z",
+      "resolvedAt": "2026-11-22T11:41:56.459Z",
+      "resolutionSummary": "Temporarily boosted staging rate limit from 100 req/s to 500 req/s for performance testing."
+    },
+    {
+      "id": "PAY-175",
+      "customerId": "cust_16",
+      "issueType": "Payment",
+      "subject": "Stripe 3D-Secure authentication failure on card ending in 4092",
+      "status": "resolved",
+      "createdAt": "2026-11-23T06:19:56.459Z",
+      "resolvedAt": "2026-11-23T06:54:56.459Z",
+      "resolutionSummary": "Switched payment gateway method to secondary corporate card."
+    },
+    {
+      "id": "LOG-176",
+      "customerId": "cust_16",
+      "issueType": "Login/MFA",
+      "subject": "Unable to receive SMS verification backup code",
+      "status": "resolved",
+      "createdAt": "2026-11-24T01:31:56.459Z",
+      "resolvedAt": "2026-11-24T02:07:56.459Z",
+      "resolutionSummary": "Reconfigured MFA fallback method to corporate email authorization."
+    },
+    {
+      "id": "DAS-177",
+      "customerId": "cust_16",
+      "issueType": "Dashboard",
+      "subject": "White screen on Dashboard navigation under macOS Safari",
+      "status": "resolved",
+      "createdAt": "2026-11-24T20:43:56.459Z",
+      "resolvedAt": "2026-11-24T21:20:56.459Z",
+      "resolutionSummary": "Cleared indexedDB client cache to reset corrupted local state."
+    },
+    {
+      "id": "ACC-178",
+      "customerId": "cust_17",
+      "issueType": "Account Config",
+      "subject": "Webhook delivery endpoint failing with HTTP 410",
+      "status": "resolved",
+      "createdAt": "2026-11-25T15:55:56.459Z",
+      "resolvedAt": "2026-11-25T16:33:56.459Z",
+      "resolutionSummary": "Customer re-registered webhook listener with updated HTTPS endpoint and valid HMAC secret."
+    },
+    {
+      "id": "PAY-179",
+      "customerId": "cust_17",
+      "issueType": "Payment",
+      "subject": "Credit card declined for automated monthly renewal",
+      "status": "resolved",
+      "createdAt": "2026-11-26T11:07:56.459Z",
+      "resolvedAt": "2026-11-26T11:46:56.459Z",
+      "resolutionSummary": "Customer bank had flagged international transaction; cleared after customer approved fraud alert."
+    },
+    {
+      "id": "LOG-180",
+      "customerId": "cust_17",
+      "issueType": "Login/MFA",
+      "subject": "Hardware security key WebAuthn timeout on Safari",
+      "status": "resolved",
+      "createdAt": "2026-11-27T06:19:56.459Z",
+      "resolvedAt": "2026-11-27T06:59:56.459Z",
+      "resolutionSummary": "Updated browser security token permissions in Safari settings."
+    },
+    {
+      "id": "DAS-181",
+      "customerId": "cust_17",
+      "issueType": "Dashboard",
+      "subject": "CSV export of monthly audit logs timing out at 50,000 rows",
+      "status": "resolved",
+      "createdAt": "2026-11-28T01:31:56.459Z",
+      "resolvedAt": "2026-11-28T02:12:56.459Z",
+      "resolutionSummary": "Scheduled asynchronous background export job with S3 download link sent via email."
+    },
+    {
+      "id": "SSO-182",
+      "customerId": "cust_17",
+      "issueType": "SSO",
+      "subject": "Certificate expiration warning on SAML single sign-on metadata",
+      "status": "resolved",
+      "createdAt": "2026-11-28T20:43:56.459Z",
+      "resolvedAt": "2026-11-28T21:25:56.459Z",
+      "resolutionSummary": "Rotated SAML certificate before expiration, zero customer downtime."
+    },
+    {
+      "id": "PAY-183",
+      "customerId": "cust_18",
+      "issueType": "Payment",
+      "subject": "Payment failure during invoice settlement",
+      "status": "in_progress",
+      "createdAt": "2026-11-29T15:55:56.459Z"
+    },
+    {
+      "id": "LOG-184",
+      "customerId": "cust_18",
+      "issueType": "Login/MFA",
+      "subject": "Authenticator app time-drift causing invalid code errors",
+      "status": "resolved",
+      "createdAt": "2026-11-30T11:07:56.459Z",
+      "resolvedAt": "2026-11-30T11:51:56.459Z",
+      "resolutionSummary": "Advised customer to sync device clock in Authenticator settings, which restored code synchronization."
+    },
+    {
+      "id": "DAS-185",
+      "customerId": "cust_18",
+      "issueType": "Dashboard",
+      "subject": "High latency loading customer transaction overview table",
+      "status": "resolved",
+      "createdAt": "2026-12-01T06:19:56.459Z",
+      "resolvedAt": "2026-12-01T07:04:56.459Z",
+      "resolutionSummary": "Advised hardware acceleration toggle in browser settings which resolved WebGL canvas freeze."
+    },
+    {
+      "id": "SSO-186",
+      "customerId": "cust_18",
+      "issueType": "SSO",
+      "subject": "Entity ID mismatch on custom IdP configuration",
+      "status": "resolved",
+      "createdAt": "2026-12-02T01:31:56.459Z",
+      "resolvedAt": "2026-12-02T02:17:56.459Z",
+      "resolutionSummary": "Corrected Entity ID URI from tenant subdomain to root domain."
+    },
+    {
+      "id": "ACC-187",
+      "customerId": "cust_18",
+      "issueType": "Account Config",
+      "subject": "Role-based access control permission inheritance issue",
+      "status": "resolved",
+      "createdAt": "2026-12-02T20:43:56.459Z",
+      "resolvedAt": "2026-12-02T21:30:56.459Z",
+      "resolutionSummary": "Assigned custom auditor role with read-only permissions across all tenant workspaces."
+    },
+    {
+      "id": "LOG-188",
+      "customerId": "cust_19",
+      "issueType": "Login/MFA",
+      "subject": "MFA prompt loop after mobile device replacement",
+      "status": "resolved",
+      "createdAt": "2026-12-03T15:55:56.459Z",
+      "resolvedAt": "2026-12-03T16:43:56.459Z",
+      "resolutionSummary": "Reset TOTP seed and generated temporary single-use backup codes for device re-enrollment."
+    },
+    {
+      "id": "DAS-189",
+      "customerId": "cust_19",
+      "issueType": "Dashboard",
+      "subject": "Real-time metrics graph freezing after 10 minutes of activity",
+      "status": "open",
+      "createdAt": "2026-12-04T11:07:56.459Z"
+    },
+    {
+      "id": "SSO-190",
+      "customerId": "cust_19",
+      "issueType": "SSO",
+      "subject": "Google Workspace SAML redirect loop on login",
+      "status": "resolved",
+      "createdAt": "2026-12-05T06:19:56.459Z",
+      "resolvedAt": "2026-12-05T07:09:56.459Z",
+      "resolutionSummary": "Adjusted RelayState parameter to direct users to default enterprise dashboard."
+    },
+    {
+      "id": "ACC-191",
+      "customerId": "cust_19",
+      "issueType": "Account Config",
+      "subject": "Custom domain CNAME DNS verification stuck on pending",
+      "status": "resolved",
+      "createdAt": "2026-12-06T01:31:56.459Z",
+      "resolvedAt": "2026-12-06T02:22:56.459Z",
+      "resolutionSummary": "Added missing CAA DNS record to allow Let’s Encrypt automated certificate issuance."
+    },
+    {
+      "id": "PAY-192",
+      "customerId": "cust_19",
+      "issueType": "Payment",
+      "subject": "Payment failure: Error code ERR_BILLING_ZIP_MISMATCH",
+      "status": "resolved",
+      "createdAt": "2026-12-06T20:43:56.459Z",
+      "resolvedAt": "2026-12-06T21:35:56.459Z",
+      "resolutionSummary": "Billing address updated to headquarters address, allowing charge to complete immediately."
+    },
+    {
+      "id": "DAS-193",
+      "customerId": "cust_20",
+      "issueType": "Dashboard",
+      "subject": "Dashboard analytics widget failing to render on Chrome",
+      "status": "resolved",
+      "createdAt": "2026-12-07T15:55:56.459Z",
+      "resolvedAt": "2026-12-07T16:48:56.459Z",
+      "resolutionSummary": "Disabled ad-blocker script filter that was intercepting internal analytics websocket endpoints."
+    },
+    {
+      "id": "SSO-194",
+      "customerId": "cust_20",
+      "issueType": "SSO",
+      "subject": "Azure AD SCIM user provisioning not deactivating departed members",
+      "status": "resolved",
+      "createdAt": "2026-12-08T11:07:56.459Z",
+      "resolvedAt": "2026-12-08T12:01:56.459Z",
+      "resolutionSummary": "Synced Azure AD SCIM bearer token and verified group mapping schema."
+    },
+    {
+      "id": "ACC-195",
+      "customerId": "cust_20",
+      "issueType": "Account Config",
+      "subject": "Preference: requires step-by-step sequential guidance",
+      "status": "resolved",
+      "createdAt": "2026-12-09T06:19:56.459Z",
+      "resolvedAt": "2026-12-09T07:14:56.459Z",
+      "resolutionSummary": "Customer noted preference for one instruction at a time without overwhelming technical jargon."
+    },
+    {
+      "id": "PAY-196",
+      "customerId": "cust_20",
+      "issueType": "Payment",
+      "subject": "Unable to update corporate billing credit card",
+      "status": "resolved",
+      "createdAt": "2026-12-10T01:31:56.459Z",
+      "resolvedAt": "2026-12-10T02:27:56.459Z",
+      "resolutionSummary": "Customer cleared expired billing profile token and re-authorized payment method successfully."
+    },
+    {
+      "id": "LOG-197",
+      "customerId": "cust_20",
+      "issueType": "Login/MFA",
+      "subject": "Session revoked repeatedly every 15 minutes",
+      "status": "resolved",
+      "createdAt": "2026-12-10T20:43:56.459Z",
+      "resolvedAt": "2026-12-10T21:40:56.459Z",
+      "resolutionSummary": "Cleared cached session cookies and updated enterprise SSO token lifespan."
+    }
+  ],
+  "messages": [
+    {
+      "id": "msg-500",
+      "ticketId": "PAY-104",
+      "customerId": "cust_1",
+      "sender": "customer",
+      "message": "My payment is failing when trying to renew our subscription.",
+      "timestamp": "2026-03-10T14:20:10Z"
+    },
+    {
+      "id": "msg-501",
+      "ticketId": "PAY-104",
+      "customerId": "cust_1",
+      "sender": "ai",
+      "message": "I investigated your payment attempt. The card processor rejected the charge with an Address Verification System (AVS) mismatch. Could you verify if the billing address in your account matches your card statement?",
+      "timestamp": "2026-03-10T14:22:00Z"
+    },
+    {
+      "id": "msg-502",
+      "ticketId": "PAY-104",
+      "customerId": "cust_1",
+      "sender": "customer",
+      "message": "I tried re-submitting with the card number again, but it was declined again. Does the billing zip code really have to match the physical office?",
+      "timestamp": "2026-03-10T14:35:00Z"
+    },
+    {
+      "id": "msg-503",
+      "ticketId": "PAY-104",
+      "customerId": "cust_1",
+      "sender": "ai",
+      "message": "Yes, the card issuing bank strictly enforces postal code matching. If your company recently moved or uses a headquarters address, updating it in the billing portal will clear the hold immediately.",
+      "timestamp": "2026-03-10T14:36:00Z"
+    },
+    {
+      "id": "msg-504",
+      "ticketId": "PAY-104",
+      "customerId": "cust_1",
+      "sender": "customer",
+      "message": "Ah, our corporate office recently moved! I updated the billing address to 402 Lakeview Blvd and it went through!",
+      "timestamp": "2026-03-10T14:45:00Z"
+    },
+    {
+      "id": "msg-505",
+      "ticketId": "PAY-104",
+      "customerId": "cust_1",
+      "sender": "ai",
+      "message": "Excellent! The payment has cleared and your Enterprise plan is fully active. I have noted this resolution on your account.",
+      "timestamp": "2026-03-10T14:46:00Z"
+    },
+    {
+      "id": "msg-506",
+      "ticketId": "PREF-201",
+      "customerId": "cust_1",
+      "sender": "customer",
+      "message": "Please give me instructions one step at a time whenever we troubleshoot.",
+      "timestamp": "2026-03-15T09:10:00Z"
+    },
+    {
+      "id": "msg-507",
+      "ticketId": "PREF-201",
+      "customerId": "cust_1",
+      "sender": "ai",
+      "message": "Understood, Rahul! I will always provide step-by-step guidance, one single action at a time so you can proceed comfortably.",
+      "timestamp": "2026-03-15T09:11:00Z"
+    },
+    {
+      "id": "msg-508",
+      "ticketId": "PAY-105",
+      "customerId": "cust_1",
+      "sender": "customer",
+      "message": "Hello, our corporate card payment is failing again at renewal. Can you check what is happening?",
+      "timestamp": "2026-03-24T11:15:10Z"
+    },
+    {
+      "id": "msg-509",
+      "ticketId": "PAY-105",
+      "customerId": "cust_1",
+      "sender": "ai",
+      "message": "Hello Rahul Sharma, I see your payment is failing again.\n\nBased on our previous conversation, this issue was resolved when we updated your billing address to match your card issuing statement.\n\nLet's check this step-by-step:\n**Step 1:** Please navigate to **Billing Settings > Payment Methods** and verify if the billing address matches your card statement.",
+      "timestamp": "2026-03-24T11:16:00Z",
+      "recalledMemoriesUsed": [
+        {
+          "id": "mem_rahul_2",
+          "bankId": "customer_cust_1",
+          "content": "Payment issue was successfully resolved by updating the corporate billing address to 402 Lakeview Blvd to match the credit card issuing bank statement.",
+          "type": "observation",
+          "category": "successful_solution",
+          "relevanceScore": 0.98,
+          "timestamp": "2026-03-10T14:46:00Z",
+          "metadata": {
+            "ticketId": "PAY-104",
+            "resolution": "billing_address_update"
+          }
+        },
+        {
+          "id": "mem_rahul_3",
+          "bankId": "customer_cust_1",
+          "content": "Customer preference: Prefers step-by-step instructions presented one sequential action at a time without complex jargon.",
+          "type": "preference",
+          "category": "preference",
+          "relevanceScore": 0.91,
+          "timestamp": "2026-03-15T09:30:00Z",
+          "metadata": {
+            "ticketId": "PREF-201",
+            "preferenceType": "communication_style"
+          }
+        }
+      ],
+      "memoryOperationStatus": "recalled"
+    },
+    {
+      "id": "msg-510",
+      "ticketId": "LOG-101",
+      "customerId": "cust_2",
+      "sender": "customer",
+      "message": "My MFA codes are showing invalid even though I just entered the current number from Google Authenticator.",
+      "timestamp": "2026-09-25T01:31:56.457Z"
+    },
+    {
+      "id": "msg-511",
+      "ticketId": "LOG-101",
+      "customerId": "cust_2",
+      "sender": "ai",
+      "message": "This typically happens due to clock drift on the mobile device. In your Authenticator app, go to Settings -> Time correction for codes -> Sync now. That will synchronize the tokens.",
+      "timestamp": "2026-09-25T01:32:56.457Z"
+    },
+    {
+      "id": "msg-512",
+      "ticketId": "LOG-101",
+      "customerId": "cust_2",
+      "sender": "customer",
+      "message": "That fixed it! Thank you so much for the quick help.",
+      "timestamp": "2026-09-25T01:34:56.457Z"
+    },
+    {
+      "id": "msg-513",
+      "ticketId": "DAS-102",
+      "customerId": "cust_2",
+      "sender": "customer",
+      "message": "The main analytics graph on our team dashboard keeps freezing after about 10 minutes of monitoring.",
+      "timestamp": "2026-09-25T20:43:56.457Z"
+    },
+    {
+      "id": "msg-514",
+      "ticketId": "DAS-102",
+      "customerId": "cust_2",
+      "sender": "ai",
+      "message": "This issue is caused by browser memory accumulation in WebGL rendering. Toggling hardware acceleration or refreshing the websocket stream will prevent the tab freeze.",
+      "timestamp": "2026-09-25T20:44:56.457Z"
+    },
+    {
+      "id": "msg-515",
+      "ticketId": "DAS-102",
+      "customerId": "cust_2",
+      "sender": "customer",
+      "message": "That fixed it! Thank you so much for the quick help.",
+      "timestamp": "2026-09-25T20:46:56.457Z"
+    },
+    {
+      "id": "msg-516",
+      "ticketId": "SSO-103",
+      "customerId": "cust_2",
+      "sender": "customer",
+      "message": "Our employees are getting an Okta SAML error saying invalid assertion signature.",
+      "timestamp": "2026-09-26T15:55:56.457Z"
+    },
+    {
+      "id": "msg-517",
+      "ticketId": "SSO-103",
+      "customerId": "cust_2",
+      "sender": "ai",
+      "message": "The SAML X.509 certificate on your Okta app configuration had expired. Please upload the newly generated certificate from your admin portal into the Security tab.",
+      "timestamp": "2026-09-26T15:56:56.457Z"
+    },
+    {
+      "id": "msg-518",
+      "ticketId": "SSO-103",
+      "customerId": "cust_2",
+      "sender": "customer",
+      "message": "That fixed it! Thank you so much for the quick help.",
+      "timestamp": "2026-09-26T15:58:56.457Z"
+    },
+    {
+      "id": "msg-519",
+      "ticketId": "ACC-104",
+      "customerId": "cust_2",
+      "sender": "customer",
+      "message": "Please explain how to configure our staging webhooks, but keep it strictly step-by-step.",
+      "timestamp": "2026-09-27T11:07:56.457Z"
+    },
+    {
+      "id": "msg-520",
+      "ticketId": "ACC-104",
+      "customerId": "cust_2",
+      "sender": "ai",
+      "message": "Understood! I will give you instructions one step at a time. Step 1: Open Settings > Webhooks > Add Endpoint.",
+      "timestamp": "2026-09-27T11:08:56.457Z"
+    },
+    {
+      "id": "msg-521",
+      "ticketId": "ACC-104",
+      "customerId": "cust_2",
+      "sender": "customer",
+      "message": "That fixed it! Thank you so much for the quick help.",
+      "timestamp": "2026-09-27T11:10:56.457Z"
+    },
+    {
+      "id": "msg-522",
+      "ticketId": "PAY-105",
+      "customerId": "cust_2",
+      "sender": "customer",
+      "message": "My payment is failing when I try to renew our subscription.",
+      "timestamp": "2026-09-28T06:19:56.457Z"
+    },
+    {
+      "id": "msg-523",
+      "ticketId": "PAY-105",
+      "customerId": "cust_2",
+      "sender": "ai",
+      "message": "I investigated the transaction log: error code indicates a billing address verification mismatch. Updating the billing address in your billing portal will resolve this immediately.",
+      "timestamp": "2026-09-28T06:20:56.457Z"
+    },
+    {
+      "id": "msg-524",
+      "ticketId": "PAY-105",
+      "customerId": "cust_2",
+      "sender": "customer",
+      "message": "That fixed it! Thank you so much for the quick help.",
+      "timestamp": "2026-09-28T06:22:56.457Z"
+    },
+    {
+      "id": "msg-525",
+      "ticketId": "LOG-106",
+      "customerId": "cust_2",
+      "sender": "customer",
+      "message": "My MFA codes are showing invalid even though I just entered the current number from Google Authenticator.",
+      "timestamp": "2026-09-29T01:31:56.457Z"
+    },
+    {
+      "id": "msg-526",
+      "ticketId": "LOG-106",
+      "customerId": "cust_2",
+      "sender": "ai",
+      "message": "This typically happens due to clock drift on the mobile device. In your Authenticator app, go to Settings -> Time correction for codes -> Sync now. That will synchronize the tokens.",
+      "timestamp": "2026-09-29T01:32:56.457Z"
+    },
+    {
+      "id": "msg-527",
+      "ticketId": "LOG-106",
+      "customerId": "cust_2",
+      "sender": "customer",
+      "message": "That fixed it! Thank you so much for the quick help.",
+      "timestamp": "2026-09-29T01:34:56.457Z"
+    },
+    {
+      "id": "msg-528",
+      "ticketId": "DAS-107",
+      "customerId": "cust_3",
+      "sender": "customer",
+      "message": "The main analytics graph on our team dashboard keeps freezing after about 10 minutes of monitoring.",
+      "timestamp": "2026-09-29T20:43:56.457Z"
+    },
+    {
+      "id": "msg-529",
+      "ticketId": "DAS-107",
+      "customerId": "cust_3",
+      "sender": "ai",
+      "message": "This issue is caused by browser memory accumulation in WebGL rendering. Toggling hardware acceleration or refreshing the websocket stream will prevent the tab freeze.",
+      "timestamp": "2026-09-29T20:44:56.457Z"
+    },
+    {
+      "id": "msg-530",
+      "ticketId": "DAS-107",
+      "customerId": "cust_3",
+      "sender": "customer",
+      "message": "That fixed it! Thank you so much for the quick help.",
+      "timestamp": "2026-09-29T20:46:56.457Z"
+    },
+    {
+      "id": "msg-531",
+      "ticketId": "SSO-108",
+      "customerId": "cust_3",
+      "sender": "customer",
+      "message": "Our employees are getting an Okta SAML error saying invalid assertion signature.",
+      "timestamp": "2026-09-30T15:55:56.457Z"
+    },
+    {
+      "id": "msg-532",
+      "ticketId": "SSO-108",
+      "customerId": "cust_3",
+      "sender": "ai",
+      "message": "The SAML X.509 certificate on your Okta app configuration had expired. Please upload the newly generated certificate from your admin portal into the Security tab.",
+      "timestamp": "2026-09-30T15:56:56.457Z"
+    },
+    {
+      "id": "msg-533",
+      "ticketId": "SSO-108",
+      "customerId": "cust_3",
+      "sender": "customer",
+      "message": "That fixed it! Thank you so much for the quick help.",
+      "timestamp": "2026-09-30T15:58:56.457Z"
+    },
+    {
+      "id": "msg-534",
+      "ticketId": "ACC-109",
+      "customerId": "cust_3",
+      "sender": "customer",
+      "message": "Please explain how to configure our staging webhooks, but keep it strictly step-by-step.",
+      "timestamp": "2026-10-01T11:07:56.457Z"
+    },
+    {
+      "id": "msg-535",
+      "ticketId": "ACC-109",
+      "customerId": "cust_3",
+      "sender": "ai",
+      "message": "Understood! I will give you instructions one step at a time. Step 1: Open Settings > Webhooks > Add Endpoint.",
+      "timestamp": "2026-10-01T11:08:56.457Z"
+    },
+    {
+      "id": "msg-536",
+      "ticketId": "ACC-109",
+      "customerId": "cust_3",
+      "sender": "customer",
+      "message": "That fixed it! Thank you so much for the quick help.",
+      "timestamp": "2026-10-01T11:10:56.457Z"
+    },
+    {
+      "id": "msg-537",
+      "ticketId": "PAY-110",
+      "customerId": "cust_3",
+      "sender": "customer",
+      "message": "My payment is failing when I try to renew our subscription.",
+      "timestamp": "2026-10-02T06:19:56.457Z"
+    },
+    {
+      "id": "msg-538",
+      "ticketId": "PAY-110",
+      "customerId": "cust_3",
+      "sender": "ai",
+      "message": "I investigated the transaction log: error code indicates a billing address verification mismatch. Updating the billing address in your billing portal will resolve this immediately.",
+      "timestamp": "2026-10-02T06:20:56.457Z"
+    },
+    {
+      "id": "msg-539",
+      "ticketId": "PAY-110",
+      "customerId": "cust_3",
+      "sender": "customer",
+      "message": "That fixed it! Thank you so much for the quick help.",
+      "timestamp": "2026-10-02T06:22:56.457Z"
+    },
+    {
+      "id": "msg-540",
+      "ticketId": "LOG-111",
+      "customerId": "cust_3",
+      "sender": "customer",
+      "message": "My MFA codes are showing invalid even though I just entered the current number from Google Authenticator.",
+      "timestamp": "2026-10-03T01:31:56.457Z"
+    },
+    {
+      "id": "msg-541",
+      "ticketId": "LOG-111",
+      "customerId": "cust_3",
+      "sender": "ai",
+      "message": "This typically happens due to clock drift on the mobile device. In your Authenticator app, go to Settings -> Time correction for codes -> Sync now. That will synchronize the tokens.",
+      "timestamp": "2026-10-03T01:32:56.457Z"
+    },
+    {
+      "id": "msg-542",
+      "ticketId": "LOG-111",
+      "customerId": "cust_3",
+      "sender": "customer",
+      "message": "That fixed it! Thank you so much for the quick help.",
+      "timestamp": "2026-10-03T01:34:56.457Z"
+    },
+    {
+      "id": "msg-543",
+      "ticketId": "DAS-112",
+      "customerId": "cust_3",
+      "sender": "customer",
+      "message": "The main analytics graph on our team dashboard keeps freezing after about 10 minutes of monitoring.",
+      "timestamp": "2026-10-03T20:43:56.457Z"
+    },
+    {
+      "id": "msg-544",
+      "ticketId": "DAS-112",
+      "customerId": "cust_3",
+      "sender": "ai",
+      "message": "This issue is caused by browser memory accumulation in WebGL rendering. Toggling hardware acceleration or refreshing the websocket stream will prevent the tab freeze.",
+      "timestamp": "2026-10-03T20:44:56.457Z"
+    },
+    {
+      "id": "msg-545",
+      "ticketId": "DAS-112",
+      "customerId": "cust_3",
+      "sender": "customer",
+      "message": "That fixed it! Thank you so much for the quick help.",
+      "timestamp": "2026-10-03T20:46:56.457Z"
+    },
+    {
+      "id": "msg-546",
+      "ticketId": "SSO-113",
+      "customerId": "cust_4",
+      "sender": "customer",
+      "message": "Our employees are getting an Okta SAML error saying invalid assertion signature.",
+      "timestamp": "2026-10-04T15:55:56.457Z"
+    },
+    {
+      "id": "msg-547",
+      "ticketId": "SSO-113",
+      "customerId": "cust_4",
+      "sender": "ai",
+      "message": "The SAML X.509 certificate on your Okta app configuration had expired. Please upload the newly generated certificate from your admin portal into the Security tab.",
+      "timestamp": "2026-10-04T15:56:56.457Z"
+    },
+    {
+      "id": "msg-548",
+      "ticketId": "SSO-113",
+      "customerId": "cust_4",
+      "sender": "customer",
+      "message": "I tried applying that change, but it did not resolve the problem. The error still persists.",
+      "timestamp": "2026-10-04T15:58:56.457Z"
+    },
+    {
+      "id": "msg-549",
+      "ticketId": "SSO-113",
+      "customerId": "cust_4",
+      "sender": "ai",
+      "message": "Thank you for testing that. Since the standard step did not work, I am reviewing our diagnostic logs and escalating the telemetry data for deeper investigation.",
+      "timestamp": "2026-10-04T15:59:56.457Z"
+    },
+    {
+      "id": "msg-550",
+      "ticketId": "ACC-114",
+      "customerId": "cust_4",
+      "sender": "customer",
+      "message": "Please explain how to configure our staging webhooks, but keep it strictly step-by-step.",
+      "timestamp": "2026-10-05T11:07:56.457Z"
+    },
+    {
+      "id": "msg-551",
+      "ticketId": "ACC-114",
+      "customerId": "cust_4",
+      "sender": "ai",
+      "message": "Understood! I will give you instructions one step at a time. Step 1: Open Settings > Webhooks > Add Endpoint.",
+      "timestamp": "2026-10-05T11:08:56.457Z"
+    },
+    {
+      "id": "msg-552",
+      "ticketId": "ACC-114",
+      "customerId": "cust_4",
+      "sender": "customer",
+      "message": "That fixed it! Thank you so much for the quick help.",
+      "timestamp": "2026-10-05T11:10:56.457Z"
+    },
+    {
+      "id": "msg-553",
+      "ticketId": "PAY-115",
+      "customerId": "cust_4",
+      "sender": "customer",
+      "message": "My payment is failing when I try to renew our subscription.",
+      "timestamp": "2026-10-06T06:19:56.457Z"
+    },
+    {
+      "id": "msg-554",
+      "ticketId": "PAY-115",
+      "customerId": "cust_4",
+      "sender": "ai",
+      "message": "I investigated the transaction log: error code indicates a billing address verification mismatch. Updating the billing address in your billing portal will resolve this immediately.",
+      "timestamp": "2026-10-06T06:20:56.457Z"
+    },
+    {
+      "id": "msg-555",
+      "ticketId": "PAY-115",
+      "customerId": "cust_4",
+      "sender": "customer",
+      "message": "That fixed it! Thank you so much for the quick help.",
+      "timestamp": "2026-10-06T06:22:56.457Z"
+    },
+    {
+      "id": "msg-556",
+      "ticketId": "LOG-116",
+      "customerId": "cust_4",
+      "sender": "customer",
+      "message": "My MFA codes are showing invalid even though I just entered the current number from Google Authenticator.",
+      "timestamp": "2026-10-07T01:31:56.457Z"
+    },
+    {
+      "id": "msg-557",
+      "ticketId": "LOG-116",
+      "customerId": "cust_4",
+      "sender": "ai",
+      "message": "This typically happens due to clock drift on the mobile device. In your Authenticator app, go to Settings -> Time correction for codes -> Sync now. That will synchronize the tokens.",
+      "timestamp": "2026-10-07T01:32:56.457Z"
+    },
+    {
+      "id": "msg-558",
+      "ticketId": "LOG-116",
+      "customerId": "cust_4",
+      "sender": "customer",
+      "message": "That fixed it! Thank you so much for the quick help.",
+      "timestamp": "2026-10-07T01:34:56.457Z"
+    },
+    {
+      "id": "msg-559",
+      "ticketId": "DAS-117",
+      "customerId": "cust_4",
+      "sender": "customer",
+      "message": "The main analytics graph on our team dashboard keeps freezing after about 10 minutes of monitoring.",
+      "timestamp": "2026-10-07T20:43:56.457Z"
+    },
+    {
+      "id": "msg-560",
+      "ticketId": "DAS-117",
+      "customerId": "cust_4",
+      "sender": "ai",
+      "message": "This issue is caused by browser memory accumulation in WebGL rendering. Toggling hardware acceleration or refreshing the websocket stream will prevent the tab freeze.",
+      "timestamp": "2026-10-07T20:44:56.457Z"
+    },
+    {
+      "id": "msg-561",
+      "ticketId": "DAS-117",
+      "customerId": "cust_4",
+      "sender": "customer",
+      "message": "That fixed it! Thank you so much for the quick help.",
+      "timestamp": "2026-10-07T20:46:56.457Z"
+    },
+    {
+      "id": "msg-562",
+      "ticketId": "SSO-118",
+      "customerId": "cust_4",
+      "sender": "customer",
+      "message": "Our employees are getting an Okta SAML error saying invalid assertion signature.",
+      "timestamp": "2026-10-08T15:55:56.457Z"
+    },
+    {
+      "id": "msg-563",
+      "ticketId": "SSO-118",
+      "customerId": "cust_4",
+      "sender": "ai",
+      "message": "The SAML X.509 certificate on your Okta app configuration had expired. Please upload the newly generated certificate from your admin portal into the Security tab.",
+      "timestamp": "2026-10-08T15:56:56.457Z"
+    },
+    {
+      "id": "msg-564",
+      "ticketId": "SSO-118",
+      "customerId": "cust_4",
+      "sender": "customer",
+      "message": "That fixed it! Thank you so much for the quick help.",
+      "timestamp": "2026-10-08T15:58:56.457Z"
+    },
+    {
+      "id": "msg-565",
+      "ticketId": "ACC-119",
+      "customerId": "cust_6",
+      "sender": "customer",
+      "message": "Please explain how to configure our staging webhooks, but keep it strictly step-by-step.",
+      "timestamp": "2026-10-09T11:07:56.457Z"
+    },
+    {
+      "id": "msg-566",
+      "ticketId": "ACC-119",
+      "customerId": "cust_6",
+      "sender": "ai",
+      "message": "Understood! I will give you instructions one step at a time. Step 1: Open Settings > Webhooks > Add Endpoint.",
+      "timestamp": "2026-10-09T11:08:56.457Z"
+    },
+    {
+      "id": "msg-567",
+      "ticketId": "ACC-119",
+      "customerId": "cust_6",
+      "sender": "customer",
+      "message": "That fixed it! Thank you so much for the quick help.",
+      "timestamp": "2026-10-09T11:10:56.457Z"
+    },
+    {
+      "id": "msg-568",
+      "ticketId": "PAY-120",
+      "customerId": "cust_6",
+      "sender": "customer",
+      "message": "My payment is failing when I try to renew our subscription.",
+      "timestamp": "2026-10-10T06:19:56.457Z"
+    },
+    {
+      "id": "msg-569",
+      "ticketId": "LOG-121",
+      "customerId": "cust_6",
+      "sender": "customer",
+      "message": "My MFA codes are showing invalid even though I just entered the current number from Google Authenticator.",
+      "timestamp": "2026-10-11T01:31:56.457Z"
+    },
+    {
+      "id": "msg-570",
+      "ticketId": "LOG-121",
+      "customerId": "cust_6",
+      "sender": "ai",
+      "message": "This typically happens due to clock drift on the mobile device. In your Authenticator app, go to Settings -> Time correction for codes -> Sync now. That will synchronize the tokens.",
+      "timestamp": "2026-10-11T01:32:56.457Z"
+    },
+    {
+      "id": "msg-571",
+      "ticketId": "LOG-121",
+      "customerId": "cust_6",
+      "sender": "customer",
+      "message": "That fixed it! Thank you so much for the quick help.",
+      "timestamp": "2026-10-11T01:34:56.457Z"
+    },
+    {
+      "id": "msg-572",
+      "ticketId": "DAS-122",
+      "customerId": "cust_6",
+      "sender": "customer",
+      "message": "The main analytics graph on our team dashboard keeps freezing after about 10 minutes of monitoring.",
+      "timestamp": "2026-10-11T20:43:56.457Z"
+    },
+    {
+      "id": "msg-573",
+      "ticketId": "DAS-122",
+      "customerId": "cust_6",
+      "sender": "ai",
+      "message": "This issue is caused by browser memory accumulation in WebGL rendering. Toggling hardware acceleration or refreshing the websocket stream will prevent the tab freeze.",
+      "timestamp": "2026-10-11T20:44:56.457Z"
+    },
+    {
+      "id": "msg-574",
+      "ticketId": "DAS-122",
+      "customerId": "cust_6",
+      "sender": "customer",
+      "message": "That fixed it! Thank you so much for the quick help.",
+      "timestamp": "2026-10-11T20:46:56.457Z"
+    },
+    {
+      "id": "msg-575",
+      "ticketId": "SSO-123",
+      "customerId": "cust_6",
+      "sender": "customer",
+      "message": "Our employees are getting an Okta SAML error saying invalid assertion signature.",
+      "timestamp": "2026-10-12T15:55:56.457Z"
+    },
+    {
+      "id": "msg-576",
+      "ticketId": "SSO-123",
+      "customerId": "cust_6",
+      "sender": "ai",
+      "message": "The SAML X.509 certificate on your Okta app configuration had expired. Please upload the newly generated certificate from your admin portal into the Security tab.",
+      "timestamp": "2026-10-12T15:56:56.457Z"
+    },
+    {
+      "id": "msg-577",
+      "ticketId": "SSO-123",
+      "customerId": "cust_6",
+      "sender": "customer",
+      "message": "That fixed it! Thank you so much for the quick help.",
+      "timestamp": "2026-10-12T15:58:56.457Z"
+    },
+    {
+      "id": "msg-578",
+      "ticketId": "ACC-124",
+      "customerId": "cust_6",
+      "sender": "customer",
+      "message": "Please explain how to configure our staging webhooks, but keep it strictly step-by-step.",
+      "timestamp": "2026-10-13T11:07:56.457Z"
+    },
+    {
+      "id": "msg-579",
+      "ticketId": "ACC-124",
+      "customerId": "cust_6",
+      "sender": "ai",
+      "message": "Understood! I will give you instructions one step at a time. Step 1: Open Settings > Webhooks > Add Endpoint.",
+      "timestamp": "2026-10-13T11:08:56.457Z"
+    },
+    {
+      "id": "msg-580",
+      "ticketId": "ACC-124",
+      "customerId": "cust_6",
+      "sender": "customer",
+      "message": "That fixed it! Thank you so much for the quick help.",
+      "timestamp": "2026-10-13T11:10:56.457Z"
+    },
+    {
+      "id": "msg-581",
+      "ticketId": "PAY-125",
+      "customerId": "cust_7",
+      "sender": "customer",
+      "message": "My payment is failing when I try to renew our subscription.",
+      "timestamp": "2026-10-14T06:19:56.457Z"
+    },
+    {
+      "id": "msg-582",
+      "ticketId": "PAY-125",
+      "customerId": "cust_7",
+      "sender": "ai",
+      "message": "I investigated the transaction log: error code indicates a billing address verification mismatch. Updating the billing address in your billing portal will resolve this immediately.",
+      "timestamp": "2026-10-14T06:20:56.457Z"
+    },
+    {
+      "id": "msg-583",
+      "ticketId": "PAY-125",
+      "customerId": "cust_7",
+      "sender": "customer",
+      "message": "That fixed it! Thank you so much for the quick help.",
+      "timestamp": "2026-10-14T06:22:56.457Z"
+    },
+    {
+      "id": "msg-584",
+      "ticketId": "LOG-126",
+      "customerId": "cust_7",
+      "sender": "customer",
+      "message": "My MFA codes are showing invalid even though I just entered the current number from Google Authenticator.",
+      "timestamp": "2026-10-15T01:31:56.457Z"
+    },
+    {
+      "id": "msg-585",
+      "ticketId": "LOG-126",
+      "customerId": "cust_7",
+      "sender": "ai",
+      "message": "This typically happens due to clock drift on the mobile device. In your Authenticator app, go to Settings -> Time correction for codes -> Sync now. That will synchronize the tokens.",
+      "timestamp": "2026-10-15T01:32:56.457Z"
+    },
+    {
+      "id": "msg-586",
+      "ticketId": "LOG-126",
+      "customerId": "cust_7",
+      "sender": "customer",
+      "message": "That fixed it! Thank you so much for the quick help.",
+      "timestamp": "2026-10-15T01:34:56.457Z"
+    },
+    {
+      "id": "msg-587",
+      "ticketId": "DAS-127",
+      "customerId": "cust_7",
+      "sender": "customer",
+      "message": "The main analytics graph on our team dashboard keeps freezing after about 10 minutes of monitoring.",
+      "timestamp": "2026-10-15T20:43:56.458Z"
+    },
+    {
+      "id": "msg-588",
+      "ticketId": "DAS-127",
+      "customerId": "cust_7",
+      "sender": "ai",
+      "message": "This issue is caused by browser memory accumulation in WebGL rendering. Toggling hardware acceleration or refreshing the websocket stream will prevent the tab freeze.",
+      "timestamp": "2026-10-15T20:44:56.458Z"
+    },
+    {
+      "id": "msg-589",
+      "ticketId": "DAS-127",
+      "customerId": "cust_7",
+      "sender": "customer",
+      "message": "That fixed it! Thank you so much for the quick help.",
+      "timestamp": "2026-10-15T20:46:56.458Z"
+    },
+    {
+      "id": "msg-590",
+      "ticketId": "SSO-128",
+      "customerId": "cust_7",
+      "sender": "customer",
+      "message": "Our employees are getting an Okta SAML error saying invalid assertion signature.",
+      "timestamp": "2026-10-16T15:55:56.458Z"
+    },
+    {
+      "id": "msg-591",
+      "ticketId": "SSO-128",
+      "customerId": "cust_7",
+      "sender": "ai",
+      "message": "The SAML X.509 certificate on your Okta app configuration had expired. Please upload the newly generated certificate from your admin portal into the Security tab.",
+      "timestamp": "2026-10-16T15:56:56.458Z"
+    },
+    {
+      "id": "msg-592",
+      "ticketId": "SSO-128",
+      "customerId": "cust_7",
+      "sender": "customer",
+      "message": "That fixed it! Thank you so much for the quick help.",
+      "timestamp": "2026-10-16T15:58:56.458Z"
+    },
+    {
+      "id": "msg-593",
+      "ticketId": "ACC-129",
+      "customerId": "cust_7",
+      "sender": "customer",
+      "message": "Please explain how to configure our staging webhooks, but keep it strictly step-by-step.",
+      "timestamp": "2026-10-17T11:07:56.458Z"
+    },
+    {
+      "id": "msg-594",
+      "ticketId": "ACC-129",
+      "customerId": "cust_7",
+      "sender": "ai",
+      "message": "Understood! I will give you instructions one step at a time. Step 1: Open Settings > Webhooks > Add Endpoint.",
+      "timestamp": "2026-10-17T11:08:56.458Z"
+    },
+    {
+      "id": "msg-595",
+      "ticketId": "ACC-129",
+      "customerId": "cust_7",
+      "sender": "customer",
+      "message": "That fixed it! Thank you so much for the quick help.",
+      "timestamp": "2026-10-17T11:10:56.458Z"
+    },
+    {
+      "id": "msg-596",
+      "ticketId": "PAY-130",
+      "customerId": "cust_7",
+      "sender": "customer",
+      "message": "My payment is failing when I try to renew our subscription.",
+      "timestamp": "2026-10-18T06:19:56.458Z"
+    },
+    {
+      "id": "msg-597",
+      "ticketId": "PAY-130",
+      "customerId": "cust_7",
+      "sender": "ai",
+      "message": "I investigated the transaction log: error code indicates a billing address verification mismatch. Updating the billing address in your billing portal will resolve this immediately.",
+      "timestamp": "2026-10-18T06:20:56.458Z"
+    },
+    {
+      "id": "msg-598",
+      "ticketId": "PAY-130",
+      "customerId": "cust_7",
+      "sender": "customer",
+      "message": "That fixed it! Thank you so much for the quick help.",
+      "timestamp": "2026-10-18T06:22:56.458Z"
+    },
+    {
+      "id": "msg-599",
+      "ticketId": "LOG-131",
+      "customerId": "cust_8",
+      "sender": "customer",
+      "message": "My MFA codes are showing invalid even though I just entered the current number from Google Authenticator.",
+      "timestamp": "2026-10-19T01:31:56.458Z"
+    },
+    {
+      "id": "msg-600",
+      "ticketId": "LOG-131",
+      "customerId": "cust_8",
+      "sender": "ai",
+      "message": "This typically happens due to clock drift on the mobile device. In your Authenticator app, go to Settings -> Time correction for codes -> Sync now. That will synchronize the tokens.",
+      "timestamp": "2026-10-19T01:32:56.458Z"
+    },
+    {
+      "id": "msg-601",
+      "ticketId": "LOG-131",
+      "customerId": "cust_8",
+      "sender": "customer",
+      "message": "I tried applying that change, but it did not resolve the problem. The error still persists.",
+      "timestamp": "2026-10-19T01:34:56.458Z"
+    },
+    {
+      "id": "msg-602",
+      "ticketId": "LOG-131",
+      "customerId": "cust_8",
+      "sender": "ai",
+      "message": "Thank you for testing that. Since the standard step did not work, I am reviewing our diagnostic logs and escalating the telemetry data for deeper investigation.",
+      "timestamp": "2026-10-19T01:35:56.458Z"
+    },
+    {
+      "id": "msg-603",
+      "ticketId": "DAS-132",
+      "customerId": "cust_8",
+      "sender": "customer",
+      "message": "The main analytics graph on our team dashboard keeps freezing after about 10 minutes of monitoring.",
+      "timestamp": "2026-10-19T20:43:56.458Z"
+    },
+    {
+      "id": "msg-604",
+      "ticketId": "DAS-132",
+      "customerId": "cust_8",
+      "sender": "ai",
+      "message": "This issue is caused by browser memory accumulation in WebGL rendering. Toggling hardware acceleration or refreshing the websocket stream will prevent the tab freeze.",
+      "timestamp": "2026-10-19T20:44:56.458Z"
+    },
+    {
+      "id": "msg-605",
+      "ticketId": "DAS-132",
+      "customerId": "cust_8",
+      "sender": "customer",
+      "message": "That fixed it! Thank you so much for the quick help.",
+      "timestamp": "2026-10-19T20:46:56.458Z"
+    },
+    {
+      "id": "msg-606",
+      "ticketId": "SSO-133",
+      "customerId": "cust_8",
+      "sender": "customer",
+      "message": "Our employees are getting an Okta SAML error saying invalid assertion signature.",
+      "timestamp": "2026-10-20T15:55:56.458Z"
+    },
+    {
+      "id": "msg-607",
+      "ticketId": "SSO-133",
+      "customerId": "cust_8",
+      "sender": "ai",
+      "message": "The SAML X.509 certificate on your Okta app configuration had expired. Please upload the newly generated certificate from your admin portal into the Security tab.",
+      "timestamp": "2026-10-20T15:56:56.458Z"
+    },
+    {
+      "id": "msg-608",
+      "ticketId": "SSO-133",
+      "customerId": "cust_8",
+      "sender": "customer",
+      "message": "That fixed it! Thank you so much for the quick help.",
+      "timestamp": "2026-10-20T15:58:56.458Z"
+    },
+    {
+      "id": "msg-609",
+      "ticketId": "ACC-134",
+      "customerId": "cust_8",
+      "sender": "customer",
+      "message": "Please explain how to configure our staging webhooks, but keep it strictly step-by-step.",
+      "timestamp": "2026-10-21T11:07:56.458Z"
+    },
+    {
+      "id": "msg-610",
+      "ticketId": "ACC-134",
+      "customerId": "cust_8",
+      "sender": "ai",
+      "message": "Understood! I will give you instructions one step at a time. Step 1: Open Settings > Webhooks > Add Endpoint.",
+      "timestamp": "2026-10-21T11:08:56.458Z"
+    },
+    {
+      "id": "msg-611",
+      "ticketId": "ACC-134",
+      "customerId": "cust_8",
+      "sender": "customer",
+      "message": "That fixed it! Thank you so much for the quick help.",
+      "timestamp": "2026-10-21T11:10:56.458Z"
+    },
+    {
+      "id": "msg-612",
+      "ticketId": "PAY-135",
+      "customerId": "cust_8",
+      "sender": "customer",
+      "message": "My payment is failing when I try to renew our subscription.",
+      "timestamp": "2026-10-22T06:19:56.458Z"
+    },
+    {
+      "id": "msg-613",
+      "ticketId": "PAY-135",
+      "customerId": "cust_8",
+      "sender": "ai",
+      "message": "I investigated the transaction log: error code indicates a billing address verification mismatch. Updating the billing address in your billing portal will resolve this immediately.",
+      "timestamp": "2026-10-22T06:20:56.458Z"
+    },
+    {
+      "id": "msg-614",
+      "ticketId": "PAY-135",
+      "customerId": "cust_8",
+      "sender": "customer",
+      "message": "That fixed it! Thank you so much for the quick help.",
+      "timestamp": "2026-10-22T06:22:56.458Z"
+    },
+    {
+      "id": "msg-615",
+      "ticketId": "LOG-136",
+      "customerId": "cust_8",
+      "sender": "customer",
+      "message": "My MFA codes are showing invalid even though I just entered the current number from Google Authenticator.",
+      "timestamp": "2026-10-23T01:31:56.458Z"
+    },
+    {
+      "id": "msg-616",
+      "ticketId": "LOG-136",
+      "customerId": "cust_8",
+      "sender": "ai",
+      "message": "This typically happens due to clock drift on the mobile device. In your Authenticator app, go to Settings -> Time correction for codes -> Sync now. That will synchronize the tokens.",
+      "timestamp": "2026-10-23T01:32:56.458Z"
+    },
+    {
+      "id": "msg-617",
+      "ticketId": "LOG-136",
+      "customerId": "cust_8",
+      "sender": "customer",
+      "message": "That fixed it! Thank you so much for the quick help.",
+      "timestamp": "2026-10-23T01:34:56.458Z"
+    },
+    {
+      "id": "msg-618",
+      "ticketId": "DAS-137",
+      "customerId": "cust_9",
+      "sender": "customer",
+      "message": "The main analytics graph on our team dashboard keeps freezing after about 10 minutes of monitoring.",
+      "timestamp": "2026-10-23T20:43:56.458Z"
+    },
+    {
+      "id": "msg-619",
+      "ticketId": "DAS-137",
+      "customerId": "cust_9",
+      "sender": "ai",
+      "message": "This issue is caused by browser memory accumulation in WebGL rendering. Toggling hardware acceleration or refreshing the websocket stream will prevent the tab freeze.",
+      "timestamp": "2026-10-23T20:44:56.458Z"
+    },
+    {
+      "id": "msg-620",
+      "ticketId": "DAS-137",
+      "customerId": "cust_9",
+      "sender": "customer",
+      "message": "That fixed it! Thank you so much for the quick help.",
+      "timestamp": "2026-10-23T20:46:56.458Z"
+    },
+    {
+      "id": "msg-621",
+      "ticketId": "SSO-138",
+      "customerId": "cust_9",
+      "sender": "customer",
+      "message": "Our employees are getting an Okta SAML error saying invalid assertion signature.",
+      "timestamp": "2026-10-24T15:55:56.458Z"
+    },
+    {
+      "id": "msg-622",
+      "ticketId": "SSO-138",
+      "customerId": "cust_9",
+      "sender": "ai",
+      "message": "The SAML X.509 certificate on your Okta app configuration had expired. Please upload the newly generated certificate from your admin portal into the Security tab.",
+      "timestamp": "2026-10-24T15:56:56.458Z"
+    },
+    {
+      "id": "msg-623",
+      "ticketId": "SSO-138",
+      "customerId": "cust_9",
+      "sender": "customer",
+      "message": "That fixed it! Thank you so much for the quick help.",
+      "timestamp": "2026-10-24T15:58:56.458Z"
+    },
+    {
+      "id": "msg-624",
+      "ticketId": "ACC-139",
+      "customerId": "cust_9",
+      "sender": "customer",
+      "message": "Please explain how to configure our staging webhooks, but keep it strictly step-by-step.",
+      "timestamp": "2026-10-25T11:07:56.458Z"
+    },
+    {
+      "id": "msg-625",
+      "ticketId": "ACC-139",
+      "customerId": "cust_9",
+      "sender": "ai",
+      "message": "Understood! I will give you instructions one step at a time. Step 1: Open Settings > Webhooks > Add Endpoint.",
+      "timestamp": "2026-10-25T11:08:56.458Z"
+    },
+    {
+      "id": "msg-626",
+      "ticketId": "ACC-139",
+      "customerId": "cust_9",
+      "sender": "customer",
+      "message": "That fixed it! Thank you so much for the quick help.",
+      "timestamp": "2026-10-25T11:10:56.458Z"
+    },
+    {
+      "id": "msg-627",
+      "ticketId": "PAY-140",
+      "customerId": "cust_9",
+      "sender": "customer",
+      "message": "My payment is failing when I try to renew our subscription.",
+      "timestamp": "2026-10-26T06:19:56.458Z"
+    },
+    {
+      "id": "msg-628",
+      "ticketId": "PAY-140",
+      "customerId": "cust_9",
+      "sender": "ai",
+      "message": "I investigated the transaction log: error code indicates a billing address verification mismatch. Updating the billing address in your billing portal will resolve this immediately.",
+      "timestamp": "2026-10-26T06:20:56.458Z"
+    },
+    {
+      "id": "msg-629",
+      "ticketId": "PAY-140",
+      "customerId": "cust_9",
+      "sender": "customer",
+      "message": "That fixed it! Thank you so much for the quick help.",
+      "timestamp": "2026-10-26T06:22:56.458Z"
+    },
+    {
+      "id": "msg-630",
+      "ticketId": "LOG-141",
+      "customerId": "cust_9",
+      "sender": "customer",
+      "message": "My MFA codes are showing invalid even though I just entered the current number from Google Authenticator.",
+      "timestamp": "2026-10-27T01:31:56.458Z"
+    },
+    {
+      "id": "msg-631",
+      "ticketId": "LOG-141",
+      "customerId": "cust_9",
+      "sender": "ai",
+      "message": "This typically happens due to clock drift on the mobile device. In your Authenticator app, go to Settings -> Time correction for codes -> Sync now. That will synchronize the tokens.",
+      "timestamp": "2026-10-27T01:32:56.458Z"
+    },
+    {
+      "id": "msg-632",
+      "ticketId": "LOG-141",
+      "customerId": "cust_9",
+      "sender": "customer",
+      "message": "That fixed it! Thank you so much for the quick help.",
+      "timestamp": "2026-10-27T01:34:56.458Z"
+    },
+    {
+      "id": "msg-633",
+      "ticketId": "DAS-142",
+      "customerId": "cust_9",
+      "sender": "customer",
+      "message": "The main analytics graph on our team dashboard keeps freezing after about 10 minutes of monitoring.",
+      "timestamp": "2026-10-27T20:43:56.458Z"
+    },
+    {
+      "id": "msg-634",
+      "ticketId": "DAS-142",
+      "customerId": "cust_9",
+      "sender": "ai",
+      "message": "This issue is caused by browser memory accumulation in WebGL rendering. Toggling hardware acceleration or refreshing the websocket stream will prevent the tab freeze.",
+      "timestamp": "2026-10-27T20:44:56.458Z"
+    },
+    {
+      "id": "msg-635",
+      "ticketId": "DAS-142",
+      "customerId": "cust_9",
+      "sender": "customer",
+      "message": "That fixed it! Thank you so much for the quick help.",
+      "timestamp": "2026-10-27T20:46:56.458Z"
+    },
+    {
+      "id": "msg-636",
+      "ticketId": "SSO-143",
+      "customerId": "cust_10",
+      "sender": "customer",
+      "message": "Our employees are getting an Okta SAML error saying invalid assertion signature.",
+      "timestamp": "2026-10-28T15:55:56.458Z"
+    },
+    {
+      "id": "msg-637",
+      "ticketId": "SSO-143",
+      "customerId": "cust_10",
+      "sender": "ai",
+      "message": "The SAML X.509 certificate on your Okta app configuration had expired. Please upload the newly generated certificate from your admin portal into the Security tab.",
+      "timestamp": "2026-10-28T15:56:56.458Z"
+    },
+    {
+      "id": "msg-638",
+      "ticketId": "SSO-143",
+      "customerId": "cust_10",
+      "sender": "customer",
+      "message": "That fixed it! Thank you so much for the quick help.",
+      "timestamp": "2026-10-28T15:58:56.458Z"
+    },
+    {
+      "id": "msg-639",
+      "ticketId": "ACC-144",
+      "customerId": "cust_10",
+      "sender": "customer",
+      "message": "Please explain how to configure our staging webhooks, but keep it strictly step-by-step.",
+      "timestamp": "2026-10-29T11:07:56.458Z"
+    },
+    {
+      "id": "msg-640",
+      "ticketId": "PAY-145",
+      "customerId": "cust_10",
+      "sender": "customer",
+      "message": "My payment is failing when I try to renew our subscription.",
+      "timestamp": "2026-10-30T06:19:56.458Z"
+    },
+    {
+      "id": "msg-641",
+      "ticketId": "PAY-145",
+      "customerId": "cust_10",
+      "sender": "ai",
+      "message": "I investigated the transaction log: error code indicates a billing address verification mismatch. Updating the billing address in your billing portal will resolve this immediately.",
+      "timestamp": "2026-10-30T06:20:56.458Z"
+    },
+    {
+      "id": "msg-642",
+      "ticketId": "PAY-145",
+      "customerId": "cust_10",
+      "sender": "customer",
+      "message": "That fixed it! Thank you so much for the quick help.",
+      "timestamp": "2026-10-30T06:22:56.458Z"
+    },
+    {
+      "id": "msg-643",
+      "ticketId": "LOG-146",
+      "customerId": "cust_10",
+      "sender": "customer",
+      "message": "My MFA codes are showing invalid even though I just entered the current number from Google Authenticator.",
+      "timestamp": "2026-10-31T01:31:56.458Z"
+    },
+    {
+      "id": "msg-644",
+      "ticketId": "LOG-146",
+      "customerId": "cust_10",
+      "sender": "ai",
+      "message": "This typically happens due to clock drift on the mobile device. In your Authenticator app, go to Settings -> Time correction for codes -> Sync now. That will synchronize the tokens.",
+      "timestamp": "2026-10-31T01:32:56.458Z"
+    },
+    {
+      "id": "msg-645",
+      "ticketId": "LOG-146",
+      "customerId": "cust_10",
+      "sender": "customer",
+      "message": "That fixed it! Thank you so much for the quick help.",
+      "timestamp": "2026-10-31T01:34:56.458Z"
+    },
+    {
+      "id": "msg-646",
+      "ticketId": "DAS-147",
+      "customerId": "cust_10",
+      "sender": "customer",
+      "message": "The main analytics graph on our team dashboard keeps freezing after about 10 minutes of monitoring.",
+      "timestamp": "2026-10-31T20:43:56.458Z"
+    },
+    {
+      "id": "msg-647",
+      "ticketId": "DAS-147",
+      "customerId": "cust_10",
+      "sender": "ai",
+      "message": "This issue is caused by browser memory accumulation in WebGL rendering. Toggling hardware acceleration or refreshing the websocket stream will prevent the tab freeze.",
+      "timestamp": "2026-10-31T20:44:56.458Z"
+    },
+    {
+      "id": "msg-648",
+      "ticketId": "DAS-147",
+      "customerId": "cust_10",
+      "sender": "customer",
+      "message": "That fixed it! Thank you so much for the quick help.",
+      "timestamp": "2026-10-31T20:46:56.458Z"
+    },
+    {
+      "id": "msg-649",
+      "ticketId": "SSO-148",
+      "customerId": "cust_10",
+      "sender": "customer",
+      "message": "Our employees are getting an Okta SAML error saying invalid assertion signature.",
+      "timestamp": "2026-11-01T15:55:56.458Z"
+    },
+    {
+      "id": "msg-650",
+      "ticketId": "SSO-148",
+      "customerId": "cust_10",
+      "sender": "ai",
+      "message": "The SAML X.509 certificate on your Okta app configuration had expired. Please upload the newly generated certificate from your admin portal into the Security tab.",
+      "timestamp": "2026-11-01T15:56:56.458Z"
+    },
+    {
+      "id": "msg-651",
+      "ticketId": "SSO-148",
+      "customerId": "cust_10",
+      "sender": "customer",
+      "message": "That fixed it! Thank you so much for the quick help.",
+      "timestamp": "2026-11-01T15:58:56.458Z"
+    },
+    {
+      "id": "msg-652",
+      "ticketId": "ACC-149",
+      "customerId": "cust_11",
+      "sender": "customer",
+      "message": "Please explain how to configure our staging webhooks, but keep it strictly step-by-step.",
+      "timestamp": "2026-11-02T11:07:56.458Z"
+    },
+    {
+      "id": "msg-653",
+      "ticketId": "ACC-149",
+      "customerId": "cust_11",
+      "sender": "ai",
+      "message": "Understood! I will give you instructions one step at a time. Step 1: Open Settings > Webhooks > Add Endpoint.",
+      "timestamp": "2026-11-02T11:08:56.458Z"
+    },
+    {
+      "id": "msg-654",
+      "ticketId": "ACC-149",
+      "customerId": "cust_11",
+      "sender": "customer",
+      "message": "I tried applying that change, but it did not resolve the problem. The error still persists.",
+      "timestamp": "2026-11-02T11:10:56.458Z"
+    },
+    {
+      "id": "msg-655",
+      "ticketId": "ACC-149",
+      "customerId": "cust_11",
+      "sender": "ai",
+      "message": "Thank you for testing that. Since the standard step did not work, I am reviewing our diagnostic logs and escalating the telemetry data for deeper investigation.",
+      "timestamp": "2026-11-02T11:11:56.458Z"
+    },
+    {
+      "id": "msg-656",
+      "ticketId": "PAY-150",
+      "customerId": "cust_11",
+      "sender": "customer",
+      "message": "My payment is failing when I try to renew our subscription.",
+      "timestamp": "2026-11-03T06:19:56.458Z"
+    },
+    {
+      "id": "msg-657",
+      "ticketId": "PAY-150",
+      "customerId": "cust_11",
+      "sender": "ai",
+      "message": "I investigated the transaction log: error code indicates a billing address verification mismatch. Updating the billing address in your billing portal will resolve this immediately.",
+      "timestamp": "2026-11-03T06:20:56.458Z"
+    },
+    {
+      "id": "msg-658",
+      "ticketId": "PAY-150",
+      "customerId": "cust_11",
+      "sender": "customer",
+      "message": "That fixed it! Thank you so much for the quick help.",
+      "timestamp": "2026-11-03T06:22:56.458Z"
+    },
+    {
+      "id": "msg-659",
+      "ticketId": "LOG-151",
+      "customerId": "cust_11",
+      "sender": "customer",
+      "message": "My MFA codes are showing invalid even though I just entered the current number from Google Authenticator.",
+      "timestamp": "2026-11-04T01:31:56.458Z"
+    },
+    {
+      "id": "msg-660",
+      "ticketId": "LOG-151",
+      "customerId": "cust_11",
+      "sender": "ai",
+      "message": "This typically happens due to clock drift on the mobile device. In your Authenticator app, go to Settings -> Time correction for codes -> Sync now. That will synchronize the tokens.",
+      "timestamp": "2026-11-04T01:32:56.458Z"
+    },
+    {
+      "id": "msg-661",
+      "ticketId": "LOG-151",
+      "customerId": "cust_11",
+      "sender": "customer",
+      "message": "That fixed it! Thank you so much for the quick help.",
+      "timestamp": "2026-11-04T01:34:56.458Z"
+    },
+    {
+      "id": "msg-662",
+      "ticketId": "DAS-152",
+      "customerId": "cust_11",
+      "sender": "customer",
+      "message": "The main analytics graph on our team dashboard keeps freezing after about 10 minutes of monitoring.",
+      "timestamp": "2026-11-04T20:43:56.458Z"
+    },
+    {
+      "id": "msg-663",
+      "ticketId": "DAS-152",
+      "customerId": "cust_11",
+      "sender": "ai",
+      "message": "This issue is caused by browser memory accumulation in WebGL rendering. Toggling hardware acceleration or refreshing the websocket stream will prevent the tab freeze.",
+      "timestamp": "2026-11-04T20:44:56.458Z"
+    },
+    {
+      "id": "msg-664",
+      "ticketId": "DAS-152",
+      "customerId": "cust_11",
+      "sender": "customer",
+      "message": "That fixed it! Thank you so much for the quick help.",
+      "timestamp": "2026-11-04T20:46:56.458Z"
+    },
+    {
+      "id": "msg-665",
+      "ticketId": "SSO-153",
+      "customerId": "cust_11",
+      "sender": "customer",
+      "message": "Our employees are getting an Okta SAML error saying invalid assertion signature.",
+      "timestamp": "2026-11-05T15:55:56.458Z"
+    },
+    {
+      "id": "msg-666",
+      "ticketId": "SSO-153",
+      "customerId": "cust_11",
+      "sender": "ai",
+      "message": "The SAML X.509 certificate on your Okta app configuration had expired. Please upload the newly generated certificate from your admin portal into the Security tab.",
+      "timestamp": "2026-11-05T15:56:56.458Z"
+    },
+    {
+      "id": "msg-667",
+      "ticketId": "SSO-153",
+      "customerId": "cust_11",
+      "sender": "customer",
+      "message": "That fixed it! Thank you so much for the quick help.",
+      "timestamp": "2026-11-05T15:58:56.458Z"
+    },
+    {
+      "id": "msg-668",
+      "ticketId": "ACC-154",
+      "customerId": "cust_11",
+      "sender": "customer",
+      "message": "Please explain how to configure our staging webhooks, but keep it strictly step-by-step.",
+      "timestamp": "2026-11-06T11:07:56.458Z"
+    },
+    {
+      "id": "msg-669",
+      "ticketId": "ACC-154",
+      "customerId": "cust_11",
+      "sender": "ai",
+      "message": "Understood! I will give you instructions one step at a time. Step 1: Open Settings > Webhooks > Add Endpoint.",
+      "timestamp": "2026-11-06T11:08:56.458Z"
+    },
+    {
+      "id": "msg-670",
+      "ticketId": "ACC-154",
+      "customerId": "cust_11",
+      "sender": "customer",
+      "message": "That fixed it! Thank you so much for the quick help.",
+      "timestamp": "2026-11-06T11:10:56.458Z"
+    },
+    {
+      "id": "msg-671",
+      "ticketId": "PAY-155",
+      "customerId": "cust_12",
+      "sender": "customer",
+      "message": "My payment is failing when I try to renew our subscription.",
+      "timestamp": "2026-11-07T06:19:56.458Z"
+    },
+    {
+      "id": "msg-672",
+      "ticketId": "PAY-155",
+      "customerId": "cust_12",
+      "sender": "ai",
+      "message": "I investigated the transaction log: error code indicates a billing address verification mismatch. Updating the billing address in your billing portal will resolve this immediately.",
+      "timestamp": "2026-11-07T06:20:56.458Z"
+    },
+    {
+      "id": "msg-673",
+      "ticketId": "PAY-155",
+      "customerId": "cust_12",
+      "sender": "customer",
+      "message": "That fixed it! Thank you so much for the quick help.",
+      "timestamp": "2026-11-07T06:22:56.458Z"
+    },
+    {
+      "id": "msg-674",
+      "ticketId": "LOG-156",
+      "customerId": "cust_12",
+      "sender": "customer",
+      "message": "My MFA codes are showing invalid even though I just entered the current number from Google Authenticator.",
+      "timestamp": "2026-11-08T01:31:56.458Z"
+    },
+    {
+      "id": "msg-675",
+      "ticketId": "LOG-156",
+      "customerId": "cust_12",
+      "sender": "ai",
+      "message": "This typically happens due to clock drift on the mobile device. In your Authenticator app, go to Settings -> Time correction for codes -> Sync now. That will synchronize the tokens.",
+      "timestamp": "2026-11-08T01:32:56.458Z"
+    },
+    {
+      "id": "msg-676",
+      "ticketId": "LOG-156",
+      "customerId": "cust_12",
+      "sender": "customer",
+      "message": "That fixed it! Thank you so much for the quick help.",
+      "timestamp": "2026-11-08T01:34:56.458Z"
+    },
+    {
+      "id": "msg-677",
+      "ticketId": "DAS-157",
+      "customerId": "cust_12",
+      "sender": "customer",
+      "message": "The main analytics graph on our team dashboard keeps freezing after about 10 minutes of monitoring.",
+      "timestamp": "2026-11-08T20:43:56.458Z"
+    },
+    {
+      "id": "msg-678",
+      "ticketId": "DAS-157",
+      "customerId": "cust_12",
+      "sender": "ai",
+      "message": "This issue is caused by browser memory accumulation in WebGL rendering. Toggling hardware acceleration or refreshing the websocket stream will prevent the tab freeze.",
+      "timestamp": "2026-11-08T20:44:56.458Z"
+    },
+    {
+      "id": "msg-679",
+      "ticketId": "DAS-157",
+      "customerId": "cust_12",
+      "sender": "customer",
+      "message": "That fixed it! Thank you so much for the quick help.",
+      "timestamp": "2026-11-08T20:46:56.458Z"
+    },
+    {
+      "id": "msg-680",
+      "ticketId": "SSO-158",
+      "customerId": "cust_12",
+      "sender": "customer",
+      "message": "Our employees are getting an Okta SAML error saying invalid assertion signature.",
+      "timestamp": "2026-11-09T15:55:56.458Z"
+    },
+    {
+      "id": "msg-681",
+      "ticketId": "SSO-158",
+      "customerId": "cust_12",
+      "sender": "ai",
+      "message": "The SAML X.509 certificate on your Okta app configuration had expired. Please upload the newly generated certificate from your admin portal into the Security tab.",
+      "timestamp": "2026-11-09T15:56:56.458Z"
+    },
+    {
+      "id": "msg-682",
+      "ticketId": "SSO-158",
+      "customerId": "cust_12",
+      "sender": "customer",
+      "message": "That fixed it! Thank you so much for the quick help.",
+      "timestamp": "2026-11-09T15:58:56.458Z"
+    },
+    {
+      "id": "msg-683",
+      "ticketId": "ACC-159",
+      "customerId": "cust_12",
+      "sender": "customer",
+      "message": "Please explain how to configure our staging webhooks, but keep it strictly step-by-step.",
+      "timestamp": "2026-11-10T11:07:56.458Z"
+    },
+    {
+      "id": "msg-684",
+      "ticketId": "ACC-159",
+      "customerId": "cust_12",
+      "sender": "ai",
+      "message": "Understood! I will give you instructions one step at a time. Step 1: Open Settings > Webhooks > Add Endpoint.",
+      "timestamp": "2026-11-10T11:08:56.458Z"
+    },
+    {
+      "id": "msg-685",
+      "ticketId": "ACC-159",
+      "customerId": "cust_12",
+      "sender": "customer",
+      "message": "That fixed it! Thank you so much for the quick help.",
+      "timestamp": "2026-11-10T11:10:56.458Z"
+    },
+    {
+      "id": "msg-686",
+      "ticketId": "PAY-160",
+      "customerId": "cust_12",
+      "sender": "customer",
+      "message": "My payment is failing when I try to renew our subscription.",
+      "timestamp": "2026-11-11T06:19:56.458Z"
+    },
+    {
+      "id": "msg-687",
+      "ticketId": "PAY-160",
+      "customerId": "cust_12",
+      "sender": "ai",
+      "message": "I investigated the transaction log: error code indicates a billing address verification mismatch. Updating the billing address in your billing portal will resolve this immediately.",
+      "timestamp": "2026-11-11T06:20:56.458Z"
+    },
+    {
+      "id": "msg-688",
+      "ticketId": "PAY-160",
+      "customerId": "cust_12",
+      "sender": "customer",
+      "message": "That fixed it! Thank you so much for the quick help.",
+      "timestamp": "2026-11-11T06:22:56.458Z"
+    },
+    {
+      "id": "msg-689",
+      "ticketId": "LOG-161",
+      "customerId": "cust_13",
+      "sender": "customer",
+      "message": "My MFA codes are showing invalid even though I just entered the current number from Google Authenticator.",
+      "timestamp": "2026-11-12T01:31:56.459Z"
+    },
+    {
+      "id": "msg-690",
+      "ticketId": "LOG-161",
+      "customerId": "cust_13",
+      "sender": "ai",
+      "message": "This typically happens due to clock drift on the mobile device. In your Authenticator app, go to Settings -> Time correction for codes -> Sync now. That will synchronize the tokens.",
+      "timestamp": "2026-11-12T01:32:56.459Z"
+    },
+    {
+      "id": "msg-691",
+      "ticketId": "LOG-161",
+      "customerId": "cust_13",
+      "sender": "customer",
+      "message": "That fixed it! Thank you so much for the quick help.",
+      "timestamp": "2026-11-12T01:34:56.459Z"
+    },
+    {
+      "id": "msg-692",
+      "ticketId": "DAS-162",
+      "customerId": "cust_13",
+      "sender": "customer",
+      "message": "The main analytics graph on our team dashboard keeps freezing after about 10 minutes of monitoring.",
+      "timestamp": "2026-11-12T20:43:56.459Z"
+    },
+    {
+      "id": "msg-693",
+      "ticketId": "DAS-162",
+      "customerId": "cust_13",
+      "sender": "ai",
+      "message": "This issue is caused by browser memory accumulation in WebGL rendering. Toggling hardware acceleration or refreshing the websocket stream will prevent the tab freeze.",
+      "timestamp": "2026-11-12T20:44:56.459Z"
+    },
+    {
+      "id": "msg-694",
+      "ticketId": "DAS-162",
+      "customerId": "cust_13",
+      "sender": "customer",
+      "message": "That fixed it! Thank you so much for the quick help.",
+      "timestamp": "2026-11-12T20:46:56.459Z"
+    },
+    {
+      "id": "msg-695",
+      "ticketId": "SSO-163",
+      "customerId": "cust_13",
+      "sender": "customer",
+      "message": "Our employees are getting an Okta SAML error saying invalid assertion signature.",
+      "timestamp": "2026-11-13T15:55:56.459Z"
+    },
+    {
+      "id": "msg-696",
+      "ticketId": "SSO-163",
+      "customerId": "cust_13",
+      "sender": "ai",
+      "message": "The SAML X.509 certificate on your Okta app configuration had expired. Please upload the newly generated certificate from your admin portal into the Security tab.",
+      "timestamp": "2026-11-13T15:56:56.459Z"
+    },
+    {
+      "id": "msg-697",
+      "ticketId": "SSO-163",
+      "customerId": "cust_13",
+      "sender": "customer",
+      "message": "That fixed it! Thank you so much for the quick help.",
+      "timestamp": "2026-11-13T15:58:56.459Z"
+    },
+    {
+      "id": "msg-698",
+      "ticketId": "ACC-164",
+      "customerId": "cust_13",
+      "sender": "customer",
+      "message": "Please explain how to configure our staging webhooks, but keep it strictly step-by-step.",
+      "timestamp": "2026-11-14T11:07:56.459Z"
+    },
+    {
+      "id": "msg-699",
+      "ticketId": "ACC-164",
+      "customerId": "cust_13",
+      "sender": "ai",
+      "message": "Understood! I will give you instructions one step at a time. Step 1: Open Settings > Webhooks > Add Endpoint.",
+      "timestamp": "2026-11-14T11:08:56.459Z"
+    },
+    {
+      "id": "msg-700",
+      "ticketId": "ACC-164",
+      "customerId": "cust_13",
+      "sender": "customer",
+      "message": "That fixed it! Thank you so much for the quick help.",
+      "timestamp": "2026-11-14T11:10:56.459Z"
+    },
+    {
+      "id": "msg-701",
+      "ticketId": "PAY-165",
+      "customerId": "cust_13",
+      "sender": "customer",
+      "message": "My payment is failing when I try to renew our subscription.",
+      "timestamp": "2026-11-15T06:19:56.459Z"
+    },
+    {
+      "id": "msg-702",
+      "ticketId": "PAY-165",
+      "customerId": "cust_13",
+      "sender": "ai",
+      "message": "I investigated the transaction log: error code indicates a billing address verification mismatch. Updating the billing address in your billing portal will resolve this immediately.",
+      "timestamp": "2026-11-15T06:20:56.459Z"
+    },
+    {
+      "id": "msg-703",
+      "ticketId": "PAY-165",
+      "customerId": "cust_13",
+      "sender": "customer",
+      "message": "That fixed it! Thank you so much for the quick help.",
+      "timestamp": "2026-11-15T06:22:56.459Z"
+    },
+    {
+      "id": "msg-704",
+      "ticketId": "LOG-166",
+      "customerId": "cust_13",
+      "sender": "customer",
+      "message": "My MFA codes are showing invalid even though I just entered the current number from Google Authenticator.",
+      "timestamp": "2026-11-16T01:31:56.459Z"
+    },
+    {
+      "id": "msg-705",
+      "ticketId": "LOG-166",
+      "customerId": "cust_13",
+      "sender": "ai",
+      "message": "This typically happens due to clock drift on the mobile device. In your Authenticator app, go to Settings -> Time correction for codes -> Sync now. That will synchronize the tokens.",
+      "timestamp": "2026-11-16T01:32:56.459Z"
+    },
+    {
+      "id": "msg-706",
+      "ticketId": "LOG-166",
+      "customerId": "cust_13",
+      "sender": "customer",
+      "message": "That fixed it! Thank you so much for the quick help.",
+      "timestamp": "2026-11-16T01:34:56.459Z"
+    },
+    {
+      "id": "msg-707",
+      "ticketId": "DAS-167",
+      "customerId": "cust_15",
+      "sender": "customer",
+      "message": "The main analytics graph on our team dashboard keeps freezing after about 10 minutes of monitoring.",
+      "timestamp": "2026-11-16T20:43:56.459Z"
+    },
+    {
+      "id": "msg-708",
+      "ticketId": "DAS-167",
+      "customerId": "cust_15",
+      "sender": "ai",
+      "message": "This issue is caused by browser memory accumulation in WebGL rendering. Toggling hardware acceleration or refreshing the websocket stream will prevent the tab freeze.",
+      "timestamp": "2026-11-16T20:44:56.459Z"
+    },
+    {
+      "id": "msg-709",
+      "ticketId": "DAS-167",
+      "customerId": "cust_15",
+      "sender": "customer",
+      "message": "I tried applying that change, but it did not resolve the problem. The error still persists.",
+      "timestamp": "2026-11-16T20:46:56.459Z"
+    },
+    {
+      "id": "msg-710",
+      "ticketId": "DAS-167",
+      "customerId": "cust_15",
+      "sender": "ai",
+      "message": "Thank you for testing that. Since the standard step did not work, I am reviewing our diagnostic logs and escalating the telemetry data for deeper investigation.",
+      "timestamp": "2026-11-16T20:47:56.459Z"
+    },
+    {
+      "id": "msg-711",
+      "ticketId": "SSO-168",
+      "customerId": "cust_15",
+      "sender": "customer",
+      "message": "Our employees are getting an Okta SAML error saying invalid assertion signature.",
+      "timestamp": "2026-11-17T15:55:56.459Z"
+    },
+    {
+      "id": "msg-712",
+      "ticketId": "ACC-169",
+      "customerId": "cust_15",
+      "sender": "customer",
+      "message": "Please explain how to configure our staging webhooks, but keep it strictly step-by-step.",
+      "timestamp": "2026-11-18T11:07:56.459Z"
+    },
+    {
+      "id": "msg-713",
+      "ticketId": "ACC-169",
+      "customerId": "cust_15",
+      "sender": "ai",
+      "message": "Understood! I will give you instructions one step at a time. Step 1: Open Settings > Webhooks > Add Endpoint.",
+      "timestamp": "2026-11-18T11:08:56.459Z"
+    },
+    {
+      "id": "msg-714",
+      "ticketId": "ACC-169",
+      "customerId": "cust_15",
+      "sender": "customer",
+      "message": "That fixed it! Thank you so much for the quick help.",
+      "timestamp": "2026-11-18T11:10:56.459Z"
+    },
+    {
+      "id": "msg-715",
+      "ticketId": "PAY-170",
+      "customerId": "cust_15",
+      "sender": "customer",
+      "message": "My payment is failing when I try to renew our subscription.",
+      "timestamp": "2026-11-19T06:19:56.459Z"
+    },
+    {
+      "id": "msg-716",
+      "ticketId": "PAY-170",
+      "customerId": "cust_15",
+      "sender": "ai",
+      "message": "I investigated the transaction log: error code indicates a billing address verification mismatch. Updating the billing address in your billing portal will resolve this immediately.",
+      "timestamp": "2026-11-19T06:20:56.459Z"
+    },
+    {
+      "id": "msg-717",
+      "ticketId": "PAY-170",
+      "customerId": "cust_15",
+      "sender": "customer",
+      "message": "That fixed it! Thank you so much for the quick help.",
+      "timestamp": "2026-11-19T06:22:56.459Z"
+    },
+    {
+      "id": "msg-718",
+      "ticketId": "LOG-171",
+      "customerId": "cust_15",
+      "sender": "customer",
+      "message": "My MFA codes are showing invalid even though I just entered the current number from Google Authenticator.",
+      "timestamp": "2026-11-20T01:31:56.459Z"
+    },
+    {
+      "id": "msg-719",
+      "ticketId": "LOG-171",
+      "customerId": "cust_15",
+      "sender": "ai",
+      "message": "This typically happens due to clock drift on the mobile device. In your Authenticator app, go to Settings -> Time correction for codes -> Sync now. That will synchronize the tokens.",
+      "timestamp": "2026-11-20T01:32:56.459Z"
+    },
+    {
+      "id": "msg-720",
+      "ticketId": "LOG-171",
+      "customerId": "cust_15",
+      "sender": "customer",
+      "message": "That fixed it! Thank you so much for the quick help.",
+      "timestamp": "2026-11-20T01:34:56.459Z"
+    },
+    {
+      "id": "msg-721",
+      "ticketId": "DAS-172",
+      "customerId": "cust_15",
+      "sender": "customer",
+      "message": "The main analytics graph on our team dashboard keeps freezing after about 10 minutes of monitoring.",
+      "timestamp": "2026-11-20T20:43:56.459Z"
+    },
+    {
+      "id": "msg-722",
+      "ticketId": "DAS-172",
+      "customerId": "cust_15",
+      "sender": "ai",
+      "message": "This issue is caused by browser memory accumulation in WebGL rendering. Toggling hardware acceleration or refreshing the websocket stream will prevent the tab freeze.",
+      "timestamp": "2026-11-20T20:44:56.459Z"
+    },
+    {
+      "id": "msg-723",
+      "ticketId": "DAS-172",
+      "customerId": "cust_15",
+      "sender": "customer",
+      "message": "That fixed it! Thank you so much for the quick help.",
+      "timestamp": "2026-11-20T20:46:56.459Z"
+    },
+    {
+      "id": "msg-724",
+      "ticketId": "SSO-173",
+      "customerId": "cust_16",
+      "sender": "customer",
+      "message": "Our employees are getting an Okta SAML error saying invalid assertion signature.",
+      "timestamp": "2026-11-21T15:55:56.459Z"
+    },
+    {
+      "id": "msg-725",
+      "ticketId": "SSO-173",
+      "customerId": "cust_16",
+      "sender": "ai",
+      "message": "The SAML X.509 certificate on your Okta app configuration had expired. Please upload the newly generated certificate from your admin portal into the Security tab.",
+      "timestamp": "2026-11-21T15:56:56.459Z"
+    },
+    {
+      "id": "msg-726",
+      "ticketId": "SSO-173",
+      "customerId": "cust_16",
+      "sender": "customer",
+      "message": "That fixed it! Thank you so much for the quick help.",
+      "timestamp": "2026-11-21T15:58:56.459Z"
+    },
+    {
+      "id": "msg-727",
+      "ticketId": "ACC-174",
+      "customerId": "cust_16",
+      "sender": "customer",
+      "message": "Please explain how to configure our staging webhooks, but keep it strictly step-by-step.",
+      "timestamp": "2026-11-22T11:07:56.459Z"
+    },
+    {
+      "id": "msg-728",
+      "ticketId": "ACC-174",
+      "customerId": "cust_16",
+      "sender": "ai",
+      "message": "Understood! I will give you instructions one step at a time. Step 1: Open Settings > Webhooks > Add Endpoint.",
+      "timestamp": "2026-11-22T11:08:56.459Z"
+    },
+    {
+      "id": "msg-729",
+      "ticketId": "ACC-174",
+      "customerId": "cust_16",
+      "sender": "customer",
+      "message": "That fixed it! Thank you so much for the quick help.",
+      "timestamp": "2026-11-22T11:10:56.459Z"
+    },
+    {
+      "id": "msg-730",
+      "ticketId": "PAY-175",
+      "customerId": "cust_16",
+      "sender": "customer",
+      "message": "My payment is failing when I try to renew our subscription.",
+      "timestamp": "2026-11-23T06:19:56.459Z"
+    },
+    {
+      "id": "msg-731",
+      "ticketId": "PAY-175",
+      "customerId": "cust_16",
+      "sender": "ai",
+      "message": "I investigated the transaction log: error code indicates a billing address verification mismatch. Updating the billing address in your billing portal will resolve this immediately.",
+      "timestamp": "2026-11-23T06:20:56.459Z"
+    },
+    {
+      "id": "msg-732",
+      "ticketId": "PAY-175",
+      "customerId": "cust_16",
+      "sender": "customer",
+      "message": "That fixed it! Thank you so much for the quick help.",
+      "timestamp": "2026-11-23T06:22:56.459Z"
+    },
+    {
+      "id": "msg-733",
+      "ticketId": "LOG-176",
+      "customerId": "cust_16",
+      "sender": "customer",
+      "message": "My MFA codes are showing invalid even though I just entered the current number from Google Authenticator.",
+      "timestamp": "2026-11-24T01:31:56.459Z"
+    },
+    {
+      "id": "msg-734",
+      "ticketId": "LOG-176",
+      "customerId": "cust_16",
+      "sender": "ai",
+      "message": "This typically happens due to clock drift on the mobile device. In your Authenticator app, go to Settings -> Time correction for codes -> Sync now. That will synchronize the tokens.",
+      "timestamp": "2026-11-24T01:32:56.459Z"
+    },
+    {
+      "id": "msg-735",
+      "ticketId": "LOG-176",
+      "customerId": "cust_16",
+      "sender": "customer",
+      "message": "That fixed it! Thank you so much for the quick help.",
+      "timestamp": "2026-11-24T01:34:56.459Z"
+    },
+    {
+      "id": "msg-736",
+      "ticketId": "DAS-177",
+      "customerId": "cust_16",
+      "sender": "customer",
+      "message": "The main analytics graph on our team dashboard keeps freezing after about 10 minutes of monitoring.",
+      "timestamp": "2026-11-24T20:43:56.459Z"
+    },
+    {
+      "id": "msg-737",
+      "ticketId": "DAS-177",
+      "customerId": "cust_16",
+      "sender": "ai",
+      "message": "This issue is caused by browser memory accumulation in WebGL rendering. Toggling hardware acceleration or refreshing the websocket stream will prevent the tab freeze.",
+      "timestamp": "2026-11-24T20:44:56.459Z"
+    },
+    {
+      "id": "msg-738",
+      "ticketId": "DAS-177",
+      "customerId": "cust_16",
+      "sender": "customer",
+      "message": "That fixed it! Thank you so much for the quick help.",
+      "timestamp": "2026-11-24T20:46:56.459Z"
+    },
+    {
+      "id": "msg-739",
+      "ticketId": "ACC-178",
+      "customerId": "cust_17",
+      "sender": "customer",
+      "message": "Please explain how to configure our staging webhooks, but keep it strictly step-by-step.",
+      "timestamp": "2026-11-25T15:55:56.459Z"
+    },
+    {
+      "id": "msg-740",
+      "ticketId": "ACC-178",
+      "customerId": "cust_17",
+      "sender": "ai",
+      "message": "Understood! I will give you instructions one step at a time. Step 1: Open Settings > Webhooks > Add Endpoint.",
+      "timestamp": "2026-11-25T15:56:56.459Z"
+    },
+    {
+      "id": "msg-741",
+      "ticketId": "ACC-178",
+      "customerId": "cust_17",
+      "sender": "customer",
+      "message": "That fixed it! Thank you so much for the quick help.",
+      "timestamp": "2026-11-25T15:58:56.459Z"
+    },
+    {
+      "id": "msg-742",
+      "ticketId": "PAY-179",
+      "customerId": "cust_17",
+      "sender": "customer",
+      "message": "My payment is failing when I try to renew our subscription.",
+      "timestamp": "2026-11-26T11:07:56.459Z"
+    },
+    {
+      "id": "msg-743",
+      "ticketId": "PAY-179",
+      "customerId": "cust_17",
+      "sender": "ai",
+      "message": "I investigated the transaction log: error code indicates a billing address verification mismatch. Updating the billing address in your billing portal will resolve this immediately.",
+      "timestamp": "2026-11-26T11:08:56.459Z"
+    },
+    {
+      "id": "msg-744",
+      "ticketId": "PAY-179",
+      "customerId": "cust_17",
+      "sender": "customer",
+      "message": "That fixed it! Thank you so much for the quick help.",
+      "timestamp": "2026-11-26T11:10:56.459Z"
+    },
+    {
+      "id": "msg-745",
+      "ticketId": "LOG-180",
+      "customerId": "cust_17",
+      "sender": "customer",
+      "message": "My MFA codes are showing invalid even though I just entered the current number from Google Authenticator.",
+      "timestamp": "2026-11-27T06:19:56.459Z"
+    },
+    {
+      "id": "msg-746",
+      "ticketId": "LOG-180",
+      "customerId": "cust_17",
+      "sender": "ai",
+      "message": "This typically happens due to clock drift on the mobile device. In your Authenticator app, go to Settings -> Time correction for codes -> Sync now. That will synchronize the tokens.",
+      "timestamp": "2026-11-27T06:20:56.459Z"
+    },
+    {
+      "id": "msg-747",
+      "ticketId": "LOG-180",
+      "customerId": "cust_17",
+      "sender": "customer",
+      "message": "That fixed it! Thank you so much for the quick help.",
+      "timestamp": "2026-11-27T06:22:56.459Z"
+    },
+    {
+      "id": "msg-748",
+      "ticketId": "DAS-181",
+      "customerId": "cust_17",
+      "sender": "customer",
+      "message": "The main analytics graph on our team dashboard keeps freezing after about 10 minutes of monitoring.",
+      "timestamp": "2026-11-28T01:31:56.459Z"
+    },
+    {
+      "id": "msg-749",
+      "ticketId": "DAS-181",
+      "customerId": "cust_17",
+      "sender": "ai",
+      "message": "This issue is caused by browser memory accumulation in WebGL rendering. Toggling hardware acceleration or refreshing the websocket stream will prevent the tab freeze.",
+      "timestamp": "2026-11-28T01:32:56.459Z"
+    },
+    {
+      "id": "msg-750",
+      "ticketId": "DAS-181",
+      "customerId": "cust_17",
+      "sender": "customer",
+      "message": "That fixed it! Thank you so much for the quick help.",
+      "timestamp": "2026-11-28T01:34:56.459Z"
+    },
+    {
+      "id": "msg-751",
+      "ticketId": "SSO-182",
+      "customerId": "cust_17",
+      "sender": "customer",
+      "message": "Our employees are getting an Okta SAML error saying invalid assertion signature.",
+      "timestamp": "2026-11-28T20:43:56.459Z"
+    },
+    {
+      "id": "msg-752",
+      "ticketId": "SSO-182",
+      "customerId": "cust_17",
+      "sender": "ai",
+      "message": "The SAML X.509 certificate on your Okta app configuration had expired. Please upload the newly generated certificate from your admin portal into the Security tab.",
+      "timestamp": "2026-11-28T20:44:56.459Z"
+    },
+    {
+      "id": "msg-753",
+      "ticketId": "SSO-182",
+      "customerId": "cust_17",
+      "sender": "customer",
+      "message": "That fixed it! Thank you so much for the quick help.",
+      "timestamp": "2026-11-28T20:46:56.459Z"
+    },
+    {
+      "id": "msg-754",
+      "ticketId": "PAY-183",
+      "customerId": "cust_18",
+      "sender": "customer",
+      "message": "My payment is failing when I try to renew our subscription.",
+      "timestamp": "2026-11-29T15:55:56.459Z"
+    },
+    {
+      "id": "msg-755",
+      "ticketId": "PAY-183",
+      "customerId": "cust_18",
+      "sender": "ai",
+      "message": "I investigated the transaction log: error code indicates a billing address verification mismatch. Updating the billing address in your billing portal will resolve this immediately.",
+      "timestamp": "2026-11-29T15:56:56.459Z"
+    },
+    {
+      "id": "msg-756",
+      "ticketId": "PAY-183",
+      "customerId": "cust_18",
+      "sender": "customer",
+      "message": "I tried applying that change, but it did not resolve the problem. The error still persists.",
+      "timestamp": "2026-11-29T15:58:56.459Z"
+    },
+    {
+      "id": "msg-757",
+      "ticketId": "PAY-183",
+      "customerId": "cust_18",
+      "sender": "ai",
+      "message": "Thank you for testing that. Since the standard step did not work, I am reviewing our diagnostic logs and escalating the telemetry data for deeper investigation.",
+      "timestamp": "2026-11-29T15:59:56.459Z"
+    },
+    {
+      "id": "msg-758",
+      "ticketId": "LOG-184",
+      "customerId": "cust_18",
+      "sender": "customer",
+      "message": "My MFA codes are showing invalid even though I just entered the current number from Google Authenticator.",
+      "timestamp": "2026-11-30T11:07:56.459Z"
+    },
+    {
+      "id": "msg-759",
+      "ticketId": "LOG-184",
+      "customerId": "cust_18",
+      "sender": "ai",
+      "message": "This typically happens due to clock drift on the mobile device. In your Authenticator app, go to Settings -> Time correction for codes -> Sync now. That will synchronize the tokens.",
+      "timestamp": "2026-11-30T11:08:56.459Z"
+    },
+    {
+      "id": "msg-760",
+      "ticketId": "LOG-184",
+      "customerId": "cust_18",
+      "sender": "customer",
+      "message": "That fixed it! Thank you so much for the quick help.",
+      "timestamp": "2026-11-30T11:10:56.459Z"
+    },
+    {
+      "id": "msg-761",
+      "ticketId": "DAS-185",
+      "customerId": "cust_18",
+      "sender": "customer",
+      "message": "The main analytics graph on our team dashboard keeps freezing after about 10 minutes of monitoring.",
+      "timestamp": "2026-12-01T06:19:56.459Z"
+    },
+    {
+      "id": "msg-762",
+      "ticketId": "DAS-185",
+      "customerId": "cust_18",
+      "sender": "ai",
+      "message": "This issue is caused by browser memory accumulation in WebGL rendering. Toggling hardware acceleration or refreshing the websocket stream will prevent the tab freeze.",
+      "timestamp": "2026-12-01T06:20:56.459Z"
+    },
+    {
+      "id": "msg-763",
+      "ticketId": "DAS-185",
+      "customerId": "cust_18",
+      "sender": "customer",
+      "message": "That fixed it! Thank you so much for the quick help.",
+      "timestamp": "2026-12-01T06:22:56.459Z"
+    },
+    {
+      "id": "msg-764",
+      "ticketId": "SSO-186",
+      "customerId": "cust_18",
+      "sender": "customer",
+      "message": "Our employees are getting an Okta SAML error saying invalid assertion signature.",
+      "timestamp": "2026-12-02T01:31:56.459Z"
+    },
+    {
+      "id": "msg-765",
+      "ticketId": "SSO-186",
+      "customerId": "cust_18",
+      "sender": "ai",
+      "message": "The SAML X.509 certificate on your Okta app configuration had expired. Please upload the newly generated certificate from your admin portal into the Security tab.",
+      "timestamp": "2026-12-02T01:32:56.459Z"
+    },
+    {
+      "id": "msg-766",
+      "ticketId": "SSO-186",
+      "customerId": "cust_18",
+      "sender": "customer",
+      "message": "That fixed it! Thank you so much for the quick help.",
+      "timestamp": "2026-12-02T01:34:56.459Z"
+    },
+    {
+      "id": "msg-767",
+      "ticketId": "ACC-187",
+      "customerId": "cust_18",
+      "sender": "customer",
+      "message": "Please explain how to configure our staging webhooks, but keep it strictly step-by-step.",
+      "timestamp": "2026-12-02T20:43:56.459Z"
+    },
+    {
+      "id": "msg-768",
+      "ticketId": "ACC-187",
+      "customerId": "cust_18",
+      "sender": "ai",
+      "message": "Understood! I will give you instructions one step at a time. Step 1: Open Settings > Webhooks > Add Endpoint.",
+      "timestamp": "2026-12-02T20:44:56.459Z"
+    },
+    {
+      "id": "msg-769",
+      "ticketId": "ACC-187",
+      "customerId": "cust_18",
+      "sender": "customer",
+      "message": "That fixed it! Thank you so much for the quick help.",
+      "timestamp": "2026-12-02T20:46:56.459Z"
+    },
+    {
+      "id": "msg-770",
+      "ticketId": "LOG-188",
+      "customerId": "cust_19",
+      "sender": "customer",
+      "message": "My MFA codes are showing invalid even though I just entered the current number from Google Authenticator.",
+      "timestamp": "2026-12-03T15:55:56.459Z"
+    },
+    {
+      "id": "msg-771",
+      "ticketId": "LOG-188",
+      "customerId": "cust_19",
+      "sender": "ai",
+      "message": "This typically happens due to clock drift on the mobile device. In your Authenticator app, go to Settings -> Time correction for codes -> Sync now. That will synchronize the tokens.",
+      "timestamp": "2026-12-03T15:56:56.459Z"
+    },
+    {
+      "id": "msg-772",
+      "ticketId": "LOG-188",
+      "customerId": "cust_19",
+      "sender": "customer",
+      "message": "That fixed it! Thank you so much for the quick help.",
+      "timestamp": "2026-12-03T15:58:56.459Z"
+    },
+    {
+      "id": "msg-773",
+      "ticketId": "DAS-189",
+      "customerId": "cust_19",
+      "sender": "customer",
+      "message": "The main analytics graph on our team dashboard keeps freezing after about 10 minutes of monitoring.",
+      "timestamp": "2026-12-04T11:07:56.459Z"
+    },
+    {
+      "id": "msg-774",
+      "ticketId": "SSO-190",
+      "customerId": "cust_19",
+      "sender": "customer",
+      "message": "Our employees are getting an Okta SAML error saying invalid assertion signature.",
+      "timestamp": "2026-12-05T06:19:56.459Z"
+    },
+    {
+      "id": "msg-775",
+      "ticketId": "SSO-190",
+      "customerId": "cust_19",
+      "sender": "ai",
+      "message": "The SAML X.509 certificate on your Okta app configuration had expired. Please upload the newly generated certificate from your admin portal into the Security tab.",
+      "timestamp": "2026-12-05T06:20:56.459Z"
+    },
+    {
+      "id": "msg-776",
+      "ticketId": "SSO-190",
+      "customerId": "cust_19",
+      "sender": "customer",
+      "message": "That fixed it! Thank you so much for the quick help.",
+      "timestamp": "2026-12-05T06:22:56.459Z"
+    },
+    {
+      "id": "msg-777",
+      "ticketId": "ACC-191",
+      "customerId": "cust_19",
+      "sender": "customer",
+      "message": "Please explain how to configure our staging webhooks, but keep it strictly step-by-step.",
+      "timestamp": "2026-12-06T01:31:56.459Z"
+    },
+    {
+      "id": "msg-778",
+      "ticketId": "ACC-191",
+      "customerId": "cust_19",
+      "sender": "ai",
+      "message": "Understood! I will give you instructions one step at a time. Step 1: Open Settings > Webhooks > Add Endpoint.",
+      "timestamp": "2026-12-06T01:32:56.459Z"
+    },
+    {
+      "id": "msg-779",
+      "ticketId": "ACC-191",
+      "customerId": "cust_19",
+      "sender": "customer",
+      "message": "That fixed it! Thank you so much for the quick help.",
+      "timestamp": "2026-12-06T01:34:56.459Z"
+    },
+    {
+      "id": "msg-780",
+      "ticketId": "PAY-192",
+      "customerId": "cust_19",
+      "sender": "customer",
+      "message": "My payment is failing when I try to renew our subscription.",
+      "timestamp": "2026-12-06T20:43:56.459Z"
+    },
+    {
+      "id": "msg-781",
+      "ticketId": "PAY-192",
+      "customerId": "cust_19",
+      "sender": "ai",
+      "message": "I investigated the transaction log: error code indicates a billing address verification mismatch. Updating the billing address in your billing portal will resolve this immediately.",
+      "timestamp": "2026-12-06T20:44:56.459Z"
+    },
+    {
+      "id": "msg-782",
+      "ticketId": "PAY-192",
+      "customerId": "cust_19",
+      "sender": "customer",
+      "message": "That fixed it! Thank you so much for the quick help.",
+      "timestamp": "2026-12-06T20:46:56.459Z"
+    },
+    {
+      "id": "msg-783",
+      "ticketId": "DAS-193",
+      "customerId": "cust_20",
+      "sender": "customer",
+      "message": "The main analytics graph on our team dashboard keeps freezing after about 10 minutes of monitoring.",
+      "timestamp": "2026-12-07T15:55:56.459Z"
+    },
+    {
+      "id": "msg-784",
+      "ticketId": "DAS-193",
+      "customerId": "cust_20",
+      "sender": "ai",
+      "message": "This issue is caused by browser memory accumulation in WebGL rendering. Toggling hardware acceleration or refreshing the websocket stream will prevent the tab freeze.",
+      "timestamp": "2026-12-07T15:56:56.459Z"
+    },
+    {
+      "id": "msg-785",
+      "ticketId": "DAS-193",
+      "customerId": "cust_20",
+      "sender": "customer",
+      "message": "That fixed it! Thank you so much for the quick help.",
+      "timestamp": "2026-12-07T15:58:56.459Z"
+    },
+    {
+      "id": "msg-786",
+      "ticketId": "SSO-194",
+      "customerId": "cust_20",
+      "sender": "customer",
+      "message": "Our employees are getting an Okta SAML error saying invalid assertion signature.",
+      "timestamp": "2026-12-08T11:07:56.459Z"
+    },
+    {
+      "id": "msg-787",
+      "ticketId": "SSO-194",
+      "customerId": "cust_20",
+      "sender": "ai",
+      "message": "The SAML X.509 certificate on your Okta app configuration had expired. Please upload the newly generated certificate from your admin portal into the Security tab.",
+      "timestamp": "2026-12-08T11:08:56.459Z"
+    },
+    {
+      "id": "msg-788",
+      "ticketId": "SSO-194",
+      "customerId": "cust_20",
+      "sender": "customer",
+      "message": "That fixed it! Thank you so much for the quick help.",
+      "timestamp": "2026-12-08T11:10:56.459Z"
+    },
+    {
+      "id": "msg-789",
+      "ticketId": "ACC-195",
+      "customerId": "cust_20",
+      "sender": "customer",
+      "message": "Please explain how to configure our staging webhooks, but keep it strictly step-by-step.",
+      "timestamp": "2026-12-09T06:19:56.459Z"
+    },
+    {
+      "id": "msg-790",
+      "ticketId": "ACC-195",
+      "customerId": "cust_20",
+      "sender": "ai",
+      "message": "Understood! I will give you instructions one step at a time. Step 1: Open Settings > Webhooks > Add Endpoint.",
+      "timestamp": "2026-12-09T06:20:56.459Z"
+    },
+    {
+      "id": "msg-791",
+      "ticketId": "ACC-195",
+      "customerId": "cust_20",
+      "sender": "customer",
+      "message": "That fixed it! Thank you so much for the quick help.",
+      "timestamp": "2026-12-09T06:22:56.459Z"
+    },
+    {
+      "id": "msg-792",
+      "ticketId": "PAY-196",
+      "customerId": "cust_20",
+      "sender": "customer",
+      "message": "My payment is failing when I try to renew our subscription.",
+      "timestamp": "2026-12-10T01:31:56.459Z"
+    },
+    {
+      "id": "msg-793",
+      "ticketId": "PAY-196",
+      "customerId": "cust_20",
+      "sender": "ai",
+      "message": "I investigated the transaction log: error code indicates a billing address verification mismatch. Updating the billing address in your billing portal will resolve this immediately.",
+      "timestamp": "2026-12-10T01:32:56.459Z"
+    },
+    {
+      "id": "msg-794",
+      "ticketId": "PAY-196",
+      "customerId": "cust_20",
+      "sender": "customer",
+      "message": "That fixed it! Thank you so much for the quick help.",
+      "timestamp": "2026-12-10T01:34:56.459Z"
+    },
+    {
+      "id": "msg-795",
+      "ticketId": "LOG-197",
+      "customerId": "cust_20",
+      "sender": "customer",
+      "message": "My MFA codes are showing invalid even though I just entered the current number from Google Authenticator.",
+      "timestamp": "2026-12-10T20:43:56.459Z"
+    },
+    {
+      "id": "msg-796",
+      "ticketId": "LOG-197",
+      "customerId": "cust_20",
+      "sender": "ai",
+      "message": "This typically happens due to clock drift on the mobile device. In your Authenticator app, go to Settings -> Time correction for codes -> Sync now. That will synchronize the tokens.",
+      "timestamp": "2026-12-10T20:44:56.459Z"
+    },
+    {
+      "id": "msg-797",
+      "ticketId": "LOG-197",
+      "customerId": "cust_20",
+      "sender": "customer",
+      "message": "That fixed it! Thank you so much for the quick help.",
+      "timestamp": "2026-12-10T20:46:56.459Z"
+    },
+    {
+      "ticketId": "TICK-6513",
+      "customerId": "cust_1",
+      "sender": "customer",
+      "message": "My corporate Visa card is failing at checkout.",
+      "id": "msg-1790576396548-147",
+      "timestamp": "2026-09-28T06:19:56.548Z"
+    },
+    {
+      "ticketId": "TICK-6513",
+      "customerId": "cust_1",
+      "sender": "ai",
+      "message": "Hello Rahul Sharma, I see your payment is failing again.\n\nI found a previous PAY-104 payment issue that was resolved after correcting your billing address. I'll guide you through the same process step by step.\n\nStep 1: Please check if your corporate billing address in Billing Settings matches your bank statement.",
+      "recalledMemoriesUsed": [
+        {
+          "id": "mem_rahul_2",
+          "bankId": "customer_cust_1",
+          "content": "Payment issue was successfully resolved by updating the corporate billing address to 402 Lakeview Blvd to match the credit card issuing bank statement.",
+          "relevanceScore": 0.99,
+          "relevanceReason": "Previously verified resolution for this issue",
+          "type": "observation",
+          "category": "successful_solution",
+          "timestamp": "2026-03-10T14:46:00Z",
+          "metadata": {
+            "ticketId": "PAY-104",
+            "resolution": "billing_address_update"
+          }
+        },
+        {
+          "id": "mem_rahul_4",
+          "bankId": "customer_cust_1",
+          "content": "Customer environment: Uses macOS Sonoma with Chrome browser and corporate Visa card ending in 4092 authenticated via Okta SSO.",
+          "relevanceScore": 0.99,
+          "relevanceReason": "Matches customer OS, browser, or auth environment",
+          "type": "fact",
+          "category": "environment",
+          "timestamp": "2026-03-10T14:20:00Z",
+          "metadata": {
+            "environment": "macOS/Chrome/SSO"
+          }
+        },
+        {
+          "id": "mem_rahul_1",
+          "bankId": "customer_cust_1",
+          "content": "Customer previously experienced payment failure during invoice checkout due to an Address Verification System (AVS) mismatch.",
+          "relevanceScore": 0.7,
+          "relevanceReason": "Matches previously reported incident pattern",
+          "type": "experience",
+          "category": "repeated_issue",
+          "timestamp": "2026-03-10T14:46:00Z",
+          "metadata": {
+            "ticketId": "PAY-104",
+            "source": "ticket_resolution"
+          }
+        },
+        {
+          "id": "mem_rahul_3",
+          "bankId": "customer_cust_1",
+          "content": "Customer preference: Prefers step-by-step instructions presented one sequential action at a time without complex jargon.",
+          "type": "preference",
+          "category": "preference",
+          "relevanceScore": 0.92,
+          "timestamp": "2026-03-15T09:30:00Z",
+          "metadata": {
+            "ticketId": "PREF-201",
+            "preferenceType": "communication_style"
+          },
+          "relevanceReason": "Active customer communication preference"
+        }
+      ],
+      "memoryOperationStatus": "recalled",
+      "id": "msg-1790576396552-937",
+      "timestamp": "2026-09-28T06:19:56.552Z"
+    },
+    {
+      "ticketId": "TICK-6513",
+      "customerId": "cust_1",
+      "sender": "customer",
+      "message": "I updated our billing address to 402 Lakeview Blvd and the payment cleared!",
+      "id": "msg-1790576396598-720",
+      "timestamp": "2026-09-28T06:19:56.598Z"
+    },
+    {
+      "ticketId": "TICK-6513",
+      "customerId": "cust_1",
+      "sender": "ai",
+      "message": "Hello Rahul Sharma, I see your payment is failing again.\n\nI found a previous PAY-104 payment issue that was resolved after correcting your billing address. I'll guide you through the same process step by step.\n\nStep 1: Please check if your corporate billing address in Billing Settings matches your bank statement.",
+      "recalledMemoriesUsed": [
+        {
+          "id": "mem_rahul_2",
+          "bankId": "customer_cust_1",
+          "content": "Payment issue was successfully resolved by updating the corporate billing address to 402 Lakeview Blvd to match the credit card issuing bank statement.",
+          "relevanceScore": 0.99,
+          "relevanceReason": "Previously verified resolution for this issue",
+          "type": "observation",
+          "category": "successful_solution",
+          "timestamp": "2026-03-10T14:46:00Z",
+          "metadata": {
+            "ticketId": "PAY-104",
+            "resolution": "billing_address_update"
+          }
+        },
+        {
+          "id": "mem_rahul_1",
+          "bankId": "customer_cust_1",
+          "content": "Customer previously experienced payment failure during invoice checkout due to an Address Verification System (AVS) mismatch.",
+          "relevanceScore": 0.95,
+          "relevanceReason": "Matches previously reported incident pattern",
+          "type": "experience",
+          "category": "repeated_issue",
+          "timestamp": "2026-03-10T14:46:00Z",
+          "metadata": {
+            "ticketId": "PAY-104",
+            "source": "ticket_resolution"
+          }
+        },
+        {
+          "id": "mem_rahul_4",
+          "bankId": "customer_cust_1",
+          "content": "Customer environment: Uses macOS Sonoma with Chrome browser and corporate Visa card ending in 4092 authenticated via Okta SSO.",
+          "relevanceScore": 0.95,
+          "relevanceReason": "Matches customer OS, browser, or auth environment",
+          "type": "fact",
+          "category": "environment",
+          "timestamp": "2026-03-10T14:20:00Z",
+          "metadata": {
+            "environment": "macOS/Chrome/SSO"
+          }
+        },
+        {
+          "id": "mem_rahul_3",
+          "bankId": "customer_cust_1",
+          "content": "Customer preference: Prefers step-by-step instructions presented one sequential action at a time without complex jargon.",
+          "type": "preference",
+          "category": "preference",
+          "relevanceScore": 0.92,
+          "timestamp": "2026-03-15T09:30:00Z",
+          "metadata": {
+            "ticketId": "PREF-201",
+            "preferenceType": "communication_style"
+          },
+          "relevanceReason": "Active customer communication preference"
+        }
+      ],
+      "memoryOperationStatus": "recalled",
+      "id": "msg-1790576396600-876",
+      "timestamp": "2026-09-28T06:19:56.600Z"
+    },
+    {
+      "ticketId": "TICK-6657",
+      "customerId": "cust_1",
+      "sender": "customer",
+      "message": "My payment is failing again.",
+      "id": "msg-1790576396700-972",
+      "timestamp": "2026-09-28T06:19:56.700Z"
+    },
+    {
+      "ticketId": "TICK-6657",
+      "customerId": "cust_1",
+      "sender": "ai",
+      "message": "Hello Rahul Sharma, I see your payment is failing again.\n\nI found a previous PAY-104 payment issue that was resolved after correcting your billing address. I'll guide you through the same process step by step.\n\nStep 1: Please check if your corporate billing address in Billing Settings matches your bank statement.",
+      "recalledMemoriesUsed": [
+        {
+          "id": "mem_1790576396607_59uel",
+          "bankId": "customer_cust_1",
+          "content": "Payment issue was successfully resolved by updating billing address to match issuing bank statement records.",
+          "relevanceScore": 0.85,
+          "relevanceReason": "Previously verified resolution for this issue",
+          "type": "observation",
+          "category": "successful_solution",
+          "timestamp": "2026-09-28T06:19:56.607Z",
+          "metadata": {
+            "customerId": "cust_1",
+            "category": "successful_solution",
+            "ticketId": "TICK-6513",
+            "reason": "Payment failure successfully resolved by updating billing address.",
+            "retainedAt": "2026-09-28T06:19:56.607Z"
+          }
+        },
+        {
+          "id": "mem_rahul_2",
+          "bankId": "customer_cust_1",
+          "content": "Payment issue was successfully resolved by updating the corporate billing address to 402 Lakeview Blvd to match the credit card issuing bank statement.",
+          "relevanceScore": 0.85,
+          "relevanceReason": "Previously verified resolution for this issue",
+          "type": "observation",
+          "category": "successful_solution",
+          "timestamp": "2026-03-10T14:46:00Z",
+          "metadata": {
+            "ticketId": "PAY-104",
+            "resolution": "billing_address_update"
+          }
+        },
+        {
+          "id": "mem_1790576396641_h6uuc",
+          "bankId": "customer_cust_1",
+          "content": "Customer confirmed payment processed immediately after updating billing address to 402 Lakeview Blvd.",
+          "relevanceScore": 0.7,
+          "relevanceReason": "Contextually relevant to user issue",
+          "type": "observation",
+          "category": "context",
+          "timestamp": "2026-09-28T06:19:56.641Z",
+          "metadata": {
+            "customerId": "cust_1",
+            "ticketId": "TICK-6513",
+            "source": "verified_resolution",
+            "retainedAt": "2026-09-28T06:19:56.641Z"
+          }
+        },
+        {
+          "id": "mem_rahul_1",
+          "bankId": "customer_cust_1",
+          "content": "Customer previously experienced payment failure during invoice checkout due to an Address Verification System (AVS) mismatch.",
+          "relevanceScore": 0.7,
+          "relevanceReason": "Matches previously reported incident pattern",
+          "type": "experience",
+          "category": "repeated_issue",
+          "timestamp": "2026-03-10T14:46:00Z",
+          "metadata": {
+            "ticketId": "PAY-104",
+            "source": "ticket_resolution"
+          }
+        },
+        {
+          "id": "mem_rahul_4",
+          "bankId": "customer_cust_1",
+          "content": "Customer environment: Uses macOS Sonoma with Chrome browser and corporate Visa card ending in 4092 authenticated via Okta SSO.",
+          "relevanceScore": 0.45,
+          "relevanceReason": "Matches customer OS, browser, or auth environment",
+          "type": "fact",
+          "category": "environment",
+          "timestamp": "2026-03-10T14:20:00Z",
+          "metadata": {
+            "environment": "macOS/Chrome/SSO"
+          }
+        },
+        {
+          "id": "mem_rahul_3",
+          "bankId": "customer_cust_1",
+          "content": "Customer preference: Prefers step-by-step instructions presented one sequential action at a time without complex jargon.",
+          "type": "preference",
+          "category": "preference",
+          "relevanceScore": 0.92,
+          "timestamp": "2026-03-15T09:30:00Z",
+          "metadata": {
+            "ticketId": "PREF-201",
+            "preferenceType": "communication_style"
+          },
+          "relevanceReason": "Active customer communication preference"
+        }
+      ],
+      "memoryOperationStatus": "recalled",
+      "id": "msg-1790576396704-203",
+      "timestamp": "2026-09-28T06:19:56.704Z"
+    },
+    {
+      "ticketId": "TICK-6769",
+      "customerId": "cust_5",
+      "sender": "customer",
+      "message": "Hello, how do I configure user roles for our logistics team?",
+      "id": "msg-1790576396784-843",
+      "timestamp": "2026-09-28T06:19:56.784Z"
+    },
+    {
+      "ticketId": "TICK-6769",
+      "customerId": "cust_5",
+      "sender": "ai",
+      "message": "Hello Vikram Singh, thank you for reaching out to support. I'd be glad to help you with your inquiry regarding \"Hello, how do I configure user roles for our logistics team?\". Could you provide some additional context so I can assist you?",
+      "recalledMemoriesUsed": [],
+      "memoryOperationStatus": "no_memory",
+      "id": "msg-1790576396787-523",
+      "timestamp": "2026-09-28T06:19:56.787Z"
+    },
+    {
+      "ticketId": "TICK-6657",
+      "customerId": "cust_1",
+      "sender": "customer",
+      "message": "Can you tell me how role-based permissions work for auditor accounts?",
+      "id": "msg-1790576396859-592",
+      "timestamp": "2026-09-28T06:19:56.859Z"
+    },
+    {
+      "ticketId": "TICK-6657",
+      "customerId": "cust_1",
+      "sender": "ai",
+      "message": "Hello Rahul Sharma, thank you for reaching out. Based on your previous history with Apex FinTech and your saved preferences, I'm here to assist you with \"Can you tell me how role-based permissions work for auditor accounts?\". How can I best help you resolve this today?",
+      "recalledMemoriesUsed": [
+        {
+          "id": "mem_rahul_3",
+          "bankId": "customer_cust_1",
+          "content": "Customer preference: Prefers step-by-step instructions presented one sequential action at a time without complex jargon.",
+          "type": "preference",
+          "category": "preference",
+          "relevanceScore": 0.92,
+          "timestamp": "2026-03-15T09:30:00Z",
+          "metadata": {
+            "ticketId": "PREF-201",
+            "preferenceType": "communication_style"
+          },
+          "relevanceReason": "Active customer communication preference"
+        }
+      ],
+      "memoryOperationStatus": "recalled",
+      "id": "msg-1790576396863-684",
+      "timestamp": "2026-09-28T06:19:56.863Z"
+    },
+    {
+      "ticketId": "TICK-6895",
+      "customerId": "cust_14",
+      "sender": "customer",
+      "message": "What is the SLA for enterprise ticket responses?",
+      "id": "msg-1790576396927-886",
+      "timestamp": "2026-09-28T06:19:56.927Z"
+    },
+    {
+      "ticketId": "TICK-6895",
+      "customerId": "cust_14",
+      "sender": "ai",
+      "message": "Hello Pooja Iyer, thank you for reaching out to support. I'd be glad to help you with your inquiry regarding \"What is the SLA for enterprise ticket responses?\". Could you provide some additional context so I can assist you?",
+      "recalledMemoriesUsed": [],
+      "memoryOperationStatus": "no_memory",
+      "id": "msg-1790576396930-789",
+      "timestamp": "2026-09-28T06:19:56.930Z"
+    },
+    {
+      "ticketId": "TICK-6769",
+      "customerId": "cust_5",
+      "sender": "customer",
+      "message": "Hello, how do I configure user roles for our logistics team?",
+      "id": "msg-1790576473484-69",
+      "timestamp": "2026-09-28T06:21:13.484Z"
+    },
+    {
+      "ticketId": "TICK-6769",
+      "customerId": "cust_5",
+      "sender": "ai",
+      "message": "Hello Vikram Singh, thank you for reaching out to support. I'd be glad to help you with your inquiry regarding \"Hello, how do I configure user roles for our logistics team?\". Could you provide some additional context so I can assist you?",
+      "recalledMemoriesUsed": [],
+      "memoryOperationStatus": "no_memory",
+      "id": "msg-1790576473491-622",
+      "timestamp": "2026-09-28T06:21:13.491Z"
+    },
+    {
+      "ticketId": "TICK-6769",
+      "customerId": "cust_5",
+      "sender": "customer",
+      "message": "My payment is failing again.",
+      "id": "msg-1790576522391-260",
+      "timestamp": "2026-09-28T06:22:02.391Z"
+    },
+    {
+      "ticketId": "TICK-6769",
+      "customerId": "cust_5",
+      "sender": "ai",
+      "message": "Hello Vikram Singh, I looked into your payment attempt for Solaris Global Logistics.\n\nThe card processor returned an Address Verification System (AVS) mismatch error for your Corporate Mastercard ending in 7701. This happens when the billing address on your profile does not match the statement address at your issuing bank.\n\nPlease navigate to **Billing Settings > Payment Methods** and update your corporate billing address to match your bank statement. Updating the billing address will allow the payment to process successfully.",
+      "recalledMemoriesUsed": [],
+      "memoryOperationStatus": "no_memory",
+      "id": "msg-1790576522395-781",
+      "timestamp": "2026-09-28T06:22:02.395Z"
+    },
+    {
+      "ticketId": "PAY-104",
+      "customerId": "cust_1",
+      "sender": "customer",
+      "message": "My payment is failing again.",
+      "id": "msg-1790576624441-62",
+      "timestamp": "2026-09-28T06:23:44.441Z"
+    },
+    {
+      "ticketId": "PAY-104",
+      "customerId": "cust_1",
+      "sender": "ai",
+      "message": "Hello Rahul Sharma, I see your payment is failing again.\n\nI found a previous PAY-104 payment issue that was resolved after correcting your billing address. I'll guide you through the same process step by step.\n\nStep 1: Please check if your corporate billing address in Billing Settings matches your bank statement.",
+      "recalledMemoriesUsed": [
+        {
+          "id": "mem_1790576396607_59uel",
+          "bankId": "customer_cust_1",
+          "content": "Payment issue was successfully resolved by updating billing address to match issuing bank statement records.",
+          "relevanceScore": 0.85,
+          "relevanceReason": "Previously verified resolution for this issue",
+          "type": "observation",
+          "category": "successful_solution",
+          "timestamp": "2026-09-28T06:19:56.607Z",
+          "metadata": {
+            "customerId": "cust_1",
+            "category": "successful_solution",
+            "ticketId": "TICK-6513",
+            "reason": "Payment failure successfully resolved by updating billing address.",
+            "retainedAt": "2026-09-28T06:19:56.607Z"
+          }
+        },
+        {
+          "id": "mem_rahul_2",
+          "bankId": "customer_cust_1",
+          "content": "Payment issue was successfully resolved by updating the corporate billing address to 402 Lakeview Blvd to match the credit card issuing bank statement.",
+          "relevanceScore": 0.85,
+          "relevanceReason": "Previously verified resolution for this issue",
+          "type": "observation",
+          "category": "successful_solution",
+          "timestamp": "2026-03-10T14:46:00Z",
+          "metadata": {
+            "ticketId": "PAY-104",
+            "resolution": "billing_address_update"
+          }
+        },
+        {
+          "id": "mem_1790576396710_hnolc",
+          "bankId": "customer_cust_1",
+          "content": "Customer experienced recurring payment failure at checkout. Flagged for recurring billing address or AVS hold checks.",
+          "relevanceScore": 0.7,
+          "relevanceReason": "Matches previously reported incident pattern",
+          "type": "experience",
+          "category": "repeated_issue",
+          "timestamp": "2026-09-28T06:19:56.710Z",
+          "metadata": {
+            "customerId": "cust_1",
+            "category": "repeated_issue",
+            "ticketId": "TICK-6657",
+            "reason": "Customer reported recurring payment failure.",
+            "retainedAt": "2026-09-28T06:19:56.710Z"
+          }
+        },
+        {
+          "id": "mem_1790576396641_h6uuc",
+          "bankId": "customer_cust_1",
+          "content": "Customer confirmed payment processed immediately after updating billing address to 402 Lakeview Blvd.",
+          "relevanceScore": 0.7,
+          "relevanceReason": "Contextually relevant to user issue",
+          "type": "observation",
+          "category": "context",
+          "timestamp": "2026-09-28T06:19:56.641Z",
+          "metadata": {
+            "customerId": "cust_1",
+            "ticketId": "TICK-6513",
+            "source": "verified_resolution",
+            "retainedAt": "2026-09-28T06:19:56.641Z"
+          }
+        },
+        {
+          "id": "mem_rahul_1",
+          "bankId": "customer_cust_1",
+          "content": "Customer previously experienced payment failure during invoice checkout due to an Address Verification System (AVS) mismatch.",
+          "relevanceScore": 0.7,
+          "relevanceReason": "Matches previously reported incident pattern",
+          "type": "experience",
+          "category": "repeated_issue",
+          "timestamp": "2026-03-10T14:46:00Z",
+          "metadata": {
+            "ticketId": "PAY-104",
+            "source": "ticket_resolution"
+          }
+        },
+        {
+          "id": "mem_rahul_3",
+          "bankId": "customer_cust_1",
+          "content": "Customer preference: Prefers step-by-step instructions presented one sequential action at a time without complex jargon.",
+          "type": "preference",
+          "category": "preference",
+          "relevanceScore": 0.92,
+          "timestamp": "2026-03-15T09:30:00Z",
+          "metadata": {
+            "ticketId": "PREF-201",
+            "preferenceType": "communication_style"
+          },
+          "relevanceReason": "Active customer communication preference"
+        }
+      ],
+      "memoryOperationStatus": "recalled",
+      "id": "msg-1790576624446-444",
+      "timestamp": "2026-09-28T06:23:44.446Z"
+    },
+    {
+      "ticketId": "PAY-104",
+      "customerId": "cust_1",
+      "sender": "customer",
+      "message": "My payment is failing again.",
+      "id": "msg-1790576789481-146",
+      "timestamp": "2026-09-28T06:26:29.481Z"
+    },
+    {
+      "ticketId": "PAY-104",
+      "customerId": "cust_1",
+      "sender": "ai",
+      "message": "Hello Rahul Sharma, I see your payment is failing again.\n\nI found a previous PAY-104 payment issue that was resolved after correcting your billing address. I'll guide you through the same process step by step.\n\nStep 1: Please check if your corporate billing address in Billing Settings matches your bank statement.",
+      "recalledMemoriesUsed": [
+        {
+          "id": "mem_1790576396607_59uel",
+          "bankId": "customer_cust_1",
+          "content": "Payment issue was successfully resolved by updating billing address to match issuing bank statement records.",
+          "relevanceScore": 0.85,
+          "relevanceReason": "Previously verified resolution for this issue",
+          "type": "observation",
+          "category": "successful_solution",
+          "timestamp": "2026-09-28T06:19:56.607Z",
+          "metadata": {
+            "customerId": "cust_1",
+            "category": "successful_solution",
+            "ticketId": "TICK-6513",
+            "reason": "Payment failure successfully resolved by updating billing address.",
+            "retainedAt": "2026-09-28T06:19:56.607Z"
+          }
+        },
+        {
+          "id": "mem_rahul_2",
+          "bankId": "customer_cust_1",
+          "content": "Payment issue was successfully resolved by updating the corporate billing address to 402 Lakeview Blvd to match the credit card issuing bank statement.",
+          "relevanceScore": 0.85,
+          "relevanceReason": "Previously verified resolution for this issue",
+          "type": "observation",
+          "category": "successful_solution",
+          "timestamp": "2026-03-10T14:46:00Z",
+          "metadata": {
+            "ticketId": "PAY-104",
+            "resolution": "billing_address_update"
+          }
+        },
+        {
+          "id": "mem_1790576396710_hnolc",
+          "bankId": "customer_cust_1",
+          "content": "Customer experienced recurring payment failure at checkout. Flagged for recurring billing address or AVS hold checks.",
+          "relevanceScore": 0.7,
+          "relevanceReason": "Matches previously reported incident pattern",
+          "type": "experience",
+          "category": "repeated_issue",
+          "timestamp": "2026-09-28T06:23:44.459Z",
+          "metadata": {
+            "customerId": "cust_1",
+            "category": "repeated_issue",
+            "ticketId": "TICK-6657",
+            "reason": "Customer reported recurring payment failure.",
+            "retainedAt": "2026-09-28T06:19:56.710Z"
+          }
+        },
+        {
+          "id": "mem_1790576396641_h6uuc",
+          "bankId": "customer_cust_1",
+          "content": "Customer confirmed payment processed immediately after updating billing address to 402 Lakeview Blvd.",
+          "relevanceScore": 0.7,
+          "relevanceReason": "Contextually relevant to user issue",
+          "type": "observation",
+          "category": "context",
+          "timestamp": "2026-09-28T06:19:56.641Z",
+          "metadata": {
+            "customerId": "cust_1",
+            "ticketId": "TICK-6513",
+            "source": "verified_resolution",
+            "retainedAt": "2026-09-28T06:19:56.641Z"
+          }
+        },
+        {
+          "id": "mem_rahul_1",
+          "bankId": "customer_cust_1",
+          "content": "Customer previously experienced payment failure during invoice checkout due to an Address Verification System (AVS) mismatch.",
+          "relevanceScore": 0.7,
+          "relevanceReason": "Matches previously reported incident pattern",
+          "type": "experience",
+          "category": "repeated_issue",
+          "timestamp": "2026-03-10T14:46:00Z",
+          "metadata": {
+            "ticketId": "PAY-104",
+            "source": "ticket_resolution"
+          }
+        },
+        {
+          "id": "mem_rahul_3",
+          "bankId": "customer_cust_1",
+          "content": "Customer preference: Prefers step-by-step instructions presented one sequential action at a time without complex jargon.",
+          "type": "preference",
+          "category": "preference",
+          "relevanceScore": 0.92,
+          "timestamp": "2026-03-15T09:30:00Z",
+          "metadata": {
+            "ticketId": "PREF-201",
+            "preferenceType": "communication_style"
+          },
+          "relevanceReason": "Active customer communication preference"
+        }
+      ],
+      "memoryOperationStatus": "recalled",
+      "id": "msg-1790576789486-420",
+      "timestamp": "2026-09-28T06:26:29.486Z"
+    },
+    {
+      "ticketId": "TICK-6657",
+      "customerId": "cust_1",
+      "sender": "customer",
+      "message": "My payment is failing again.",
+      "id": "msg-1790598073390-425",
+      "timestamp": "2026-09-28T12:21:13.390Z"
+    },
+    {
+      "ticketId": "TICK-6657",
+      "customerId": "cust_1",
+      "sender": "ai",
+      "message": "Hello Rahul Sharma, I'm sorry to hear that your payment is failing.\n\nCould you provide more details about the error you're seeing?",
+      "recalledMemoriesUsed": [],
+      "memoryOperationStatus": "bypassed",
+      "id": "msg-1790598073396-990",
+      "timestamp": "2026-09-28T12:21:13.396Z"
+    },
+    {
+      "ticketId": "TICK-6657",
+      "customerId": "cust_1",
+      "sender": "customer",
+      "message": "My payment is failing again.",
+      "id": "msg-1790598075686-451",
+      "timestamp": "2026-09-28T12:21:15.686Z"
+    },
+    {
+      "ticketId": "TICK-6657",
+      "customerId": "cust_1",
+      "sender": "ai",
+      "message": "Hello Rahul Sharma, I see your payment is failing again.\n\nI found a previous PAY-104 payment issue that was resolved after correcting your billing address. I'll guide you through the same process step by step.\n\nStep 1: Please check if your corporate billing address in Billing Settings matches your bank statement.",
+      "recalledMemoriesUsed": [
+        {
+          "id": "mem_1790576396607_59uel",
+          "bankId": "customer_cust_1",
+          "content": "Payment issue was successfully resolved by updating billing address to match issuing bank statement records.",
+          "relevanceScore": 0.85,
+          "relevanceReason": "Previously verified resolution for this issue",
+          "type": "observation",
+          "category": "successful_solution",
+          "timestamp": "2026-09-28T06:19:56.607Z",
+          "metadata": {
+            "customerId": "cust_1",
+            "category": "successful_solution",
+            "ticketId": "TICK-6513",
+            "reason": "Payment failure successfully resolved by updating billing address.",
+            "retainedAt": "2026-09-28T06:19:56.607Z"
+          }
+        },
+        {
+          "id": "mem_rahul_2",
+          "bankId": "customer_cust_1",
+          "content": "Payment issue was successfully resolved by updating the corporate billing address to 402 Lakeview Blvd to match the credit card issuing bank statement.",
+          "relevanceScore": 0.85,
+          "relevanceReason": "Previously verified resolution for this issue",
+          "type": "observation",
+          "category": "successful_solution",
+          "timestamp": "2026-03-10T14:46:00Z",
+          "metadata": {
+            "ticketId": "PAY-104",
+            "resolution": "billing_address_update"
+          }
+        },
+        {
+          "id": "mem_1790576396710_hnolc",
+          "bankId": "customer_cust_1",
+          "content": "Customer experienced recurring payment failure at checkout. Flagged for recurring billing address or AVS hold checks.",
+          "relevanceScore": 0.7,
+          "relevanceReason": "Matches previously reported incident pattern",
+          "type": "experience",
+          "category": "repeated_issue",
+          "timestamp": "2026-09-28T06:26:29.496Z",
+          "metadata": {
+            "customerId": "cust_1",
+            "category": "repeated_issue",
+            "ticketId": "TICK-6657",
+            "reason": "Customer reported recurring payment failure.",
+            "retainedAt": "2026-09-28T06:19:56.710Z"
+          }
+        },
+        {
+          "id": "mem_1790576396641_h6uuc",
+          "bankId": "customer_cust_1",
+          "content": "Customer confirmed payment processed immediately after updating billing address to 402 Lakeview Blvd.",
+          "relevanceScore": 0.7,
+          "relevanceReason": "Contextually relevant to user issue",
+          "type": "observation",
+          "category": "context",
+          "timestamp": "2026-09-28T06:19:56.641Z",
+          "metadata": {
+            "customerId": "cust_1",
+            "ticketId": "TICK-6513",
+            "source": "verified_resolution",
+            "retainedAt": "2026-09-28T06:19:56.641Z"
+          }
+        },
+        {
+          "id": "mem_rahul_1",
+          "bankId": "customer_cust_1",
+          "content": "Customer previously experienced payment failure during invoice checkout due to an Address Verification System (AVS) mismatch.",
+          "relevanceScore": 0.7,
+          "relevanceReason": "Matches previously reported incident pattern",
+          "type": "experience",
+          "category": "repeated_issue",
+          "timestamp": "2026-03-10T14:46:00Z",
+          "metadata": {
+            "ticketId": "PAY-104",
+            "source": "ticket_resolution"
+          }
+        },
+        {
+          "id": "mem_rahul_3",
+          "bankId": "customer_cust_1",
+          "content": "Customer preference: Prefers step-by-step instructions presented one sequential action at a time without complex jargon.",
+          "type": "preference",
+          "category": "preference",
+          "relevanceScore": 0.92,
+          "timestamp": "2026-03-15T09:30:00Z",
+          "metadata": {
+            "ticketId": "PREF-201",
+            "preferenceType": "communication_style"
+          },
+          "relevanceReason": "Active customer communication preference"
+        }
+      ],
+      "memoryOperationStatus": "recalled",
+      "id": "msg-1790598075691-529",
+      "timestamp": "2026-09-28T12:21:15.691Z"
+    },
+    {
+      "ticketId": "TICK-6657",
+      "customerId": "cust_1",
+      "sender": "customer",
+      "message": "My payment is failing again.",
+      "id": "msg-1790598162883-47",
+      "timestamp": "2026-09-28T12:22:42.883Z"
+    },
+    {
+      "ticketId": "TICK-6657",
+      "customerId": "cust_1",
+      "sender": "ai",
+      "message": "Hello Rahul Sharma, I'm sorry to hear that your payment is failing.\n\nCould you provide more details about the error you're seeing?",
+      "recalledMemoriesUsed": [],
+      "memoryOperationStatus": "bypassed",
+      "id": "msg-1790598162889-942",
+      "timestamp": "2026-09-28T12:22:42.889Z"
+    },
+    {
+      "ticketId": "TICK-6657",
+      "customerId": "cust_1",
+      "sender": "customer",
+      "message": "My payment is failing again.",
+      "id": "msg-1790598165170-770",
+      "timestamp": "2026-09-28T12:22:45.170Z"
+    },
+    {
+      "ticketId": "TICK-6657",
+      "customerId": "cust_1",
+      "sender": "ai",
+      "message": "Hello Rahul Sharma, I see your payment is failing again.\n\nI found a previous PAY-104 payment issue that was resolved after correcting your billing address. I'll guide you through the same process step by step.\n\nStep 1: Please check if your corporate billing address in Billing Settings matches your bank statement.",
+      "recalledMemoriesUsed": [
+        {
+          "id": "mem_1790576396607_59uel",
+          "bankId": "customer_cust_1",
+          "content": "Payment issue was successfully resolved by updating billing address to match issuing bank statement records.",
+          "relevanceScore": 0.85,
+          "relevanceReason": "Previously verified resolution for this issue",
+          "type": "observation",
+          "category": "successful_solution",
+          "timestamp": "2026-09-28T06:19:56.607Z",
+          "metadata": {
+            "customerId": "cust_1",
+            "category": "successful_solution",
+            "ticketId": "TICK-6513",
+            "reason": "Payment failure successfully resolved by updating billing address.",
+            "retainedAt": "2026-09-28T06:19:56.607Z"
+          }
+        },
+        {
+          "id": "mem_rahul_2",
+          "bankId": "customer_cust_1",
+          "content": "Payment issue was successfully resolved by updating the corporate billing address to 402 Lakeview Blvd to match the credit card issuing bank statement.",
+          "relevanceScore": 0.85,
+          "relevanceReason": "Previously verified resolution for this issue",
+          "type": "observation",
+          "category": "successful_solution",
+          "timestamp": "2026-03-10T14:46:00Z",
+          "metadata": {
+            "ticketId": "PAY-104",
+            "resolution": "billing_address_update"
+          }
+        },
+        {
+          "id": "mem_1790576396710_hnolc",
+          "bankId": "customer_cust_1",
+          "content": "Customer experienced recurring payment failure at checkout. Flagged for recurring billing address or AVS hold checks.",
+          "relevanceScore": 0.7,
+          "relevanceReason": "Matches previously reported incident pattern",
+          "type": "experience",
+          "category": "repeated_issue",
+          "timestamp": "2026-09-28T12:21:15.703Z",
+          "metadata": {
+            "customerId": "cust_1",
+            "category": "repeated_issue",
+            "ticketId": "TICK-6657",
+            "reason": "Customer reported recurring payment failure.",
+            "retainedAt": "2026-09-28T06:19:56.710Z"
+          }
+        },
+        {
+          "id": "mem_1790576396641_h6uuc",
+          "bankId": "customer_cust_1",
+          "content": "Customer confirmed payment processed immediately after updating billing address to 402 Lakeview Blvd.",
+          "relevanceScore": 0.7,
+          "relevanceReason": "Contextually relevant to user issue",
+          "type": "observation",
+          "category": "context",
+          "timestamp": "2026-09-28T06:19:56.641Z",
+          "metadata": {
+            "customerId": "cust_1",
+            "ticketId": "TICK-6513",
+            "source": "verified_resolution",
+            "retainedAt": "2026-09-28T06:19:56.641Z"
+          }
+        },
+        {
+          "id": "mem_rahul_1",
+          "bankId": "customer_cust_1",
+          "content": "Customer previously experienced payment failure during invoice checkout due to an Address Verification System (AVS) mismatch.",
+          "relevanceScore": 0.7,
+          "relevanceReason": "Matches previously reported incident pattern",
+          "type": "experience",
+          "category": "repeated_issue",
+          "timestamp": "2026-03-10T14:46:00Z",
+          "metadata": {
+            "ticketId": "PAY-104",
+            "source": "ticket_resolution"
+          }
+        },
+        {
+          "id": "mem_rahul_3",
+          "bankId": "customer_cust_1",
+          "content": "Customer preference: Prefers step-by-step instructions presented one sequential action at a time without complex jargon.",
+          "type": "preference",
+          "category": "preference",
+          "relevanceScore": 0.92,
+          "timestamp": "2026-03-15T09:30:00Z",
+          "metadata": {
+            "ticketId": "PREF-201",
+            "preferenceType": "communication_style"
+          },
+          "relevanceReason": "Active customer communication preference"
+        }
+      ],
+      "memoryOperationStatus": "recalled",
+      "id": "msg-1790598165175-543",
+      "timestamp": "2026-09-28T12:22:45.175Z"
+    },
+    {
+      "ticketId": "TICK-6657",
+      "customerId": "cust_1",
+      "sender": "customer",
+      "message": "Please give me instructions one step at a time.",
+      "id": "msg-1790598380151-406",
+      "timestamp": "2026-09-28T12:26:20.151Z"
+    },
+    {
+      "ticketId": "TICK-6657",
+      "customerId": "cust_1",
+      "sender": "ai",
+      "message": "Understood, Rahul Sharma! I have noted your preference. From now on, I will always provide instructions one single step at a time, waiting for your confirmation before moving to the next one.\n\nHow can I help you today?",
+      "recalledMemoriesUsed": [
+        {
+          "id": "mem_rahul_3",
+          "bankId": "customer_cust_1",
+          "content": "Customer preference: Prefers step-by-step instructions presented one sequential action at a time without complex jargon.",
+          "relevanceScore": 0.99,
+          "relevanceReason": "Active customer communication preference",
+          "type": "preference",
+          "category": "preference",
+          "timestamp": "2026-03-15T09:30:00Z",
+          "metadata": {
+            "ticketId": "PREF-201",
+            "preferenceType": "communication_style"
+          }
+        }
+      ],
+      "memoryOperationStatus": "recalled",
+      "id": "msg-1790598380155-486",
+      "timestamp": "2026-09-28T12:26:20.155Z"
+    },
+    {
+      "ticketId": "TICK-6657",
+      "customerId": "cust_1",
+      "sender": "customer",
+      "message": "How do I upgrade my plan?",
+      "id": "msg-1790598383533-651",
+      "timestamp": "2026-09-28T12:26:23.533Z"
+    },
+    {
+      "ticketId": "TICK-6657",
+      "customerId": "cust_1",
+      "sender": "ai",
+      "message": "Hi Rahul Sharma! I'd be happy to guide you through upgrading your plan. As you prefer one step at a time:\n\n**Step 1:** Click on your avatar at the top right and select **Organization Settings**.\n\nLet me know once you're on that page, and I will guide you to Step 2!",
+      "recalledMemoriesUsed": [
+        {
+          "id": "mem_1790598380167_jbi4y",
+          "bankId": "customer_cust_1",
+          "content": "Customer prefers step-by-step instructions presented one sequential action at a time.",
+          "type": "preference",
+          "category": "preference",
+          "relevanceScore": 0.92,
+          "timestamp": "2026-09-28T12:26:20.167Z",
+          "metadata": {
+            "customerId": "cust_1",
+            "category": "preference",
+            "ticketId": "TICK-6657",
+            "reason": "Customer explicitly requested single step-by-step instruction pacing.",
+            "retainedAt": "2026-09-28T12:26:20.167Z"
+          },
+          "relevanceReason": "Active customer communication preference"
+        },
+        {
+          "id": "mem_rahul_3",
+          "bankId": "customer_cust_1",
+          "content": "Customer preference: Prefers step-by-step instructions presented one sequential action at a time without complex jargon.",
+          "type": "preference",
+          "category": "preference",
+          "relevanceScore": 0.92,
+          "timestamp": "2026-03-15T09:30:00Z",
+          "metadata": {
+            "ticketId": "PREF-201",
+            "preferenceType": "communication_style"
+          },
+          "relevanceReason": "Active customer communication preference"
+        }
+      ],
+      "memoryOperationStatus": "recalled",
+      "id": "msg-1790598383536-56",
+      "timestamp": "2026-09-28T12:26:23.536Z"
+    },
+    {
+      "ticketId": "LOG-106",
+      "customerId": "cust_2",
+      "sender": "customer",
+      "message": "Our team is getting an Okta SAML error saying invalid assertion signature.",
+      "id": "msg-1790598385787-329",
+      "timestamp": "2026-09-28T12:26:25.787Z"
+    },
+    {
+      "ticketId": "LOG-106",
+      "customerId": "cust_2",
+      "sender": "ai",
+      "message": "Hello Priya Mehta, thank you for reaching out to support. I'd be glad to help you with your inquiry regarding \"Our team is getting an Okta SAML error saying invalid assertion signature.\". Could you provide some additional context so I can assist you?",
+      "recalledMemoriesUsed": [],
+      "memoryOperationStatus": "no_memory",
+      "id": "msg-1790598385790-943",
+      "timestamp": "2026-09-28T12:26:25.790Z"
+    },
+    {
+      "ticketId": "LOG-106",
+      "customerId": "cust_2",
+      "sender": "customer",
+      "message": "Our team is getting an Okta SAML error saying invalid assertion signature.",
+      "id": "msg-1790598750800-243",
+      "timestamp": "2026-09-28T12:32:30.801Z"
+    },
+    {
+      "ticketId": "LOG-106",
+      "customerId": "cust_2",
+      "sender": "ai",
+      "message": "Hello Priya Mehta, thank you for reaching out to support. I'd be glad to help you with your inquiry regarding \"Our team is getting an Okta SAML error saying invalid assertion signature.\". Could you provide some additional context so I can assist you?",
+      "recalledMemoriesUsed": [],
+      "memoryOperationStatus": "no_memory",
+      "id": "msg-1790598750805-183",
+      "timestamp": "2026-09-28T12:32:30.805Z"
+    },
+    {
+      "ticketId": "TICK-6769",
+      "customerId": "cust_5",
+      "sender": "customer",
+      "message": "My payment is failing again.",
+      "id": "msg-1790598763869-671",
+      "timestamp": "2026-09-28T12:32:43.869Z"
+    },
+    {
+      "ticketId": "TICK-6769",
+      "customerId": "cust_5",
+      "sender": "ai",
+      "message": "Hello Vikram Singh, I see your payment is failing again.\n\nI found a previous PAY-104 payment issue that was resolved after correcting your billing address. I'll guide you through the same process step by step.",
+      "recalledMemoriesUsed": [
+        {
+          "id": "mem_1790576522406_8xha2",
+          "bankId": "customer_cust_5",
+          "content": "Customer experienced recurring payment failure at checkout. Flagged for recurring billing address or AVS hold checks.",
+          "relevanceScore": 0.7,
+          "relevanceReason": "Matches previously reported incident pattern",
+          "type": "experience",
+          "category": "repeated_issue",
+          "timestamp": "2026-09-28T06:22:02.406Z",
+          "metadata": {
+            "customerId": "cust_5",
+            "category": "repeated_issue",
+            "ticketId": "TICK-6769",
+            "reason": "Customer reported recurring payment failure.",
+            "retainedAt": "2026-09-28T06:22:02.406Z"
+          }
+        }
+      ],
+      "memoryOperationStatus": "recalled",
+      "id": "msg-1790598763874-619",
+      "timestamp": "2026-09-28T12:32:43.874Z"
+    },
+    {
+      "ticketId": "TICK-6769",
+      "customerId": "cust_5",
+      "sender": "customer",
+      "message": "I'm having trouble logging in.",
+      "id": "msg-1790598788940-889",
+      "timestamp": "2026-09-28T12:33:08.940Z"
+    },
+    {
+      "ticketId": "TICK-6769",
+      "customerId": "cust_5",
+      "sender": "ai",
+      "message": "Hello Vikram Singh, I'm sorry you're having trouble logging in. Could you tell me if you are seeing an invalid password notice or is your two-factor authentication failing?",
+      "recalledMemoriesUsed": [],
+      "memoryOperationStatus": "no_memory",
+      "id": "msg-1790598788943-407",
+      "timestamp": "2026-09-28T12:33:08.943Z"
+    },
+    {
+      "ticketId": "TICK-6769",
+      "customerId": "cust_5",
+      "sender": "customer",
+      "message": "Please give me instructions one step at a time.",
+      "id": "msg-1790598800952-666",
+      "timestamp": "2026-09-28T12:33:20.952Z"
+    },
+    {
+      "ticketId": "TICK-6769",
+      "customerId": "cust_5",
+      "sender": "ai",
+      "message": "Understood, Vikram Singh! I have noted your preference. From now on, I will always provide instructions one single step at a time, waiting for your confirmation before moving to the next one.\n\nHow can I help you today?",
+      "recalledMemoriesUsed": [],
+      "memoryOperationStatus": "no_memory",
+      "id": "msg-1790598800959-412",
+      "timestamp": "2026-09-28T12:33:20.959Z"
+    },
+    {
+      "ticketId": "TICK-6657",
+      "customerId": "cust_1",
+      "sender": "customer",
+      "message": "My payment is failing again.",
+      "id": "msg-1790598837159-340",
+      "timestamp": "2026-09-28T12:33:57.159Z"
+    },
+    {
+      "ticketId": "TICK-6657",
+      "customerId": "cust_1",
+      "sender": "ai",
+      "message": "Hello Rahul Sharma, I'm sorry to hear that your payment is failing.\n\nCould you provide more details about the error you're seeing?",
+      "recalledMemoriesUsed": [],
+      "memoryOperationStatus": "bypassed",
+      "id": "msg-1790598837166-199",
+      "timestamp": "2026-09-28T12:33:57.166Z"
+    },
+    {
+      "ticketId": "TICK-6657",
+      "customerId": "cust_1",
+      "sender": "customer",
+      "message": "My payment is failing again.",
+      "id": "msg-1790598839437-235",
+      "timestamp": "2026-09-28T12:33:59.437Z"
+    },
+    {
+      "ticketId": "TICK-6657",
+      "customerId": "cust_1",
+      "sender": "ai",
+      "message": "Hello Rahul Sharma, I see your payment is failing again.\n\nI found a previous PAY-104 payment issue that was resolved after correcting your billing address. I'll guide you through the same process step by step.\n\nStep 1: Please check if your corporate billing address in Billing Settings matches your bank statement.",
+      "recalledMemoriesUsed": [
+        {
+          "id": "mem_1790576396607_59uel",
+          "bankId": "customer_cust_1",
+          "content": "Payment issue was successfully resolved by updating billing address to match issuing bank statement records.",
+          "relevanceScore": 0.85,
+          "relevanceReason": "Previously verified resolution for this issue",
+          "type": "observation",
+          "category": "successful_solution",
+          "timestamp": "2026-09-28T06:19:56.607Z",
+          "metadata": {
+            "customerId": "cust_1",
+            "category": "successful_solution",
+            "ticketId": "TICK-6513",
+            "reason": "Payment failure successfully resolved by updating billing address.",
+            "retainedAt": "2026-09-28T06:19:56.607Z"
+          }
+        },
+        {
+          "id": "mem_rahul_2",
+          "bankId": "customer_cust_1",
+          "content": "Payment issue was successfully resolved by updating the corporate billing address to 402 Lakeview Blvd to match the credit card issuing bank statement.",
+          "relevanceScore": 0.85,
+          "relevanceReason": "Previously verified resolution for this issue",
+          "type": "observation",
+          "category": "successful_solution",
+          "timestamp": "2026-03-10T14:46:00Z",
+          "metadata": {
+            "ticketId": "PAY-104",
+            "resolution": "billing_address_update"
+          }
+        },
+        {
+          "id": "mem_1790576396710_hnolc",
+          "bankId": "customer_cust_1",
+          "content": "Customer experienced recurring payment failure at checkout. Flagged for recurring billing address or AVS hold checks.",
+          "relevanceScore": 0.7,
+          "relevanceReason": "Matches previously reported incident pattern",
+          "type": "experience",
+          "category": "repeated_issue",
+          "timestamp": "2026-09-28T12:22:45.194Z",
+          "metadata": {
+            "customerId": "cust_1",
+            "category": "repeated_issue",
+            "ticketId": "TICK-6657",
+            "reason": "Customer reported recurring payment failure.",
+            "retainedAt": "2026-09-28T06:19:56.710Z"
+          }
+        },
+        {
+          "id": "mem_1790576396641_h6uuc",
+          "bankId": "customer_cust_1",
+          "content": "Customer confirmed payment processed immediately after updating billing address to 402 Lakeview Blvd.",
+          "relevanceScore": 0.7,
+          "relevanceReason": "Contextually relevant to user issue",
+          "type": "observation",
+          "category": "context",
+          "timestamp": "2026-09-28T06:19:56.641Z",
+          "metadata": {
+            "customerId": "cust_1",
+            "ticketId": "TICK-6513",
+            "source": "verified_resolution",
+            "retainedAt": "2026-09-28T06:19:56.641Z"
+          }
+        },
+        {
+          "id": "mem_rahul_1",
+          "bankId": "customer_cust_1",
+          "content": "Customer previously experienced payment failure during invoice checkout due to an Address Verification System (AVS) mismatch.",
+          "relevanceScore": 0.7,
+          "relevanceReason": "Matches previously reported incident pattern",
+          "type": "experience",
+          "category": "repeated_issue",
+          "timestamp": "2026-03-10T14:46:00Z",
+          "metadata": {
+            "ticketId": "PAY-104",
+            "source": "ticket_resolution"
+          }
+        },
+        {
+          "id": "mem_1790598380167_jbi4y",
+          "bankId": "customer_cust_1",
+          "content": "Customer prefers step-by-step instructions presented one sequential action at a time.",
+          "type": "preference",
+          "category": "preference",
+          "relevanceScore": 0.92,
+          "timestamp": "2026-09-28T12:26:20.167Z",
+          "metadata": {
+            "customerId": "cust_1",
+            "category": "preference",
+            "ticketId": "TICK-6657",
+            "reason": "Customer explicitly requested single step-by-step instruction pacing.",
+            "retainedAt": "2026-09-28T12:26:20.167Z"
+          },
+          "relevanceReason": "Active customer communication preference"
+        },
+        {
+          "id": "mem_rahul_3",
+          "bankId": "customer_cust_1",
+          "content": "Customer preference: Prefers step-by-step instructions presented one sequential action at a time without complex jargon.",
+          "type": "preference",
+          "category": "preference",
+          "relevanceScore": 0.92,
+          "timestamp": "2026-03-15T09:30:00Z",
+          "metadata": {
+            "ticketId": "PREF-201",
+            "preferenceType": "communication_style"
+          },
+          "relevanceReason": "Active customer communication preference"
+        }
+      ],
+      "memoryOperationStatus": "recalled",
+      "id": "msg-1790598839441-555",
+      "timestamp": "2026-09-28T12:33:59.441Z"
+    },
+    {
+      "ticketId": "TICK-6657",
+      "customerId": "cust_1",
+      "sender": "customer",
+      "message": "My payment is failing again.",
+      "id": "msg-1790598858219-346",
+      "timestamp": "2026-09-28T12:34:18.219Z"
+    },
+    {
+      "ticketId": "TICK-6657",
+      "customerId": "cust_1",
+      "sender": "ai",
+      "message": "Hello Rahul Sharma, I'm sorry to hear that your payment is failing.\n\nCould you provide more details about the error you're seeing?",
+      "recalledMemoriesUsed": [],
+      "memoryOperationStatus": "bypassed",
+      "id": "msg-1790598858225-440",
+      "timestamp": "2026-09-28T12:34:18.225Z"
+    },
+    {
+      "ticketId": "TICK-6657",
+      "customerId": "cust_1",
+      "sender": "customer",
+      "message": "My payment is failing again.",
+      "id": "msg-1790598860477-670",
+      "timestamp": "2026-09-28T12:34:20.477Z"
+    },
+    {
+      "ticketId": "TICK-6657",
+      "customerId": "cust_1",
+      "sender": "ai",
+      "message": "Hello Rahul Sharma, I see your payment is failing again.\n\nI found a previous PAY-104 payment issue that was resolved after correcting your billing address. I'll guide you through the same process step by step.\n\nStep 1: Please check if your corporate billing address in Billing Settings matches your bank statement.",
+      "recalledMemoriesUsed": [
+        {
+          "id": "mem_1790576396607_59uel",
+          "bankId": "customer_cust_1",
+          "content": "Payment issue was successfully resolved by updating billing address to match issuing bank statement records.",
+          "relevanceScore": 0.85,
+          "relevanceReason": "Previously verified resolution for this issue",
+          "type": "observation",
+          "category": "successful_solution",
+          "timestamp": "2026-09-28T06:19:56.607Z",
+          "metadata": {
+            "customerId": "cust_1",
+            "category": "successful_solution",
+            "ticketId": "TICK-6513",
+            "reason": "Payment failure successfully resolved by updating billing address.",
+            "retainedAt": "2026-09-28T06:19:56.607Z"
+          }
+        },
+        {
+          "id": "mem_rahul_2",
+          "bankId": "customer_cust_1",
+          "content": "Payment issue was successfully resolved by updating the corporate billing address to 402 Lakeview Blvd to match the credit card issuing bank statement.",
+          "relevanceScore": 0.85,
+          "relevanceReason": "Previously verified resolution for this issue",
+          "type": "observation",
+          "category": "successful_solution",
+          "timestamp": "2026-03-10T14:46:00Z",
+          "metadata": {
+            "ticketId": "PAY-104",
+            "resolution": "billing_address_update"
+          }
+        },
+        {
+          "id": "mem_1790576396710_hnolc",
+          "bankId": "customer_cust_1",
+          "content": "Customer experienced recurring payment failure at checkout. Flagged for recurring billing address or AVS hold checks.",
+          "relevanceScore": 0.7,
+          "relevanceReason": "Matches previously reported incident pattern",
+          "type": "experience",
+          "category": "repeated_issue",
+          "timestamp": "2026-09-28T12:33:59.449Z",
+          "metadata": {
+            "customerId": "cust_1",
+            "category": "repeated_issue",
+            "ticketId": "TICK-6657",
+            "reason": "Customer reported recurring payment failure.",
+            "retainedAt": "2026-09-28T06:19:56.710Z"
+          }
+        },
+        {
+          "id": "mem_1790576396641_h6uuc",
+          "bankId": "customer_cust_1",
+          "content": "Customer confirmed payment processed immediately after updating billing address to 402 Lakeview Blvd.",
+          "relevanceScore": 0.7,
+          "relevanceReason": "Contextually relevant to user issue",
+          "type": "observation",
+          "category": "context",
+          "timestamp": "2026-09-28T06:19:56.641Z",
+          "metadata": {
+            "customerId": "cust_1",
+            "ticketId": "TICK-6513",
+            "source": "verified_resolution",
+            "retainedAt": "2026-09-28T06:19:56.641Z"
+          }
+        },
+        {
+          "id": "mem_rahul_1",
+          "bankId": "customer_cust_1",
+          "content": "Customer previously experienced payment failure during invoice checkout due to an Address Verification System (AVS) mismatch.",
+          "relevanceScore": 0.7,
+          "relevanceReason": "Matches previously reported incident pattern",
+          "type": "experience",
+          "category": "repeated_issue",
+          "timestamp": "2026-03-10T14:46:00Z",
+          "metadata": {
+            "ticketId": "PAY-104",
+            "source": "ticket_resolution"
+          }
+        },
+        {
+          "id": "mem_1790598380167_jbi4y",
+          "bankId": "customer_cust_1",
+          "content": "Customer prefers step-by-step instructions presented one sequential action at a time.",
+          "type": "preference",
+          "category": "preference",
+          "relevanceScore": 0.92,
+          "timestamp": "2026-09-28T12:26:20.167Z",
+          "metadata": {
+            "customerId": "cust_1",
+            "category": "preference",
+            "ticketId": "TICK-6657",
+            "reason": "Customer explicitly requested single step-by-step instruction pacing.",
+            "retainedAt": "2026-09-28T12:26:20.167Z"
+          },
+          "relevanceReason": "Active customer communication preference"
+        },
+        {
+          "id": "mem_rahul_3",
+          "bankId": "customer_cust_1",
+          "content": "Customer preference: Prefers step-by-step instructions presented one sequential action at a time without complex jargon.",
+          "type": "preference",
+          "category": "preference",
+          "relevanceScore": 0.92,
+          "timestamp": "2026-03-15T09:30:00Z",
+          "metadata": {
+            "ticketId": "PREF-201",
+            "preferenceType": "communication_style"
+          },
+          "relevanceReason": "Active customer communication preference"
+        }
+      ],
+      "memoryOperationStatus": "recalled",
+      "id": "msg-1790598860480-354",
+      "timestamp": "2026-09-28T12:34:20.480Z"
+    }
+  ]
+}

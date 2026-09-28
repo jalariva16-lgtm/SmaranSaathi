@@ -1,0 +1,248 @@
+{
+  "banks": {
+    "customer_cust_1": [
+      {
+        "id": "mem_1790598380167_jbi4y",
+        "bankId": "customer_cust_1",
+        "content": "Customer prefers step-by-step instructions presented one sequential action at a time.",
+        "type": "preference",
+        "category": "preference",
+        "relevanceScore": 1,
+        "timestamp": "2026-09-28T12:26:20.167Z",
+        "metadata": {
+          "customerId": "cust_1",
+          "category": "preference",
+          "ticketId": "TICK-6657",
+          "reason": "Customer explicitly requested single step-by-step instruction pacing.",
+          "retainedAt": "2026-09-28T12:26:20.167Z"
+        }
+      },
+      {
+        "id": "mem_1790576396710_hnolc",
+        "bankId": "customer_cust_1",
+        "content": "Customer experienced recurring payment failure at checkout. Flagged for recurring billing address or AVS hold checks.",
+        "type": "experience",
+        "category": "repeated_issue",
+        "relevanceScore": 1,
+        "timestamp": "2026-09-28T12:34:20.488Z",
+        "metadata": {
+          "customerId": "cust_1",
+          "category": "repeated_issue",
+          "ticketId": "TICK-6657",
+          "reason": "Customer reported recurring payment failure.",
+          "retainedAt": "2026-09-28T06:19:56.710Z"
+        }
+      },
+      {
+        "id": "mem_1790576396641_h6uuc",
+        "bankId": "customer_cust_1",
+        "content": "Customer confirmed payment processed immediately after updating billing address to 402 Lakeview Blvd.",
+        "type": "observation",
+        "category": "context",
+        "relevanceScore": 1,
+        "timestamp": "2026-09-28T06:19:56.641Z",
+        "metadata": {
+          "customerId": "cust_1",
+          "ticketId": "TICK-6513",
+          "source": "verified_resolution",
+          "retainedAt": "2026-09-28T06:19:56.641Z"
+        }
+      },
+      {
+        "id": "mem_1790576396607_59uel",
+        "bankId": "customer_cust_1",
+        "content": "Payment issue was successfully resolved by updating billing address to match issuing bank statement records.",
+        "type": "observation",
+        "category": "successful_solution",
+        "relevanceScore": 1,
+        "timestamp": "2026-09-28T06:19:56.607Z",
+        "metadata": {
+          "customerId": "cust_1",
+          "category": "successful_solution",
+          "ticketId": "TICK-6513",
+          "reason": "Payment failure successfully resolved by updating billing address.",
+          "retainedAt": "2026-09-28T06:19:56.607Z"
+        }
+      },
+      {
+        "id": "mem_rahul_1",
+        "bankId": "customer_cust_1",
+        "content": "Customer previously experienced payment failure during invoice checkout due to an Address Verification System (AVS) mismatch.",
+        "type": "experience",
+        "category": "repeated_issue",
+        "relevanceScore": 0.94,
+        "timestamp": "2026-03-10T14:46:00Z",
+        "metadata": {
+          "ticketId": "PAY-104",
+          "source": "ticket_resolution"
+        }
+      },
+      {
+        "id": "mem_rahul_2",
+        "bankId": "customer_cust_1",
+        "content": "Payment issue was successfully resolved by updating the corporate billing address to 402 Lakeview Blvd to match the credit card issuing bank statement.",
+        "type": "observation",
+        "category": "successful_solution",
+        "relevanceScore": 0.98,
+        "timestamp": "2026-03-10T14:46:00Z",
+        "metadata": {
+          "ticketId": "PAY-104",
+          "resolution": "billing_address_update"
+        }
+      },
+      {
+        "id": "mem_rahul_3",
+        "bankId": "customer_cust_1",
+        "content": "Customer preference: Prefers step-by-step instructions presented one sequential action at a time without complex jargon.",
+        "type": "preference",
+        "category": "preference",
+        "relevanceScore": 0.91,
+        "timestamp": "2026-03-15T09:30:00Z",
+        "metadata": {
+          "ticketId": "PREF-201",
+          "preferenceType": "communication_style"
+        }
+      },
+      {
+        "id": "mem_rahul_4",
+        "bankId": "customer_cust_1",
+        "content": "Customer environment: Uses macOS Sonoma with Chrome browser and corporate Visa card ending in 4092 authenticated via Okta SSO.",
+        "type": "fact",
+        "category": "environment",
+        "relevanceScore": 0.75,
+        "timestamp": "2026-03-10T14:20:00Z",
+        "metadata": {
+          "environment": "macOS/Chrome/SSO"
+        }
+      }
+    ],
+    "customer_cust_2": [
+      {
+        "id": "mem_priya_1",
+        "bankId": "customer_cust_2",
+        "content": "Customer environment: Windows 11 with Edge browser. Uses password login with Azure AD identity sync.",
+        "type": "fact",
+        "category": "environment",
+        "relevanceScore": 0.85,
+        "timestamp": "2026-02-10T11:00:00Z",
+        "metadata": {}
+      },
+      {
+        "id": "mem_priya_2",
+        "bankId": "customer_cust_2",
+        "content": "Customer had an MFA time-drift issue that was resolved by syncing the Authenticator app internal clock.",
+        "type": "observation",
+        "category": "successful_solution",
+        "relevanceScore": 0.92,
+        "timestamp": "2026-02-12T16:00:00Z",
+        "metadata": {
+          "ticketId": "LOG-102"
+        }
+      }
+    ],
+    "customer_cust_3": [
+      {
+        "id": "mem_arjun_1",
+        "bankId": "customer_cust_3",
+        "content": "Customer environment: Runs Ubuntu 24.04 and Firefox. High-frequency API user managing automated model deployments.",
+        "type": "fact",
+        "category": "environment",
+        "relevanceScore": 0.88,
+        "timestamp": "2026-01-20T10:00:00Z",
+        "metadata": {}
+      },
+      {
+        "id": "mem_arjun_2",
+        "bankId": "customer_cust_3",
+        "content": "Resolved CSV export timeouts by routing exports through asynchronous S3 worker queues.",
+        "type": "observation",
+        "category": "successful_solution",
+        "relevanceScore": 0.9,
+        "timestamp": "2026-02-01T15:20:00Z",
+        "metadata": {}
+      },
+      {
+        "id": "mem_arjun_3",
+        "bankId": "customer_cust_3",
+        "content": "Customer preference: Prefers concise command-line explanations and technical logs over long prose.",
+        "type": "preference",
+        "category": "preference",
+        "relevanceScore": 0.88,
+        "timestamp": "2026-01-25T11:00:00Z",
+        "metadata": {
+          "preferenceType": "format"
+        }
+      }
+    ],
+    "customer_cust_6": [
+      {
+        "id": "mem_sneha_1",
+        "bankId": "customer_cust_6",
+        "content": "Customer environment: macOS Sonoma 14.2 with Chrome 123.0. Enterprise SSO configured with Okta tenant.",
+        "type": "fact",
+        "category": "environment",
+        "relevanceScore": 0.82,
+        "timestamp": "2025-09-10T08:00:00Z",
+        "metadata": {}
+      },
+      {
+        "id": "mem_sneha_2",
+        "bankId": "customer_cust_6",
+        "content": "Okta SAML assertion signature validation failure resolved by regenerating X.509 signing certificate in admin portal.",
+        "type": "observation",
+        "category": "successful_solution",
+        "relevanceScore": 0.95,
+        "timestamp": "2026-02-15T14:30:00Z",
+        "metadata": {
+          "ticketId": "SSO-114"
+        }
+      },
+      {
+        "id": "mem_sneha_3",
+        "bankId": "customer_cust_6",
+        "content": "Customer preference: Requires formal security change logs and audit notes for all identity updates.",
+        "type": "preference",
+        "category": "preference",
+        "relevanceScore": 0.89,
+        "timestamp": "2026-02-15T15:00:00Z",
+        "metadata": {
+          "preferenceType": "compliance"
+        }
+      }
+    ],
+    "customer_cust_5": [
+      {
+        "id": "mem_1790598800976_hz9vv",
+        "bankId": "customer_cust_5",
+        "content": "Customer prefers step-by-step instructions presented one sequential action at a time.",
+        "type": "preference",
+        "category": "preference",
+        "relevanceScore": 1,
+        "timestamp": "2026-09-28T12:33:20.977Z",
+        "metadata": {
+          "customerId": "cust_5",
+          "category": "preference",
+          "ticketId": "TICK-6769",
+          "reason": "Customer explicitly requested single step-by-step instruction pacing.",
+          "retainedAt": "2026-09-28T12:33:20.977Z"
+        }
+      },
+      {
+        "id": "mem_1790576522406_8xha2",
+        "bankId": "customer_cust_5",
+        "content": "Customer experienced recurring payment failure at checkout. Flagged for recurring billing address or AVS hold checks.",
+        "type": "experience",
+        "category": "repeated_issue",
+        "relevanceScore": 1,
+        "timestamp": "2026-09-28T12:32:43.893Z",
+        "metadata": {
+          "customerId": "cust_5",
+          "category": "repeated_issue",
+          "ticketId": "TICK-6769",
+          "reason": "Customer reported recurring payment failure.",
+          "retainedAt": "2026-09-28T06:22:02.406Z"
+        }
+      }
+    ]
+  }
+}

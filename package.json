@@ -1,0 +1,21 @@
+{
+  "name": "smaransaathi",
+  "version": "1.0.0",
+  "description": "SmaranSaathi — AI Customer Support Agent with Persistent Hindsight Memory",
+  "scripts": {
+    "dev:backend": "npm --prefix backend run dev",
+    "dev:frontend": "npm --prefix frontend run dev",
+    "dev": "node run-all.js",
+    "build": "npm --prefix backend run build && npm --prefix frontend run build",
+    "hindsight:server": "npm --prefix backend run hindsight:server"
+  },
+  "keywords": [
+    "hindsight",
+    "persistent-memory",
+    "ai-support",
+    "groq",
+    "vectorize"
+  ],
+  "author": "",
+  "license": "MIT"
+}
